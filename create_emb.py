@@ -39,6 +39,6 @@ for q in qs:
     qt = q["question_text"]
     qte = get_embedding(qt)
     # q["question_text_embedding"] = qte
-    collection.update_one({"_id":q["_id"]}, {"$set":{"question_text_embedding":qte}})
+    collection.update_one({"_id":q["_id"]}, {"$set":{"embedding":qte}})
 
 #create index for vectors

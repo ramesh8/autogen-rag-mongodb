@@ -21,9 +21,9 @@ search_index_model = SearchIndexModel(
     "fields": [
       {
         "type": "vector",
-        "path": "question_text_embedding",
+        "path": "embedding",
         "numDimensions": 1536,
-        "similarity": "cosine",
+        "similarity": "dotProduct",
         "quantization": "scalar"
       }
     ]
