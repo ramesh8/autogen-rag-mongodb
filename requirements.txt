@@ -1,0 +1,11 @@
+pyautogen
+pymongo 
+mysql-connector-python
+sentence_transformers
+ipython
+markdownify 
+pypdf 
+chromadb
+python_dotenv
+ag2[openai]
+ag2[retrievechat]

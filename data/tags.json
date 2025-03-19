@@ -1,0 +1,10 @@
+{"tag_id":1,"tag_name":"Physics","parent_tag_id":1}
+{"tag_id":2,"tag_name":"Chemistry","parent_tag_id":1}
+{"tag_id":3,"tag_name":"Biology","parent_tag_id":1}
+{"tag_id":4,"tag_name":"Computer Science","parent_tag_id":2}
+{"tag_id":5,"tag_name":"Mathematics","parent_tag_id":1}
+{"tag_id":6,"tag_name":"Programming","parent_tag_id":2}
+{"tag_id":7,"tag_name":"Algorithms","parent_tag_id":2}
+{"tag_id":8,"tag_name":"Data Structures","parent_tag_id":2}
+{"tag_id":9,"tag_name":"Artificial Intelligence","parent_tag_id":2}
+{"tag_id":10,"tag_name":"Robotics","parent_tag_id":2}

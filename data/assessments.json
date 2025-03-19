@@ -1,0 +1,1000 @@
+[{"assessment_id":1,"user_id":500,"skill_id":4,"start_time":"2025-01-01 11:19:01","end_time":"2025-12-04 22:55:47","score":6.19,"status":"Completed"}
+{"assessment_id":2,"user_id":137,"skill_id":2,"start_time":"2025-01-18 07:18:24","end_time":"2025-07-13 19:26:33","score":7.6,"status":"In Progress"}
+{"assessment_id":3,"user_id":524,"skill_id":2,"start_time":"2025-01-25 12:50:10","end_time":"2025-08-04 02:45:18","score":0.62,"status":"In Progress"}
+{"assessment_id":4,"user_id":560,"skill_id":3,"start_time":"2025-01-25 12:06:53","end_time":"2025-06-20 15:55:47","score":4.68,"status":"Completed"}
+{"assessment_id":5,"user_id":865,"skill_id":1,"start_time":"2025-01-08 19:21:33","end_time":"2025-10-26 12:45:36","score":4.32,"status":"Completed"}
+{"assessment_id":6,"user_id":21,"skill_id":4,"start_time":"2025-01-29 02:17:16","end_time":"2025-04-28 08:48:24","score":7.7,"status":"Completed"}
+{"assessment_id":7,"user_id":857,"skill_id":4,"start_time":"2025-01-07 19:06:51","end_time":"2025-10-02 23:48:37","score":6.95,"status":"In Progress"}
+{"assessment_id":8,"user_id":869,"skill_id":3,"start_time":"2025-01-25 09:32:51","end_time":"2025-08-31 15:20:34","score":2.81,"status":"In Progress"}
+{"assessment_id":9,"user_id":717,"skill_id":1,"start_time":"2025-01-23 16:40:04","end_time":"2025-06-23 18:35:23","score":6.92,"status":"In Progress"}
+{"assessment_id":10,"user_id":110,"skill_id":1,"start_time":"2025-01-24 04:43:33","end_time":"2025-06-28 15:12:37","score":3.78,"status":"In Progress"}
+{"assessment_id":11,"user_id":858,"skill_id":4,"start_time":"2025-01-30 17:48:04","end_time":"2025-10-09 06:30:14","score":8.61,"status":"Completed"}
+{"assessment_id":12,"user_id":781,"skill_id":1,"start_time":"2025-01-20 03:29:10","end_time":"2025-12-03 00:51:59","score":2.63,"status":"In Progress"}
+{"assessment_id":13,"user_id":208,"skill_id":1,"start_time":"2025-01-10 08:28:48","end_time":"2025-12-19 11:07:15","score":6.92,"status":"In Progress"}
+{"assessment_id":14,"user_id":608,"skill_id":5,"start_time":"2025-01-04 19:11:12","end_time":"2025-04-27 01:07:37","score":1.78,"status":"In Progress"}
+{"assessment_id":15,"user_id":225,"skill_id":5,"start_time":"2025-01-17 13:34:25","end_time":"2025-03-22 06:29:07","score":9.97,"status":"In Progress"}
+{"assessment_id":16,"user_id":550,"skill_id":2,"start_time":"2025-01-10 05:56:14","end_time":"2025-07-11 15:16:16","score":3.53,"status":"In Progress"}
+{"assessment_id":17,"user_id":571,"skill_id":4,"start_time":"2025-01-09 08:18:44","end_time":"2025-05-08 19:08:19","score":8.82,"status":"In Progress"}
+{"assessment_id":18,"user_id":239,"skill_id":1,"start_time":"2025-01-28 09:05:54","end_time":"2025-05-03 08:11:42","score":6.1,"status":"In Progress"}
+{"assessment_id":19,"user_id":270,"skill_id":5,"start_time":"2025-01-25 00:33:44","end_time":"2025-04-26 02:49:04","score":3.84,"status":"In Progress"}
+{"assessment_id":20,"user_id":728,"skill_id":1,"start_time":"2025-01-24 06:12:15","end_time":"2025-10-03 01:36:17","score":0.29,"status":"In Progress"}
+{"assessment_id":21,"user_id":625,"skill_id":4,"start_time":"2025-01-14 07:38:57","end_time":"2025-08-17 13:29:31","score":1.61,"status":"In Progress"}
+{"assessment_id":22,"user_id":709,"skill_id":3,"start_time":"2025-01-21 20:18:33","end_time":"2025-02-13 00:45:16","score":4.59,"status":"Completed"}
+{"assessment_id":23,"user_id":651,"skill_id":4,"start_time":"2025-01-08 16:14:59","end_time":"2025-04-26 06:40:04","score":1.1,"status":"Completed"}
+{"assessment_id":24,"user_id":809,"skill_id":1,"start_time":"2025-01-05 01:16:54","end_time":"2025-02-01 05:54:59","score":1.16,"status":"Completed"}
+{"assessment_id":25,"user_id":122,"skill_id":4,"start_time":"2025-01-30 15:53:39","end_time":"2025-12-15 04:58:17","score":2.81,"status":"In Progress"}
+{"assessment_id":26,"user_id":219,"skill_id":5,"start_time":"2025-01-08 10:47:09","end_time":"2025-10-05 08:36:57","score":5.81,"status":"In Progress"}
+{"assessment_id":27,"user_id":441,"skill_id":5,"start_time":"2025-01-08 04:58:21","end_time":"2025-04-24 07:26:44","score":3.4,"status":"Completed"}
+{"assessment_id":28,"user_id":924,"skill_id":2,"start_time":"2025-01-22 11:40:30","end_time":"2025-02-04 13:14:44","score":4.03,"status":"In Progress"}
+{"assessment_id":29,"user_id":178,"skill_id":1,"start_time":"2025-01-01 20:15:59","end_time":"2025-03-22 07:02:59","score":9.53,"status":"Completed"}
+{"assessment_id":30,"user_id":448,"skill_id":1,"start_time":"2025-01-22 13:21:43","end_time":"2025-01-22 17:38:56","score":2.14,"status":"Completed"}
+{"assessment_id":31,"user_id":580,"skill_id":5,"start_time":"2025-01-05 23:58:24","end_time":"2025-08-25 01:58:20","score":5.74,"status":"Completed"}
+{"assessment_id":32,"user_id":134,"skill_id":5,"start_time":"2025-01-26 09:54:29","end_time":"2025-05-30 14:56:33","score":8.39,"status":"Completed"}
+{"assessment_id":33,"user_id":681,"skill_id":3,"start_time":"2025-01-23 00:28:09","end_time":"2025-02-18 09:34:50","score":3.41,"status":"In Progress"}
+{"assessment_id":34,"user_id":634,"skill_id":4,"start_time":"2025-01-10 07:59:47","end_time":"2025-06-24 05:44:35","score":4.62,"status":"In Progress"}
+{"assessment_id":35,"user_id":268,"skill_id":3,"start_time":"2025-01-04 12:48:34","end_time":"2025-06-16 13:57:51","score":0.47,"status":"In Progress"}
+{"assessment_id":36,"user_id":955,"skill_id":3,"start_time":"2025-01-11 21:18:03","end_time":"2025-07-25 00:54:21","score":2.62,"status":"Completed"}
+{"assessment_id":37,"user_id":209,"skill_id":4,"start_time":"2025-01-02 23:02:52","end_time":"2025-02-05 04:58:56","score":4.86,"status":"In Progress"}
+{"assessment_id":38,"user_id":349,"skill_id":5,"start_time":"2025-01-27 05:44:20","end_time":"2025-07-08 18:46:58","score":8.63,"status":"Completed"}
+{"assessment_id":39,"user_id":349,"skill_id":3,"start_time":"2025-01-11 14:15:14","end_time":"2025-01-17 17:42:43","score":0.02,"status":"In Progress"}
+{"assessment_id":40,"user_id":340,"skill_id":4,"start_time":"2025-01-14 10:15:17","end_time":"2025-03-07 19:00:04","score":2.96,"status":"Completed"}
+{"assessment_id":41,"user_id":162,"skill_id":1,"start_time":"2025-01-27 07:59:03","end_time":"2025-11-23 04:35:33","score":4.03,"status":"Completed"}
+{"assessment_id":42,"user_id":497,"skill_id":3,"start_time":"2025-01-19 21:39:18","end_time":"2025-12-24 22:02:28","score":9.12,"status":"Completed"}
+{"assessment_id":43,"user_id":322,"skill_id":4,"start_time":"2025-01-05 04:54:09","end_time":"2025-03-24 16:49:10","score":3.3,"status":"In Progress"}
+{"assessment_id":44,"user_id":95,"skill_id":4,"start_time":"2025-01-16 17:04:50","end_time":"2025-10-25 06:33:01","score":6.44,"status":"Completed"}
+{"assessment_id":45,"user_id":473,"skill_id":3,"start_time":"2025-01-04 02:29:16","end_time":"2025-02-11 18:47:03","score":0.96,"status":"Completed"}
+{"assessment_id":46,"user_id":398,"skill_id":4,"start_time":"2025-01-11 03:06:07","end_time":"2025-02-07 17:54:32","score":4.71,"status":"Completed"}
+{"assessment_id":47,"user_id":19,"skill_id":1,"start_time":"2025-01-13 16:36:19","end_time":"2025-09-30 19:32:34","score":5.69,"status":"Completed"}
+{"assessment_id":48,"user_id":787,"skill_id":3,"start_time":"2025-01-29 22:33:52","end_time":"2025-06-26 09:15:05","score":6.92,"status":"In Progress"}
+{"assessment_id":49,"user_id":880,"skill_id":3,"start_time":"2025-01-27 07:08:57","end_time":"2025-07-09 16:31:09","score":2.91,"status":"In Progress"}
+{"assessment_id":50,"user_id":482,"skill_id":5,"start_time":"2025-01-04 23:02:03","end_time":"2025-09-17 02:22:24","score":6.24,"status":"In Progress"}
+{"assessment_id":51,"user_id":942,"skill_id":5,"start_time":"2025-01-03 08:11:58","end_time":"2025-03-26 22:38:17","score":0.93,"status":"Completed"}
+{"assessment_id":52,"user_id":239,"skill_id":1,"start_time":"2025-01-19 09:28:01","end_time":"2025-08-10 05:42:00","score":1.84,"status":"Completed"}
+{"assessment_id":53,"user_id":3,"skill_id":4,"start_time":"2025-01-27 22:43:00","end_time":"2025-04-12 07:48:10","score":5.57,"status":"Completed"}
+{"assessment_id":54,"user_id":95,"skill_id":4,"start_time":"2025-01-30 00:53:56","end_time":"2025-02-14 09:08:39","score":4.0,"status":"In Progress"}
+{"assessment_id":55,"user_id":331,"skill_id":2,"start_time":"2025-01-01 04:43:43","end_time":"2025-05-04 21:07:37","score":2.73,"status":"In Progress"}
+{"assessment_id":56,"user_id":285,"skill_id":4,"start_time":"2025-01-03 23:47:23","end_time":"2025-05-20 18:48:47","score":3.41,"status":"In Progress"}
+{"assessment_id":57,"user_id":573,"skill_id":5,"start_time":"2025-01-16 18:08:20","end_time":"2025-09-23 09:43:10","score":7.92,"status":"In Progress"}
+{"assessment_id":58,"user_id":470,"skill_id":2,"start_time":"2025-01-22 23:44:25","end_time":"2025-10-15 10:32:19","score":9.39,"status":"In Progress"}
+{"assessment_id":59,"user_id":200,"skill_id":3,"start_time":"2025-01-16 12:29:08","end_time":"2025-02-07 21:07:03","score":9.59,"status":"In Progress"}
+{"assessment_id":60,"user_id":888,"skill_id":4,"start_time":"2025-01-17 10:48:08","end_time":"2025-08-26 07:23:17","score":8.72,"status":"Completed"}
+{"assessment_id":61,"user_id":980,"skill_id":4,"start_time":"2025-01-09 17:03:21","end_time":"2025-04-30 02:34:27","score":2.33,"status":"In Progress"}
+{"assessment_id":62,"user_id":414,"skill_id":4,"start_time":"2025-01-04 22:04:06","end_time":"2025-11-20 13:05:21","score":5.21,"status":"In Progress"}
+{"assessment_id":63,"user_id":585,"skill_id":2,"start_time":"2025-01-27 07:06:16","end_time":"2025-03-09 00:56:13","score":0.82,"status":"In Progress"}
+{"assessment_id":64,"user_id":673,"skill_id":4,"start_time":"2025-01-19 14:01:08","end_time":"2025-08-20 20:20:10","score":4.85,"status":"In Progress"}
+{"assessment_id":65,"user_id":554,"skill_id":3,"start_time":"2025-01-27 17:22:38","end_time":"2025-09-06 05:34:20","score":7.6,"status":"Completed"}
+{"assessment_id":66,"user_id":559,"skill_id":2,"start_time":"2025-01-30 13:51:43","end_time":"2025-07-14 17:08:27","score":1.88,"status":"Completed"}
+{"assessment_id":67,"user_id":812,"skill_id":5,"start_time":"2025-01-30 02:46:19","end_time":"2025-02-01 00:31:20","score":2.85,"status":"Completed"}
+{"assessment_id":68,"user_id":799,"skill_id":5,"start_time":"2025-01-12 08:19:53","end_time":"2025-03-21 02:49:28","score":9.84,"status":"Completed"}
+{"assessment_id":69,"user_id":905,"skill_id":5,"start_time":"2025-01-09 09:44:39","end_time":"2025-11-14 18:45:01","score":6.31,"status":"Completed"}
+{"assessment_id":70,"user_id":685,"skill_id":5,"start_time":"2025-01-12 20:58:07","end_time":"2025-07-03 00:16:59","score":8.44,"status":"In Progress"}
+{"assessment_id":71,"user_id":816,"skill_id":1,"start_time":"2025-01-02 03:33:16","end_time":"2025-07-06 13:59:48","score":9.52,"status":"Completed"}
+{"assessment_id":72,"user_id":663,"skill_id":2,"start_time":"2025-01-30 23:17:53","end_time":"2025-03-29 18:48:29","score":1.45,"status":"Completed"}
+{"assessment_id":73,"user_id":609,"skill_id":1,"start_time":"2025-01-21 22:50:39","end_time":"2025-12-24 20:33:13","score":8.58,"status":"Completed"}
+{"assessment_id":74,"user_id":413,"skill_id":2,"start_time":"2025-01-24 18:17:29","end_time":"2025-12-14 22:18:29","score":3.07,"status":"In Progress"}
+{"assessment_id":75,"user_id":113,"skill_id":2,"start_time":"2025-01-05 11:12:35","end_time":"2025-04-10 11:52:42","score":8.06,"status":"In Progress"}
+{"assessment_id":76,"user_id":817,"skill_id":3,"start_time":"2025-01-30 03:11:06","end_time":"2025-01-06 15:28:22","score":1.92,"status":"Completed"}
+{"assessment_id":77,"user_id":128,"skill_id":4,"start_time":"2025-01-03 07:44:36","end_time":"2025-11-18 21:23:48","score":9.44,"status":"In Progress"}
+{"assessment_id":78,"user_id":531,"skill_id":3,"start_time":"2025-01-05 17:51:00","end_time":"2025-08-07 23:24:34","score":5.31,"status":"Completed"}
+{"assessment_id":79,"user_id":898,"skill_id":3,"start_time":"2025-01-25 21:48:29","end_time":"2025-04-24 07:01:09","score":0.92,"status":"Completed"}
+{"assessment_id":80,"user_id":882,"skill_id":5,"start_time":"2025-01-20 06:54:56","end_time":"2025-08-06 18:08:17","score":9.07,"status":"In Progress"}
+{"assessment_id":81,"user_id":658,"skill_id":3,"start_time":"2025-01-23 10:30:18","end_time":"2025-02-28 15:36:50","score":1.77,"status":"Completed"}
+{"assessment_id":82,"user_id":162,"skill_id":1,"start_time":"2025-01-26 19:29:22","end_time":"2025-05-24 14:13:09","score":8.33,"status":"Completed"}
+{"assessment_id":83,"user_id":968,"skill_id":1,"start_time":"2025-01-25 13:09:24","end_time":"2025-03-07 15:46:06","score":0.86,"status":"Completed"}
+{"assessment_id":84,"user_id":947,"skill_id":1,"start_time":"2025-01-25 15:22:03","end_time":"2025-04-14 09:57:09","score":2.39,"status":"In Progress"}
+{"assessment_id":85,"user_id":733,"skill_id":5,"start_time":"2025-01-21 11:06:22","end_time":"2025-04-27 00:07:53","score":8.4,"status":"Completed"}
+{"assessment_id":86,"user_id":949,"skill_id":1,"start_time":"2025-01-13 13:42:51","end_time":"2025-12-03 02:10:13","score":4.96,"status":"In Progress"}
+{"assessment_id":87,"user_id":993,"skill_id":4,"start_time":"2025-01-25 03:01:31","end_time":"2025-06-18 07:59:41","score":7.33,"status":"In Progress"}
+{"assessment_id":88,"user_id":538,"skill_id":1,"start_time":"2025-01-03 00:59:06","end_time":"2025-07-07 04:54:49","score":8.88,"status":"Completed"}
+{"assessment_id":89,"user_id":151,"skill_id":5,"start_time":"2025-01-20 21:24:04","end_time":"2025-11-26 19:35:23","score":3.84,"status":"Completed"}
+{"assessment_id":90,"user_id":293,"skill_id":4,"start_time":"2025-01-30 15:16:56","end_time":"2025-12-21 08:25:58","score":9.45,"status":"Completed"}
+{"assessment_id":91,"user_id":852,"skill_id":1,"start_time":"2025-01-28 14:31:08","end_time":"2025-01-21 11:17:58","score":9.51,"status":"Completed"}
+{"assessment_id":92,"user_id":289,"skill_id":4,"start_time":"2025-01-02 14:48:56","end_time":"2025-04-27 23:13:24","score":8.38,"status":"In Progress"}
+{"assessment_id":93,"user_id":300,"skill_id":1,"start_time":"2025-01-29 06:37:57","end_time":"2025-02-07 15:06:54","score":4.88,"status":"In Progress"}
+{"assessment_id":94,"user_id":925,"skill_id":5,"start_time":"2025-01-03 05:16:43","end_time":"2025-03-03 07:55:32","score":7.35,"status":"Completed"}
+{"assessment_id":95,"user_id":897,"skill_id":4,"start_time":"2025-01-18 17:32:43","end_time":"2025-05-22 20:25:55","score":1.35,"status":"In Progress"}
+{"assessment_id":96,"user_id":440,"skill_id":5,"start_time":"2025-01-27 11:17:49","end_time":"2025-01-19 00:04:19","score":3.46,"status":"Completed"}
+{"assessment_id":97,"user_id":194,"skill_id":2,"start_time":"2025-01-24 22:54:00","end_time":"2025-11-02 02:22:33","score":0.09,"status":"Completed"}
+{"assessment_id":98,"user_id":207,"skill_id":1,"start_time":"2025-01-25 07:52:34","end_time":"2025-09-22 03:59:16","score":3.41,"status":"In Progress"}
+{"assessment_id":99,"user_id":215,"skill_id":3,"start_time":"2025-01-11 04:33:10","end_time":"2025-05-17 18:35:05","score":3.99,"status":"Completed"}
+{"assessment_id":100,"user_id":40,"skill_id":3,"start_time":"2025-01-01 19:46:55","end_time":"2025-09-13 04:09:40","score":8.88,"status":"In Progress"}
+{"assessment_id":101,"user_id":463,"skill_id":4,"start_time":"2025-01-16 22:17:56","end_time":"2025-10-26 17:44:18","score":8.21,"status":"In Progress"}
+{"assessment_id":102,"user_id":682,"skill_id":4,"start_time":"2025-01-24 05:34:29","end_time":"2025-08-19 02:23:11","score":1.6,"status":"In Progress"}
+{"assessment_id":103,"user_id":153,"skill_id":2,"start_time":"2025-01-24 20:20:35","end_time":"2025-07-21 02:03:36","score":6.37,"status":"Completed"}
+{"assessment_id":104,"user_id":573,"skill_id":2,"start_time":"2025-01-17 00:06:33","end_time":"2025-03-16 01:33:27","score":4.06,"status":"In Progress"}
+{"assessment_id":105,"user_id":953,"skill_id":4,"start_time":"2025-01-08 21:36:30","end_time":"2025-11-01 06:16:48","score":2.75,"status":"Completed"}
+{"assessment_id":106,"user_id":158,"skill_id":5,"start_time":"2025-01-24 18:18:58","end_time":"2025-12-06 08:23:02","score":4.73,"status":"Completed"}
+{"assessment_id":107,"user_id":456,"skill_id":1,"start_time":"2025-01-20 14:07:04","end_time":"2025-02-17 22:47:14","score":8.26,"status":"Completed"}
+{"assessment_id":108,"user_id":71,"skill_id":5,"start_time":"2025-01-15 19:34:30","end_time":"2025-01-19 17:19:22","score":0.04,"status":"In Progress"}
+{"assessment_id":109,"user_id":901,"skill_id":4,"start_time":"2025-01-14 21:57:06","end_time":"2025-02-02 19:40:00","score":7.33,"status":"In Progress"}
+{"assessment_id":110,"user_id":98,"skill_id":3,"start_time":"2025-01-10 07:12:09","end_time":"2025-01-14 14:03:41","score":6.7,"status":"Completed"}
+{"assessment_id":111,"user_id":773,"skill_id":5,"start_time":"2025-01-18 14:43:00","end_time":"2025-09-02 07:38:19","score":1.24,"status":"In Progress"}
+{"assessment_id":112,"user_id":251,"skill_id":1,"start_time":"2025-01-02 06:07:47","end_time":"2025-05-13 11:05:25","score":8.33,"status":"In Progress"}
+{"assessment_id":113,"user_id":790,"skill_id":3,"start_time":"2025-01-11 23:05:33","end_time":"2025-08-22 03:15:48","score":6.01,"status":"Completed"}
+{"assessment_id":114,"user_id":232,"skill_id":2,"start_time":"2025-01-03 06:53:43","end_time":"2025-05-26 23:07:50","score":2.44,"status":"Completed"}
+{"assessment_id":115,"user_id":505,"skill_id":4,"start_time":"2025-01-30 22:58:59","end_time":"2025-09-29 00:16:08","score":4.46,"status":"In Progress"}
+{"assessment_id":116,"user_id":895,"skill_id":2,"start_time":"2025-01-08 00:09:18","end_time":"2025-10-05 15:03:31","score":0.28,"status":"In Progress"}
+{"assessment_id":117,"user_id":881,"skill_id":5,"start_time":"2025-01-09 19:16:36","end_time":"2025-04-15 00:26:42","score":6.59,"status":"In Progress"}
+{"assessment_id":118,"user_id":499,"skill_id":5,"start_time":"2025-01-15 07:51:56","end_time":"2025-04-03 20:14:12","score":0.19,"status":"Completed"}
+{"assessment_id":119,"user_id":940,"skill_id":4,"start_time":"2025-01-15 13:07:18","end_time":"2025-01-15 02:34:32","score":5.17,"status":"Completed"}
+{"assessment_id":120,"user_id":881,"skill_id":1,"start_time":"2025-01-16 08:11:35","end_time":"2025-05-05 08:46:32","score":1.63,"status":"In Progress"}
+{"assessment_id":121,"user_id":886,"skill_id":5,"start_time":"2025-01-21 09:21:25","end_time":"2025-05-20 18:52:38","score":7.13,"status":"In Progress"}
+{"assessment_id":122,"user_id":901,"skill_id":1,"start_time":"2025-01-11 19:19:51","end_time":"2025-09-27 22:46:10","score":6.64,"status":"Completed"}
+{"assessment_id":123,"user_id":143,"skill_id":2,"start_time":"2025-01-30 16:54:28","end_time":"2025-08-03 13:46:36","score":8.12,"status":"In Progress"}
+{"assessment_id":124,"user_id":823,"skill_id":3,"start_time":"2025-01-28 07:34:46","end_time":"2025-05-11 01:05:38","score":9.67,"status":"In Progress"}
+{"assessment_id":125,"user_id":139,"skill_id":3,"start_time":"2025-01-05 19:02:21","end_time":"2025-07-01 06:44:31","score":6.92,"status":"Completed"}
+{"assessment_id":126,"user_id":453,"skill_id":5,"start_time":"2025-01-03 16:08:00","end_time":"2025-09-02 15:09:07","score":7.05,"status":"In Progress"}
+{"assessment_id":127,"user_id":212,"skill_id":1,"start_time":"2025-01-24 12:48:51","end_time":"2025-08-18 04:08:02","score":5.39,"status":"Completed"}
+{"assessment_id":128,"user_id":938,"skill_id":5,"start_time":"2025-01-21 23:07:11","end_time":"2025-05-04 19:23:10","score":0.03,"status":"Completed"}
+{"assessment_id":129,"user_id":575,"skill_id":3,"start_time":"2025-01-10 23:06:55","end_time":"2025-04-07 04:04:44","score":6.16,"status":"Completed"}
+{"assessment_id":130,"user_id":367,"skill_id":5,"start_time":"2025-01-16 23:18:10","end_time":"2025-10-23 06:38:40","score":5.23,"status":"In Progress"}
+{"assessment_id":131,"user_id":253,"skill_id":4,"start_time":"2025-01-03 09:28:54","end_time":"2025-08-31 08:26:19","score":6.26,"status":"Completed"}
+{"assessment_id":132,"user_id":458,"skill_id":4,"start_time":"2025-01-07 18:43:12","end_time":"2025-01-05 19:48:47","score":3.64,"status":"In Progress"}
+{"assessment_id":133,"user_id":929,"skill_id":5,"start_time":"2025-01-11 14:37:43","end_time":"2025-04-25 07:59:26","score":8.86,"status":"Completed"}
+{"assessment_id":134,"user_id":260,"skill_id":5,"start_time":"2025-01-01 23:39:55","end_time":"2025-09-14 16:56:30","score":3.38,"status":"In Progress"}
+{"assessment_id":135,"user_id":831,"skill_id":3,"start_time":"2025-01-24 11:26:03","end_time":"2025-09-14 13:19:55","score":9.5,"status":"In Progress"}
+{"assessment_id":136,"user_id":264,"skill_id":4,"start_time":"2025-01-27 10:29:28","end_time":"2025-07-19 06:37:59","score":5.38,"status":"Completed"}
+{"assessment_id":137,"user_id":582,"skill_id":5,"start_time":"2025-01-01 12:26:59","end_time":"2025-12-21 10:31:32","score":5.36,"status":"In Progress"}
+{"assessment_id":138,"user_id":775,"skill_id":5,"start_time":"2025-01-13 05:06:38","end_time":"2025-01-03 14:33:09","score":6.27,"status":"Completed"}
+{"assessment_id":139,"user_id":185,"skill_id":4,"start_time":"2025-01-04 07:58:18","end_time":"2025-11-01 08:32:03","score":9.81,"status":"Completed"}
+{"assessment_id":140,"user_id":398,"skill_id":5,"start_time":"2025-01-03 19:05:22","end_time":"2025-07-02 15:55:14","score":5.24,"status":"Completed"}
+{"assessment_id":141,"user_id":663,"skill_id":4,"start_time":"2025-01-27 13:30:57","end_time":"2025-04-26 08:26:53","score":8.92,"status":"In Progress"}
+{"assessment_id":142,"user_id":231,"skill_id":5,"start_time":"2025-01-22 12:36:14","end_time":"2025-01-03 09:29:40","score":8.85,"status":"Completed"}
+{"assessment_id":143,"user_id":506,"skill_id":1,"start_time":"2025-01-04 12:46:49","end_time":"2025-06-01 00:41:40","score":1.58,"status":"Completed"}
+{"assessment_id":144,"user_id":531,"skill_id":4,"start_time":"2025-01-07 03:36:17","end_time":"2025-10-20 17:49:38","score":4.05,"status":"In Progress"}
+{"assessment_id":145,"user_id":901,"skill_id":4,"start_time":"2025-01-20 20:47:44","end_time":"2025-01-31 15:45:03","score":8.35,"status":"In Progress"}
+{"assessment_id":146,"user_id":765,"skill_id":1,"start_time":"2025-01-14 11:05:06","end_time":"2025-10-27 01:32:52","score":8.39,"status":"Completed"}
+{"assessment_id":147,"user_id":153,"skill_id":3,"start_time":"2025-01-06 21:09:07","end_time":"2025-10-24 14:30:44","score":4.43,"status":"In Progress"}
+{"assessment_id":148,"user_id":404,"skill_id":4,"start_time":"2025-01-27 21:29:50","end_time":"2025-02-05 08:10:56","score":8.33,"status":"In Progress"}
+{"assessment_id":149,"user_id":775,"skill_id":5,"start_time":"2025-01-03 08:39:02","end_time":"2025-03-08 20:06:26","score":8.37,"status":"In Progress"}
+{"assessment_id":150,"user_id":287,"skill_id":2,"start_time":"2025-01-05 04:17:47","end_time":"2025-03-31 00:59:34","score":3.22,"status":"Completed"}
+{"assessment_id":151,"user_id":339,"skill_id":3,"start_time":"2025-01-04 21:09:01","end_time":"2025-03-24 22:40:54","score":5.63,"status":"Completed"}
+{"assessment_id":152,"user_id":908,"skill_id":4,"start_time":"2025-01-26 12:57:32","end_time":"2025-02-05 02:19:09","score":4.97,"status":"Completed"}
+{"assessment_id":153,"user_id":286,"skill_id":5,"start_time":"2025-01-05 08:04:51","end_time":"2025-08-28 14:36:56","score":8.39,"status":"In Progress"}
+{"assessment_id":154,"user_id":173,"skill_id":4,"start_time":"2025-01-07 14:17:58","end_time":"2025-04-22 16:12:18","score":6.47,"status":"Completed"}
+{"assessment_id":155,"user_id":88,"skill_id":1,"start_time":"2025-01-24 12:21:06","end_time":"2025-10-24 23:07:54","score":3.14,"status":"In Progress"}
+{"assessment_id":156,"user_id":537,"skill_id":3,"start_time":"2025-01-16 23:35:46","end_time":"2025-01-06 11:06:25","score":2.54,"status":"In Progress"}
+{"assessment_id":157,"user_id":378,"skill_id":5,"start_time":"2025-01-06 20:21:11","end_time":"2025-01-29 00:12:08","score":1.03,"status":"Completed"}
+{"assessment_id":158,"user_id":364,"skill_id":3,"start_time":"2025-01-06 19:54:20","end_time":"2025-05-27 23:12:31","score":6.04,"status":"In Progress"}
+{"assessment_id":159,"user_id":624,"skill_id":2,"start_time":"2025-01-27 03:48:46","end_time":"2025-07-16 03:45:27","score":5.41,"status":"In Progress"}
+{"assessment_id":160,"user_id":890,"skill_id":1,"start_time":"2025-01-05 07:30:49","end_time":"2025-04-10 23:51:27","score":3.18,"status":"Completed"}
+{"assessment_id":161,"user_id":709,"skill_id":1,"start_time":"2025-01-18 10:24:12","end_time":"2025-05-21 21:38:31","score":8.77,"status":"Completed"}
+{"assessment_id":162,"user_id":463,"skill_id":2,"start_time":"2025-01-19 18:30:00","end_time":"2025-10-18 06:21:57","score":1.29,"status":"Completed"}
+{"assessment_id":163,"user_id":84,"skill_id":1,"start_time":"2025-01-30 02:20:58","end_time":"2025-03-14 06:58:11","score":5.74,"status":"In Progress"}
+{"assessment_id":164,"user_id":839,"skill_id":1,"start_time":"2025-01-08 18:28:05","end_time":"2025-02-17 17:57:40","score":0.49,"status":"In Progress"}
+{"assessment_id":165,"user_id":113,"skill_id":4,"start_time":"2025-01-18 16:58:42","end_time":"2025-12-19 14:07:04","score":6.88,"status":"In Progress"}
+{"assessment_id":166,"user_id":4,"skill_id":1,"start_time":"2025-01-07 01:56:18","end_time":"2025-03-10 00:05:09","score":1.91,"status":"Completed"}
+{"assessment_id":167,"user_id":645,"skill_id":1,"start_time":"2025-01-03 08:23:16","end_time":"2025-12-04 15:03:37","score":9.61,"status":"Completed"}
+{"assessment_id":168,"user_id":335,"skill_id":2,"start_time":"2025-01-16 15:57:47","end_time":"2025-10-20 04:13:10","score":0.92,"status":"Completed"}
+{"assessment_id":169,"user_id":50,"skill_id":5,"start_time":"2025-01-29 19:09:49","end_time":"2025-06-02 00:48:08","score":3.47,"status":"Completed"}
+{"assessment_id":170,"user_id":863,"skill_id":4,"start_time":"2025-01-27 07:05:38","end_time":"2025-05-22 11:12:26","score":5.7,"status":"Completed"}
+{"assessment_id":171,"user_id":427,"skill_id":4,"start_time":"2025-01-06 00:03:38","end_time":"2025-06-23 02:39:49","score":7.54,"status":"Completed"}
+{"assessment_id":172,"user_id":54,"skill_id":5,"start_time":"2025-01-19 21:04:54","end_time":"2025-05-15 11:12:58","score":2.53,"status":"Completed"}
+{"assessment_id":173,"user_id":77,"skill_id":5,"start_time":"2025-01-23 00:40:09","end_time":"2025-01-08 08:47:24","score":5.35,"status":"Completed"}
+{"assessment_id":174,"user_id":579,"skill_id":4,"start_time":"2025-01-02 04:25:17","end_time":"2025-07-27 05:15:42","score":0.78,"status":"Completed"}
+{"assessment_id":175,"user_id":765,"skill_id":2,"start_time":"2025-01-19 08:24:06","end_time":"2025-01-27 03:03:44","score":4.22,"status":"In Progress"}
+{"assessment_id":176,"user_id":210,"skill_id":1,"start_time":"2025-01-23 13:28:49","end_time":"2025-02-07 23:24:07","score":8.12,"status":"Completed"}
+{"assessment_id":177,"user_id":968,"skill_id":3,"start_time":"2025-01-17 02:20:57","end_time":"2025-11-28 04:38:23","score":0.45,"status":"In Progress"}
+{"assessment_id":178,"user_id":36,"skill_id":2,"start_time":"2025-01-16 20:31:10","end_time":"2025-10-04 05:20:13","score":1.09,"status":"Completed"}
+{"assessment_id":179,"user_id":988,"skill_id":2,"start_time":"2025-01-18 22:24:32","end_time":"2025-06-08 04:35:45","score":5.41,"status":"Completed"}
+{"assessment_id":180,"user_id":737,"skill_id":2,"start_time":"2025-01-24 19:59:39","end_time":"2025-09-20 00:50:38","score":9.65,"status":"In Progress"}
+{"assessment_id":181,"user_id":732,"skill_id":1,"start_time":"2025-01-22 01:57:49","end_time":"2025-06-04 01:36:16","score":9.25,"status":"Completed"}
+{"assessment_id":182,"user_id":97,"skill_id":4,"start_time":"2025-01-07 12:34:13","end_time":"2025-03-07 11:44:35","score":9.41,"status":"In Progress"}
+{"assessment_id":183,"user_id":710,"skill_id":5,"start_time":"2025-01-20 03:26:24","end_time":"2025-02-19 01:16:26","score":1.04,"status":"In Progress"}
+{"assessment_id":184,"user_id":481,"skill_id":3,"start_time":"2025-01-24 01:27:09","end_time":"2025-02-25 09:33:47","score":8.94,"status":"In Progress"}
+{"assessment_id":185,"user_id":968,"skill_id":2,"start_time":"2025-01-07 04:37:13","end_time":"2025-02-01 12:46:09","score":2.49,"status":"Completed"}
+{"assessment_id":186,"user_id":174,"skill_id":5,"start_time":"2025-01-10 18:22:05","end_time":"2025-07-22 15:26:56","score":7.56,"status":"In Progress"}
+{"assessment_id":187,"user_id":406,"skill_id":5,"start_time":"2025-01-23 07:35:10","end_time":"2025-10-08 00:22:14","score":1.66,"status":"Completed"}
+{"assessment_id":188,"user_id":621,"skill_id":5,"start_time":"2025-01-25 23:58:19","end_time":"2025-12-05 14:10:34","score":9.56,"status":"In Progress"}
+{"assessment_id":189,"user_id":37,"skill_id":2,"start_time":"2025-01-10 01:16:45","end_time":"2025-07-21 09:22:29","score":7.72,"status":"In Progress"}
+{"assessment_id":190,"user_id":80,"skill_id":2,"start_time":"2025-01-30 16:13:10","end_time":"2025-01-23 17:37:26","score":1.78,"status":"Completed"}
+{"assessment_id":191,"user_id":493,"skill_id":3,"start_time":"2025-01-09 14:53:57","end_time":"2025-02-12 12:21:57","score":1.96,"status":"In Progress"}
+{"assessment_id":192,"user_id":387,"skill_id":2,"start_time":"2025-01-10 08:06:07","end_time":"2025-01-14 06:45:02","score":4.87,"status":"In Progress"}
+{"assessment_id":193,"user_id":316,"skill_id":2,"start_time":"2025-01-13 08:31:23","end_time":"2025-05-21 18:55:45","score":9.46,"status":"Completed"}
+{"assessment_id":194,"user_id":779,"skill_id":5,"start_time":"2025-01-14 20:04:16","end_time":"2025-02-06 17:07:18","score":5.49,"status":"Completed"}
+{"assessment_id":195,"user_id":467,"skill_id":4,"start_time":"2025-01-02 23:50:52","end_time":"2025-05-25 16:21:17","score":3.83,"status":"Completed"}
+{"assessment_id":196,"user_id":634,"skill_id":4,"start_time":"2025-01-14 21:14:06","end_time":"2025-10-22 16:59:25","score":1.59,"status":"Completed"}
+{"assessment_id":197,"user_id":309,"skill_id":2,"start_time":"2025-01-16 16:18:37","end_time":"2025-12-22 16:45:19","score":2.02,"status":"In Progress"}
+{"assessment_id":198,"user_id":259,"skill_id":5,"start_time":"2025-01-12 23:47:21","end_time":"2025-12-12 14:49:39","score":5.11,"status":"In Progress"}
+{"assessment_id":199,"user_id":317,"skill_id":3,"start_time":"2025-01-28 04:55:42","end_time":"2025-09-23 19:44:02","score":1.61,"status":"Completed"}
+{"assessment_id":200,"user_id":662,"skill_id":2,"start_time":"2025-01-10 05:39:15","end_time":"2025-08-18 08:54:52","score":0.94,"status":"In Progress"}
+{"assessment_id":201,"user_id":445,"skill_id":2,"start_time":"2025-01-11 22:44:08","end_time":"2025-11-13 22:11:00","score":5.67,"status":"In Progress"}
+{"assessment_id":202,"user_id":327,"skill_id":2,"start_time":"2025-01-07 00:17:14","end_time":"2025-10-22 02:35:52","score":1.47,"status":"Completed"}
+{"assessment_id":203,"user_id":909,"skill_id":5,"start_time":"2025-01-09 06:05:46","end_time":"2025-11-26 19:36:37","score":1.07,"status":"In Progress"}
+{"assessment_id":204,"user_id":750,"skill_id":3,"start_time":"2025-01-08 02:14:28","end_time":"2025-06-22 12:24:23","score":1.48,"status":"In Progress"}
+{"assessment_id":205,"user_id":776,"skill_id":3,"start_time":"2025-01-25 05:52:15","end_time":"2025-12-16 22:19:25","score":7.47,"status":"In Progress"}
+{"assessment_id":206,"user_id":883,"skill_id":3,"start_time":"2025-01-16 03:16:17","end_time":"2025-01-02 11:36:57","score":2.33,"status":"In Progress"}
+{"assessment_id":207,"user_id":721,"skill_id":5,"start_time":"2025-01-20 07:18:24","end_time":"2025-06-02 17:35:48","score":0.65,"status":"In Progress"}
+{"assessment_id":208,"user_id":223,"skill_id":2,"start_time":"2025-01-05 13:23:43","end_time":"2025-11-27 00:46:20","score":2.8,"status":"Completed"}
+{"assessment_id":209,"user_id":55,"skill_id":1,"start_time":"2025-01-16 13:50:18","end_time":"2025-04-06 16:04:48","score":9.23,"status":"Completed"}
+{"assessment_id":210,"user_id":101,"skill_id":3,"start_time":"2025-01-14 18:35:54","end_time":"2025-07-31 05:01:15","score":9.17,"status":"In Progress"}
+{"assessment_id":211,"user_id":198,"skill_id":5,"start_time":"2025-01-18 22:27:06","end_time":"2025-09-04 06:45:56","score":1.68,"status":"In Progress"}
+{"assessment_id":212,"user_id":194,"skill_id":3,"start_time":"2025-01-12 17:05:36","end_time":"2025-09-27 04:36:05","score":5.22,"status":"Completed"}
+{"assessment_id":213,"user_id":63,"skill_id":2,"start_time":"2025-01-29 15:38:46","end_time":"2025-02-22 21:33:06","score":6.46,"status":"Completed"}
+{"assessment_id":214,"user_id":271,"skill_id":2,"start_time":"2025-01-07 10:18:38","end_time":"2025-06-19 00:57:14","score":3.51,"status":"Completed"}
+{"assessment_id":215,"user_id":616,"skill_id":5,"start_time":"2025-01-20 13:32:32","end_time":"2025-06-30 10:16:30","score":6.08,"status":"Completed"}
+{"assessment_id":216,"user_id":603,"skill_id":4,"start_time":"2025-01-17 12:48:18","end_time":"2025-05-03 18:18:51","score":2.13,"status":"In Progress"}
+{"assessment_id":217,"user_id":373,"skill_id":2,"start_time":"2025-01-06 05:22:49","end_time":"2025-03-14 11:21:39","score":1.07,"status":"Completed"}
+{"assessment_id":218,"user_id":721,"skill_id":1,"start_time":"2025-01-07 07:34:33","end_time":"2025-04-20 07:55:31","score":0.77,"status":"In Progress"}
+{"assessment_id":219,"user_id":435,"skill_id":5,"start_time":"2025-01-18 01:37:53","end_time":"2025-07-14 03:46:29","score":1.1,"status":"Completed"}
+{"assessment_id":220,"user_id":880,"skill_id":5,"start_time":"2025-01-22 02:42:20","end_time":"2025-02-12 15:19:24","score":0.24,"status":"Completed"}
+{"assessment_id":221,"user_id":832,"skill_id":5,"start_time":"2025-01-14 21:10:23","end_time":"2025-05-08 01:26:18","score":0.94,"status":"In Progress"}
+{"assessment_id":222,"user_id":565,"skill_id":3,"start_time":"2025-01-29 13:24:41","end_time":"2025-03-09 16:03:40","score":2.22,"status":"In Progress"}
+{"assessment_id":223,"user_id":533,"skill_id":1,"start_time":"2025-01-10 00:30:23","end_time":"2025-12-15 18:06:07","score":3.53,"status":"Completed"}
+{"assessment_id":224,"user_id":717,"skill_id":5,"start_time":"2025-01-10 17:39:32","end_time":"2025-01-23 10:59:39","score":1.95,"status":"Completed"}
+{"assessment_id":225,"user_id":919,"skill_id":5,"start_time":"2025-01-10 18:51:47","end_time":"2025-07-12 00:00:29","score":4.82,"status":"In Progress"}
+{"assessment_id":226,"user_id":500,"skill_id":1,"start_time":"2025-01-25 17:29:51","end_time":"2025-06-08 21:28:14","score":6.71,"status":"In Progress"}
+{"assessment_id":227,"user_id":98,"skill_id":2,"start_time":"2025-01-04 01:12:49","end_time":"2025-08-23 21:35:34","score":6.97,"status":"In Progress"}
+{"assessment_id":228,"user_id":518,"skill_id":5,"start_time":"2025-01-29 22:04:43","end_time":"2025-10-29 07:04:51","score":4.77,"status":"Completed"}
+{"assessment_id":229,"user_id":380,"skill_id":1,"start_time":"2025-01-30 11:45:07","end_time":"2025-03-14 18:05:31","score":7.52,"status":"Completed"}
+{"assessment_id":230,"user_id":381,"skill_id":3,"start_time":"2025-01-16 20:10:21","end_time":"2025-05-26 13:58:23","score":9.71,"status":"In Progress"}
+{"assessment_id":231,"user_id":379,"skill_id":2,"start_time":"2025-01-17 23:11:37","end_time":"2025-07-07 10:08:40","score":7.98,"status":"Completed"}
+{"assessment_id":232,"user_id":149,"skill_id":1,"start_time":"2025-01-09 09:11:03","end_time":"2025-05-13 03:12:56","score":7.81,"status":"In Progress"}
+{"assessment_id":233,"user_id":883,"skill_id":3,"start_time":"2025-01-27 14:46:40","end_time":"2025-08-21 20:50:51","score":6.47,"status":"Completed"}
+{"assessment_id":234,"user_id":173,"skill_id":5,"start_time":"2025-01-15 05:16:38","end_time":"2025-10-31 12:46:24","score":6.92,"status":"Completed"}
+{"assessment_id":235,"user_id":33,"skill_id":3,"start_time":"2025-01-10 15:12:03","end_time":"2025-06-23 04:21:40","score":1.97,"status":"Completed"}
+{"assessment_id":236,"user_id":795,"skill_id":2,"start_time":"2025-01-25 02:01:01","end_time":"2025-04-12 00:35:54","score":8.53,"status":"Completed"}
+{"assessment_id":237,"user_id":156,"skill_id":4,"start_time":"2025-01-25 21:36:39","end_time":"2025-12-01 00:33:25","score":9.88,"status":"Completed"}
+{"assessment_id":238,"user_id":100,"skill_id":3,"start_time":"2025-01-13 16:14:18","end_time":"2025-04-30 07:16:08","score":1.06,"status":"Completed"}
+{"assessment_id":239,"user_id":890,"skill_id":5,"start_time":"2025-01-14 23:37:38","end_time":"2025-02-18 18:40:21","score":4.93,"status":"In Progress"}
+{"assessment_id":240,"user_id":303,"skill_id":3,"start_time":"2025-01-13 13:25:56","end_time":"2025-07-01 00:36:21","score":7.39,"status":"In Progress"}
+{"assessment_id":241,"user_id":3,"skill_id":1,"start_time":"2025-01-11 16:43:15","end_time":"2025-12-21 12:59:40","score":5.66,"status":"Completed"}
+{"assessment_id":242,"user_id":643,"skill_id":5,"start_time":"2025-01-12 19:20:22","end_time":"2025-05-23 16:31:11","score":6.65,"status":"Completed"}
+{"assessment_id":243,"user_id":756,"skill_id":1,"start_time":"2025-01-23 10:06:41","end_time":"2025-03-07 06:47:36","score":4.98,"status":"Completed"}
+{"assessment_id":244,"user_id":33,"skill_id":1,"start_time":"2025-01-14 23:54:12","end_time":"2025-05-07 16:10:48","score":4.45,"status":"In Progress"}
+{"assessment_id":245,"user_id":128,"skill_id":2,"start_time":"2025-01-02 00:39:07","end_time":"2025-03-30 03:11:26","score":8.68,"status":"In Progress"}
+{"assessment_id":246,"user_id":270,"skill_id":2,"start_time":"2025-01-19 08:48:12","end_time":"2025-08-22 20:03:04","score":9.2,"status":"In Progress"}
+{"assessment_id":247,"user_id":858,"skill_id":4,"start_time":"2025-01-27 05:54:09","end_time":"2025-09-27 10:37:16","score":6.09,"status":"Completed"}
+{"assessment_id":248,"user_id":459,"skill_id":2,"start_time":"2025-01-09 08:46:00","end_time":"2025-12-04 11:02:46","score":3.58,"status":"In Progress"}
+{"assessment_id":249,"user_id":429,"skill_id":4,"start_time":"2025-01-25 15:50:43","end_time":"2025-01-17 22:02:41","score":1.0,"status":"Completed"}
+{"assessment_id":250,"user_id":196,"skill_id":5,"start_time":"2025-01-07 07:47:52","end_time":"2025-01-08 01:48:07","score":5.86,"status":"In Progress"}
+{"assessment_id":251,"user_id":805,"skill_id":3,"start_time":"2025-01-20 00:35:29","end_time":"2025-12-30 05:04:28","score":0.57,"status":"Completed"}
+{"assessment_id":252,"user_id":193,"skill_id":1,"start_time":"2025-01-23 23:06:27","end_time":"2025-03-29 08:24:47","score":4.25,"status":"In Progress"}
+{"assessment_id":253,"user_id":394,"skill_id":2,"start_time":"2025-01-28 04:14:50","end_time":"2025-06-01 11:10:55","score":9.79,"status":"Completed"}
+{"assessment_id":254,"user_id":852,"skill_id":1,"start_time":"2025-01-10 18:59:36","end_time":"2025-08-11 13:01:43","score":9.63,"status":"Completed"}
+{"assessment_id":255,"user_id":238,"skill_id":3,"start_time":"2025-01-03 07:11:23","end_time":"2025-06-17 10:29:43","score":7.37,"status":"Completed"}
+{"assessment_id":256,"user_id":284,"skill_id":1,"start_time":"2025-01-24 22:56:28","end_time":"2025-01-02 11:30:32","score":3.31,"status":"In Progress"}
+{"assessment_id":257,"user_id":476,"skill_id":4,"start_time":"2025-01-14 09:34:36","end_time":"2025-05-19 09:02:54","score":2.07,"status":"Completed"}
+{"assessment_id":258,"user_id":300,"skill_id":2,"start_time":"2025-01-26 17:05:17","end_time":"2025-07-04 16:14:05","score":5.88,"status":"In Progress"}
+{"assessment_id":259,"user_id":159,"skill_id":1,"start_time":"2025-01-26 04:38:33","end_time":"2025-06-06 22:49:18","score":8.45,"status":"In Progress"}
+{"assessment_id":260,"user_id":892,"skill_id":4,"start_time":"2025-01-05 03:12:20","end_time":"2025-12-01 02:41:06","score":2.1,"status":"Completed"}
+{"assessment_id":261,"user_id":511,"skill_id":5,"start_time":"2025-01-30 07:09:55","end_time":"2025-01-31 19:08:03","score":0.15,"status":"In Progress"}
+{"assessment_id":262,"user_id":763,"skill_id":3,"start_time":"2025-01-01 07:39:07","end_time":"2025-09-23 10:12:30","score":5.33,"status":"In Progress"}
+{"assessment_id":263,"user_id":696,"skill_id":3,"start_time":"2025-01-23 14:07:34","end_time":"2025-09-18 06:07:17","score":8.94,"status":"In Progress"}
+{"assessment_id":264,"user_id":795,"skill_id":3,"start_time":"2025-01-16 09:51:16","end_time":"2025-03-01 02:09:11","score":4.9,"status":"In Progress"}
+{"assessment_id":265,"user_id":352,"skill_id":5,"start_time":"2025-01-24 12:24:17","end_time":"2025-03-19 15:27:39","score":8.1,"status":"In Progress"}
+{"assessment_id":266,"user_id":405,"skill_id":1,"start_time":"2025-01-13 22:39:15","end_time":"2025-10-28 02:25:03","score":3.68,"status":"Completed"}
+{"assessment_id":267,"user_id":777,"skill_id":2,"start_time":"2025-01-08 19:00:59","end_time":"2025-05-02 03:44:31","score":4.87,"status":"In Progress"}
+{"assessment_id":268,"user_id":561,"skill_id":4,"start_time":"2025-01-10 00:08:50","end_time":"2025-06-01 03:28:31","score":0.98,"status":"In Progress"}
+{"assessment_id":269,"user_id":894,"skill_id":4,"start_time":"2025-01-25 06:36:41","end_time":"2025-01-14 11:15:00","score":7.24,"status":"In Progress"}
+{"assessment_id":270,"user_id":272,"skill_id":3,"start_time":"2025-01-09 12:50:19","end_time":"2025-07-12 04:24:32","score":6.1,"status":"In Progress"}
+{"assessment_id":271,"user_id":108,"skill_id":5,"start_time":"2025-01-27 16:52:52","end_time":"2025-08-28 05:12:54","score":6.33,"status":"In Progress"}
+{"assessment_id":272,"user_id":593,"skill_id":4,"start_time":"2025-01-18 01:54:46","end_time":"2025-07-12 07:37:06","score":2.97,"status":"Completed"}
+{"assessment_id":273,"user_id":436,"skill_id":4,"start_time":"2025-01-04 01:33:24","end_time":"2025-11-25 17:58:21","score":1.36,"status":"Completed"}
+{"assessment_id":274,"user_id":368,"skill_id":2,"start_time":"2025-01-19 05:01:22","end_time":"2025-08-04 06:29:12","score":0.45,"status":"Completed"}
+{"assessment_id":275,"user_id":775,"skill_id":5,"start_time":"2025-01-17 12:16:27","end_time":"2025-03-27 23:30:39","score":7.06,"status":"In Progress"}
+{"assessment_id":276,"user_id":872,"skill_id":3,"start_time":"2025-01-19 10:50:23","end_time":"2025-10-27 14:15:40","score":6.1,"status":"Completed"}
+{"assessment_id":277,"user_id":83,"skill_id":5,"start_time":"2025-01-30 10:57:45","end_time":"2025-05-27 13:35:31","score":1.08,"status":"In Progress"}
+{"assessment_id":278,"user_id":804,"skill_id":4,"start_time":"2025-01-16 01:18:12","end_time":"2025-02-05 04:42:49","score":3.25,"status":"Completed"}
+{"assessment_id":279,"user_id":59,"skill_id":1,"start_time":"2025-01-26 04:53:21","end_time":"2025-06-17 18:07:00","score":5.36,"status":"In Progress"}
+{"assessment_id":280,"user_id":3,"skill_id":4,"start_time":"2025-01-08 23:51:21","end_time":"2025-10-05 00:30:01","score":9.84,"status":"Completed"}
+{"assessment_id":281,"user_id":299,"skill_id":5,"start_time":"2025-01-21 17:00:01","end_time":"2025-08-15 15:09:57","score":5.1,"status":"Completed"}
+{"assessment_id":282,"user_id":178,"skill_id":2,"start_time":"2025-01-15 08:25:17","end_time":"2025-04-21 13:27:14","score":0.92,"status":"In Progress"}
+{"assessment_id":283,"user_id":275,"skill_id":3,"start_time":"2025-01-17 01:19:16","end_time":"2025-03-30 13:10:54","score":8.47,"status":"In Progress"}
+{"assessment_id":284,"user_id":505,"skill_id":2,"start_time":"2025-01-04 19:13:58","end_time":"2025-01-23 18:12:42","score":8.13,"status":"Completed"}
+{"assessment_id":285,"user_id":704,"skill_id":2,"start_time":"2025-01-07 01:07:14","end_time":"2025-07-28 12:53:27","score":3.16,"status":"Completed"}
+{"assessment_id":286,"user_id":361,"skill_id":1,"start_time":"2025-01-24 23:52:41","end_time":"2025-11-01 01:43:01","score":9.54,"status":"Completed"}
+{"assessment_id":287,"user_id":502,"skill_id":1,"start_time":"2025-01-09 04:57:25","end_time":"2025-10-20 04:07:06","score":4.96,"status":"In Progress"}
+{"assessment_id":288,"user_id":192,"skill_id":3,"start_time":"2025-01-30 01:35:14","end_time":"2025-06-25 12:10:28","score":2.62,"status":"Completed"}
+{"assessment_id":289,"user_id":368,"skill_id":2,"start_time":"2025-01-28 18:42:32","end_time":"2025-06-04 12:06:13","score":4.06,"status":"In Progress"}
+{"assessment_id":290,"user_id":581,"skill_id":1,"start_time":"2025-01-15 20:14:07","end_time":"2025-09-25 11:12:57","score":8.88,"status":"Completed"}
+{"assessment_id":291,"user_id":905,"skill_id":1,"start_time":"2025-01-20 09:43:20","end_time":"2025-01-14 16:12:02","score":3.22,"status":"Completed"}
+{"assessment_id":292,"user_id":254,"skill_id":2,"start_time":"2025-01-26 20:57:29","end_time":"2025-05-19 12:23:04","score":7.48,"status":"Completed"}
+{"assessment_id":293,"user_id":565,"skill_id":2,"start_time":"2025-01-01 15:17:51","end_time":"2025-09-25 08:31:22","score":9.96,"status":"Completed"}
+{"assessment_id":294,"user_id":121,"skill_id":4,"start_time":"2025-01-01 04:07:46","end_time":"2025-12-14 19:01:50","score":1.8,"status":"In Progress"}
+{"assessment_id":295,"user_id":931,"skill_id":2,"start_time":"2025-01-03 07:31:42","end_time":"2025-02-20 14:22:20","score":3.11,"status":"In Progress"}
+{"assessment_id":296,"user_id":208,"skill_id":3,"start_time":"2025-01-21 06:40:31","end_time":"2025-07-23 00:47:08","score":0.61,"status":"In Progress"}
+{"assessment_id":297,"user_id":50,"skill_id":3,"start_time":"2025-01-26 06:43:36","end_time":"2025-09-04 21:14:58","score":1.25,"status":"Completed"}
+{"assessment_id":298,"user_id":590,"skill_id":1,"start_time":"2025-01-30 15:24:44","end_time":"2025-04-01 07:47:49","score":7.85,"status":"Completed"}
+{"assessment_id":299,"user_id":254,"skill_id":1,"start_time":"2025-01-23 17:18:47","end_time":"2025-12-05 23:48:34","score":1.1,"status":"Completed"}
+{"assessment_id":300,"user_id":407,"skill_id":4,"start_time":"2025-01-01 21:30:21","end_time":"2025-05-10 23:39:04","score":9.86,"status":"Completed"}
+{"assessment_id":301,"user_id":632,"skill_id":3,"start_time":"2025-01-03 06:47:14","end_time":"2025-12-08 21:02:51","score":3.18,"status":"Completed"}
+{"assessment_id":302,"user_id":631,"skill_id":5,"start_time":"2025-01-09 08:26:41","end_time":"2025-11-23 02:25:11","score":6.52,"status":"In Progress"}
+{"assessment_id":303,"user_id":486,"skill_id":1,"start_time":"2025-01-17 08:28:44","end_time":"2025-12-20 15:36:55","score":7.99,"status":"In Progress"}
+{"assessment_id":304,"user_id":887,"skill_id":4,"start_time":"2025-01-03 21:24:35","end_time":"2025-02-18 05:00:42","score":1.28,"status":"In Progress"}
+{"assessment_id":305,"user_id":387,"skill_id":2,"start_time":"2025-01-05 18:27:03","end_time":"2025-10-07 18:16:41","score":5.34,"status":"In Progress"}
+{"assessment_id":306,"user_id":31,"skill_id":1,"start_time":"2025-01-22 05:15:23","end_time":"2025-10-02 06:43:12","score":3.62,"status":"Completed"}
+{"assessment_id":307,"user_id":929,"skill_id":2,"start_time":"2025-01-04 18:20:25","end_time":"2025-04-06 23:58:32","score":8.84,"status":"In Progress"}
+{"assessment_id":308,"user_id":661,"skill_id":1,"start_time":"2025-01-28 05:21:10","end_time":"2025-12-17 17:11:33","score":2.18,"status":"In Progress"}
+{"assessment_id":309,"user_id":457,"skill_id":3,"start_time":"2025-01-12 12:16:29","end_time":"2025-07-06 04:25:20","score":2.17,"status":"In Progress"}
+{"assessment_id":310,"user_id":515,"skill_id":4,"start_time":"2025-01-10 10:21:35","end_time":"2025-10-11 21:30:49","score":8.18,"status":"Completed"}
+{"assessment_id":311,"user_id":954,"skill_id":2,"start_time":"2025-01-07 09:05:16","end_time":"2025-07-13 19:04:46","score":0.93,"status":"In Progress"}
+{"assessment_id":312,"user_id":101,"skill_id":1,"start_time":"2025-01-12 20:11:05","end_time":"2025-08-30 07:20:37","score":6.05,"status":"In Progress"}
+{"assessment_id":313,"user_id":157,"skill_id":1,"start_time":"2025-01-07 04:40:37","end_time":"2025-07-16 04:27:39","score":9.33,"status":"Completed"}
+{"assessment_id":314,"user_id":426,"skill_id":1,"start_time":"2025-01-11 23:27:21","end_time":"2025-04-17 12:22:34","score":6.61,"status":"Completed"}
+{"assessment_id":315,"user_id":444,"skill_id":5,"start_time":"2025-01-02 14:12:04","end_time":"2025-01-25 16:01:28","score":6.7,"status":"In Progress"}
+{"assessment_id":316,"user_id":898,"skill_id":3,"start_time":"2025-01-18 04:01:17","end_time":"2025-01-31 18:59:19","score":7.58,"status":"Completed"}
+{"assessment_id":317,"user_id":63,"skill_id":2,"start_time":"2025-01-11 04:51:39","end_time":"2025-05-26 17:01:02","score":3.6,"status":"In Progress"}
+{"assessment_id":318,"user_id":688,"skill_id":3,"start_time":"2025-01-03 19:25:21","end_time":"2025-02-02 07:21:12","score":0.88,"status":"Completed"}
+{"assessment_id":319,"user_id":901,"skill_id":1,"start_time":"2025-01-11 04:23:15","end_time":"2025-08-03 00:46:45","score":5.16,"status":"Completed"}
+{"assessment_id":320,"user_id":746,"skill_id":3,"start_time":"2025-01-05 09:10:21","end_time":"2025-11-17 23:38:15","score":0.47,"status":"Completed"}
+{"assessment_id":321,"user_id":473,"skill_id":1,"start_time":"2025-01-04 17:41:20","end_time":"2025-06-19 14:55:07","score":9.89,"status":"In Progress"}
+{"assessment_id":322,"user_id":439,"skill_id":5,"start_time":"2025-01-04 10:43:44","end_time":"2025-12-30 02:46:04","score":4.62,"status":"In Progress"}
+{"assessment_id":323,"user_id":66,"skill_id":3,"start_time":"2025-01-09 20:26:15","end_time":"2025-10-05 19:00:40","score":8.48,"status":"In Progress"}
+{"assessment_id":324,"user_id":37,"skill_id":1,"start_time":"2025-01-20 11:22:19","end_time":"2025-09-01 09:59:32","score":2.79,"status":"In Progress"}
+{"assessment_id":325,"user_id":804,"skill_id":5,"start_time":"2025-01-02 06:49:45","end_time":"2025-10-21 05:56:13","score":6.26,"status":"Completed"}
+{"assessment_id":326,"user_id":237,"skill_id":2,"start_time":"2025-01-10 10:20:21","end_time":"2025-05-23 07:47:10","score":2.99,"status":"Completed"}
+{"assessment_id":327,"user_id":978,"skill_id":2,"start_time":"2025-01-23 18:24:14","end_time":"2025-06-05 09:48:56","score":4.37,"status":"In Progress"}
+{"assessment_id":328,"user_id":839,"skill_id":1,"start_time":"2025-01-02 17:59:35","end_time":"2025-06-29 16:40:18","score":8.17,"status":"In Progress"}
+{"assessment_id":329,"user_id":714,"skill_id":4,"start_time":"2025-01-08 06:52:05","end_time":"2025-03-13 03:12:49","score":0.73,"status":"Completed"}
+{"assessment_id":330,"user_id":533,"skill_id":3,"start_time":"2025-01-30 17:14:44","end_time":"2025-03-12 03:21:22","score":8.25,"status":"Completed"}
+{"assessment_id":331,"user_id":927,"skill_id":3,"start_time":"2025-01-15 21:34:23","end_time":"2025-04-02 17:23:47","score":0.73,"status":"Completed"}
+{"assessment_id":332,"user_id":624,"skill_id":3,"start_time":"2025-01-04 21:43:57","end_time":"2025-12-26 09:24:46","score":8.5,"status":"In Progress"}
+{"assessment_id":333,"user_id":17,"skill_id":3,"start_time":"2025-01-15 10:34:24","end_time":"2025-04-21 05:35:02","score":1.19,"status":"In Progress"}
+{"assessment_id":334,"user_id":997,"skill_id":2,"start_time":"2025-01-02 11:55:31","end_time":"2025-02-19 17:21:35","score":8.59,"status":"In Progress"}
+{"assessment_id":335,"user_id":973,"skill_id":2,"start_time":"2025-01-17 05:02:59","end_time":"2025-07-04 05:15:18","score":3.41,"status":"In Progress"}
+{"assessment_id":336,"user_id":630,"skill_id":4,"start_time":"2025-01-05 00:30:25","end_time":"2025-07-11 08:15:08","score":8.76,"status":"Completed"}
+{"assessment_id":337,"user_id":912,"skill_id":1,"start_time":"2025-01-28 19:54:22","end_time":"2025-10-08 02:04:26","score":2.31,"status":"Completed"}
+{"assessment_id":338,"user_id":715,"skill_id":1,"start_time":"2025-01-16 06:13:08","end_time":"2025-02-17 17:32:09","score":4.08,"status":"Completed"}
+{"assessment_id":339,"user_id":768,"skill_id":1,"start_time":"2025-01-18 15:51:08","end_time":"2025-02-23 20:57:24","score":0.4,"status":"Completed"}
+{"assessment_id":340,"user_id":891,"skill_id":2,"start_time":"2025-01-12 22:02:03","end_time":"2025-10-04 08:55:15","score":3.92,"status":"Completed"}
+{"assessment_id":341,"user_id":609,"skill_id":4,"start_time":"2025-01-29 16:13:53","end_time":"2025-11-08 03:40:43","score":5.55,"status":"Completed"}
+{"assessment_id":342,"user_id":16,"skill_id":3,"start_time":"2025-01-15 21:49:55","end_time":"2025-08-31 03:16:04","score":9.31,"status":"Completed"}
+{"assessment_id":343,"user_id":882,"skill_id":2,"start_time":"2025-01-28 02:25:32","end_time":"2025-05-01 04:48:51","score":0.0,"status":"Completed"}
+{"assessment_id":344,"user_id":800,"skill_id":2,"start_time":"2025-01-22 09:31:24","end_time":"2025-12-30 03:34:03","score":6.59,"status":"Completed"}
+{"assessment_id":345,"user_id":897,"skill_id":3,"start_time":"2025-01-28 10:48:21","end_time":"2025-05-10 04:32:35","score":5.99,"status":"Completed"}
+{"assessment_id":346,"user_id":135,"skill_id":1,"start_time":"2025-01-05 20:24:23","end_time":"2025-07-28 22:36:30","score":0.91,"status":"In Progress"}
+{"assessment_id":347,"user_id":828,"skill_id":3,"start_time":"2025-01-14 06:20:43","end_time":"2025-06-18 23:52:58","score":6.4,"status":"In Progress"}
+{"assessment_id":348,"user_id":133,"skill_id":1,"start_time":"2025-01-11 21:10:39","end_time":"2025-06-03 21:42:27","score":9.32,"status":"In Progress"}
+{"assessment_id":349,"user_id":387,"skill_id":1,"start_time":"2025-01-21 14:18:46","end_time":"2025-02-22 04:32:02","score":4.92,"status":"In Progress"}
+{"assessment_id":350,"user_id":49,"skill_id":4,"start_time":"2025-01-06 22:23:23","end_time":"2025-12-26 19:45:06","score":4.28,"status":"Completed"}
+{"assessment_id":351,"user_id":692,"skill_id":1,"start_time":"2025-01-04 06:46:02","end_time":"2025-11-29 01:44:14","score":8.95,"status":"In Progress"}
+{"assessment_id":352,"user_id":435,"skill_id":2,"start_time":"2025-01-20 21:30:04","end_time":"2025-04-04 03:46:53","score":5.19,"status":"In Progress"}
+{"assessment_id":353,"user_id":568,"skill_id":1,"start_time":"2025-01-14 08:37:01","end_time":"2025-04-28 02:24:15","score":0.58,"status":"Completed"}
+{"assessment_id":354,"user_id":511,"skill_id":4,"start_time":"2025-01-04 09:04:51","end_time":"2025-01-08 11:10:28","score":0.0,"status":"In Progress"}
+{"assessment_id":355,"user_id":822,"skill_id":3,"start_time":"2025-01-16 22:46:55","end_time":"2025-10-03 12:10:20","score":8.5,"status":"Completed"}
+{"assessment_id":356,"user_id":260,"skill_id":2,"start_time":"2025-01-12 21:04:15","end_time":"2025-07-25 04:11:17","score":3.39,"status":"In Progress"}
+{"assessment_id":357,"user_id":838,"skill_id":2,"start_time":"2025-01-01 20:40:18","end_time":"2025-02-18 16:22:37","score":3.1,"status":"In Progress"}
+{"assessment_id":358,"user_id":370,"skill_id":5,"start_time":"2025-01-20 01:53:48","end_time":"2025-04-05 05:17:22","score":3.91,"status":"In Progress"}
+{"assessment_id":359,"user_id":411,"skill_id":3,"start_time":"2025-01-20 13:53:03","end_time":"2025-11-13 01:07:21","score":4.18,"status":"Completed"}
+{"assessment_id":360,"user_id":285,"skill_id":3,"start_time":"2025-01-25 16:52:51","end_time":"2025-11-04 05:26:24","score":7.67,"status":"Completed"}
+{"assessment_id":361,"user_id":803,"skill_id":4,"start_time":"2025-01-07 19:40:02","end_time":"2025-03-26 06:07:08","score":3.35,"status":"Completed"}
+{"assessment_id":362,"user_id":37,"skill_id":1,"start_time":"2025-01-26 10:36:03","end_time":"2025-10-28 01:43:09","score":6.51,"status":"In Progress"}
+{"assessment_id":363,"user_id":292,"skill_id":1,"start_time":"2025-01-05 07:52:24","end_time":"2025-02-08 11:48:10","score":9.78,"status":"In Progress"}
+{"assessment_id":364,"user_id":186,"skill_id":1,"start_time":"2025-01-29 01:26:08","end_time":"2025-12-20 15:02:22","score":7.57,"status":"Completed"}
+{"assessment_id":365,"user_id":892,"skill_id":4,"start_time":"2025-01-06 10:51:18","end_time":"2025-08-31 23:22:33","score":2.11,"status":"In Progress"}
+{"assessment_id":366,"user_id":47,"skill_id":5,"start_time":"2025-01-14 14:32:08","end_time":"2025-10-04 09:06:52","score":0.03,"status":"Completed"}
+{"assessment_id":367,"user_id":818,"skill_id":5,"start_time":"2025-01-14 21:27:19","end_time":"2025-04-26 16:26:15","score":6.09,"status":"Completed"}
+{"assessment_id":368,"user_id":978,"skill_id":4,"start_time":"2025-01-26 07:11:23","end_time":"2025-06-24 06:20:06","score":2.27,"status":"In Progress"}
+{"assessment_id":369,"user_id":108,"skill_id":5,"start_time":"2025-01-16 21:19:50","end_time":"2025-08-07 16:45:37","score":4.29,"status":"In Progress"}
+{"assessment_id":370,"user_id":704,"skill_id":1,"start_time":"2025-01-03 17:57:34","end_time":"2025-05-10 21:20:05","score":8.4,"status":"In Progress"}
+{"assessment_id":371,"user_id":394,"skill_id":3,"start_time":"2025-01-19 08:23:49","end_time":"2025-02-19 03:32:46","score":0.43,"status":"Completed"}
+{"assessment_id":372,"user_id":433,"skill_id":3,"start_time":"2025-01-25 11:03:14","end_time":"2025-12-14 04:54:52","score":4.71,"status":"In Progress"}
+{"assessment_id":373,"user_id":149,"skill_id":3,"start_time":"2025-01-27 00:42:38","end_time":"2025-12-28 00:42:29","score":5.24,"status":"Completed"}
+{"assessment_id":374,"user_id":802,"skill_id":5,"start_time":"2025-01-13 18:09:28","end_time":"2025-01-18 10:41:50","score":8.12,"status":"In Progress"}
+{"assessment_id":375,"user_id":740,"skill_id":1,"start_time":"2025-01-18 03:59:37","end_time":"2025-09-03 10:20:29","score":0.43,"status":"Completed"}
+{"assessment_id":376,"user_id":517,"skill_id":1,"start_time":"2025-01-01 17:47:54","end_time":"2025-09-25 20:44:40","score":9.04,"status":"In Progress"}
+{"assessment_id":377,"user_id":406,"skill_id":5,"start_time":"2025-01-04 18:41:24","end_time":"2025-11-04 11:21:08","score":9.04,"status":"Completed"}
+{"assessment_id":378,"user_id":511,"skill_id":5,"start_time":"2025-01-14 12:52:12","end_time":"2025-12-30 16:08:18","score":5.99,"status":"In Progress"}
+{"assessment_id":379,"user_id":323,"skill_id":3,"start_time":"2025-01-28 17:24:46","end_time":"2025-04-25 03:25:34","score":4.99,"status":"In Progress"}
+{"assessment_id":380,"user_id":638,"skill_id":2,"start_time":"2025-01-19 07:15:31","end_time":"2025-12-24 16:30:00","score":6.64,"status":"In Progress"}
+{"assessment_id":381,"user_id":454,"skill_id":3,"start_time":"2025-01-19 12:31:20","end_time":"2025-06-09 15:30:13","score":4.69,"status":"In Progress"}
+{"assessment_id":382,"user_id":990,"skill_id":2,"start_time":"2025-01-27 19:00:45","end_time":"2025-04-06 03:41:55","score":1.47,"status":"Completed"}
+{"assessment_id":383,"user_id":419,"skill_id":1,"start_time":"2025-01-21 04:40:03","end_time":"2025-01-04 09:53:09","score":2.1,"status":"In Progress"}
+{"assessment_id":384,"user_id":651,"skill_id":2,"start_time":"2025-01-18 00:27:21","end_time":"2025-11-21 02:12:20","score":7.83,"status":"Completed"}
+{"assessment_id":385,"user_id":645,"skill_id":2,"start_time":"2025-01-28 05:45:25","end_time":"2025-04-07 06:28:29","score":7.55,"status":"Completed"}
+{"assessment_id":386,"user_id":501,"skill_id":3,"start_time":"2025-01-14 09:41:08","end_time":"2025-10-07 00:58:30","score":2.63,"status":"In Progress"}
+{"assessment_id":387,"user_id":804,"skill_id":5,"start_time":"2025-01-17 11:45:35","end_time":"2025-03-28 09:28:24","score":5.7,"status":"In Progress"}
+{"assessment_id":388,"user_id":537,"skill_id":3,"start_time":"2025-01-17 07:46:57","end_time":"2025-09-13 14:35:03","score":0.23,"status":"In Progress"}
+{"assessment_id":389,"user_id":958,"skill_id":1,"start_time":"2025-01-22 20:36:33","end_time":"2025-02-02 06:45:18","score":5.39,"status":"Completed"}
+{"assessment_id":390,"user_id":181,"skill_id":2,"start_time":"2025-01-16 22:55:03","end_time":"2025-12-16 01:06:24","score":5.72,"status":"Completed"}
+{"assessment_id":391,"user_id":699,"skill_id":3,"start_time":"2025-01-04 22:36:36","end_time":"2025-05-01 06:19:03","score":4.41,"status":"Completed"}
+{"assessment_id":392,"user_id":649,"skill_id":3,"start_time":"2025-01-04 11:26:19","end_time":"2025-06-25 19:17:49","score":4.9,"status":"Completed"}
+{"assessment_id":393,"user_id":656,"skill_id":2,"start_time":"2025-01-07 03:16:04","end_time":"2025-09-30 04:37:16","score":5.74,"status":"Completed"}
+{"assessment_id":394,"user_id":813,"skill_id":1,"start_time":"2025-01-10 03:34:48","end_time":"2025-03-28 16:34:03","score":3.19,"status":"In Progress"}
+{"assessment_id":395,"user_id":609,"skill_id":2,"start_time":"2025-01-02 20:46:43","end_time":"2025-01-12 14:31:24","score":8.67,"status":"In Progress"}
+{"assessment_id":396,"user_id":340,"skill_id":4,"start_time":"2025-01-11 00:29:21","end_time":"2025-07-06 08:29:59","score":0.5,"status":"In Progress"}
+{"assessment_id":397,"user_id":967,"skill_id":3,"start_time":"2025-01-28 18:43:06","end_time":"2025-04-09 05:19:31","score":5.57,"status":"In Progress"}
+{"assessment_id":398,"user_id":332,"skill_id":4,"start_time":"2025-01-25 04:59:49","end_time":"2025-02-25 07:49:18","score":4.03,"status":"In Progress"}
+{"assessment_id":399,"user_id":763,"skill_id":4,"start_time":"2025-01-24 08:41:26","end_time":"2025-09-01 08:58:04","score":4.81,"status":"Completed"}
+{"assessment_id":400,"user_id":370,"skill_id":4,"start_time":"2025-01-04 05:41:38","end_time":"2025-01-03 12:33:04","score":7.67,"status":"In Progress"}
+{"assessment_id":401,"user_id":752,"skill_id":3,"start_time":"2025-01-11 07:35:10","end_time":"2025-12-02 21:09:26","score":7.96,"status":"In Progress"}
+{"assessment_id":402,"user_id":452,"skill_id":3,"start_time":"2025-01-03 19:05:08","end_time":"2025-06-28 04:14:18","score":2.89,"status":"In Progress"}
+{"assessment_id":403,"user_id":117,"skill_id":1,"start_time":"2025-01-20 14:58:12","end_time":"2025-02-23 19:52:51","score":6.52,"status":"Completed"}
+{"assessment_id":404,"user_id":63,"skill_id":5,"start_time":"2025-01-27 06:25:09","end_time":"2025-05-31 11:37:26","score":6.95,"status":"In Progress"}
+{"assessment_id":405,"user_id":578,"skill_id":2,"start_time":"2025-01-10 22:25:06","end_time":"2025-11-28 10:45:53","score":8.99,"status":"In Progress"}
+{"assessment_id":406,"user_id":774,"skill_id":1,"start_time":"2025-01-27 12:17:45","end_time":"2025-01-15 10:06:21","score":8.36,"status":"In Progress"}
+{"assessment_id":407,"user_id":804,"skill_id":1,"start_time":"2025-01-23 04:08:33","end_time":"2025-12-05 04:01:52","score":3.34,"status":"Completed"}
+{"assessment_id":408,"user_id":880,"skill_id":1,"start_time":"2025-01-12 07:38:40","end_time":"2025-10-31 04:50:30","score":5.84,"status":"In Progress"}
+{"assessment_id":409,"user_id":500,"skill_id":4,"start_time":"2025-01-10 09:40:45","end_time":"2025-04-01 10:35:14","score":4.58,"status":"In Progress"}
+{"assessment_id":410,"user_id":956,"skill_id":2,"start_time":"2025-01-15 08:46:18","end_time":"2025-05-27 21:31:19","score":1.85,"status":"Completed"}
+{"assessment_id":411,"user_id":918,"skill_id":5,"start_time":"2025-01-04 14:13:18","end_time":"2025-05-30 05:47:20","score":5.03,"status":"Completed"}
+{"assessment_id":412,"user_id":168,"skill_id":3,"start_time":"2025-01-19 03:58:46","end_time":"2025-08-12 19:18:07","score":9.03,"status":"In Progress"}
+{"assessment_id":413,"user_id":961,"skill_id":4,"start_time":"2025-01-30 01:55:37","end_time":"2025-11-27 09:31:37","score":3.12,"status":"Completed"}
+{"assessment_id":414,"user_id":86,"skill_id":1,"start_time":"2025-01-16 09:21:41","end_time":"2025-07-12 15:25:09","score":7.86,"status":"Completed"}
+{"assessment_id":415,"user_id":667,"skill_id":4,"start_time":"2025-01-26 12:02:33","end_time":"2025-06-14 19:15:34","score":9.41,"status":"Completed"}
+{"assessment_id":416,"user_id":249,"skill_id":3,"start_time":"2025-01-30 17:49:38","end_time":"2025-03-20 15:46:37","score":6.23,"status":"Completed"}
+{"assessment_id":417,"user_id":213,"skill_id":2,"start_time":"2025-01-24 17:25:55","end_time":"2025-08-05 10:44:56","score":0.38,"status":"In Progress"}
+{"assessment_id":418,"user_id":135,"skill_id":3,"start_time":"2025-01-27 10:41:54","end_time":"2025-08-01 16:42:37","score":4.42,"status":"In Progress"}
+{"assessment_id":419,"user_id":831,"skill_id":1,"start_time":"2025-01-11 19:34:23","end_time":"2025-09-30 16:02:01","score":7.83,"status":"Completed"}
+{"assessment_id":420,"user_id":884,"skill_id":5,"start_time":"2025-01-04 19:53:51","end_time":"2025-01-29 12:32:19","score":6.51,"status":"Completed"}
+{"assessment_id":421,"user_id":506,"skill_id":2,"start_time":"2025-01-30 10:43:04","end_time":"2025-11-27 04:31:00","score":8.96,"status":"Completed"}
+{"assessment_id":422,"user_id":643,"skill_id":5,"start_time":"2025-01-04 21:24:33","end_time":"2025-01-05 14:59:50","score":5.85,"status":"In Progress"}
+{"assessment_id":423,"user_id":803,"skill_id":4,"start_time":"2025-01-28 08:13:21","end_time":"2025-05-05 18:41:16","score":1.58,"status":"In Progress"}
+{"assessment_id":424,"user_id":186,"skill_id":1,"start_time":"2025-01-13 05:46:15","end_time":"2025-11-13 17:04:22","score":4.69,"status":"In Progress"}
+{"assessment_id":425,"user_id":599,"skill_id":4,"start_time":"2025-01-13 11:54:16","end_time":"2025-12-18 20:52:40","score":3.25,"status":"In Progress"}
+{"assessment_id":426,"user_id":851,"skill_id":2,"start_time":"2025-01-12 17:01:23","end_time":"2025-10-12 14:53:28","score":9.24,"status":"In Progress"}
+{"assessment_id":427,"user_id":735,"skill_id":1,"start_time":"2025-01-05 22:01:13","end_time":"2025-12-01 20:55:41","score":0.16,"status":"In Progress"}
+{"assessment_id":428,"user_id":234,"skill_id":5,"start_time":"2025-01-08 16:41:32","end_time":"2025-09-22 00:14:04","score":6.86,"status":"Completed"}
+{"assessment_id":429,"user_id":67,"skill_id":5,"start_time":"2025-01-06 20:09:28","end_time":"2025-05-30 23:37:47","score":0.12,"status":"In Progress"}
+{"assessment_id":430,"user_id":856,"skill_id":2,"start_time":"2025-01-29 08:36:58","end_time":"2025-07-13 08:44:03","score":2.24,"status":"In Progress"}
+{"assessment_id":431,"user_id":879,"skill_id":2,"start_time":"2025-01-15 19:43:47","end_time":"2025-01-17 17:20:34","score":6.38,"status":"In Progress"}
+{"assessment_id":432,"user_id":665,"skill_id":4,"start_time":"2025-01-14 15:00:13","end_time":"2025-12-12 09:47:04","score":0.7,"status":"Completed"}
+{"assessment_id":433,"user_id":500,"skill_id":4,"start_time":"2025-01-01 17:41:38","end_time":"2025-02-21 18:36:03","score":0.91,"status":"Completed"}
+{"assessment_id":434,"user_id":192,"skill_id":3,"start_time":"2025-01-01 10:45:52","end_time":"2025-07-16 05:17:16","score":6.28,"status":"Completed"}
+{"assessment_id":435,"user_id":517,"skill_id":4,"start_time":"2025-01-28 13:26:01","end_time":"2025-05-23 04:28:27","score":9.25,"status":"Completed"}
+{"assessment_id":436,"user_id":268,"skill_id":1,"start_time":"2025-01-30 18:45:27","end_time":"2025-04-22 09:27:18","score":6.18,"status":"Completed"}
+{"assessment_id":437,"user_id":857,"skill_id":5,"start_time":"2025-01-22 19:23:38","end_time":"2025-06-11 22:35:49","score":6.17,"status":"In Progress"}
+{"assessment_id":438,"user_id":615,"skill_id":2,"start_time":"2025-01-23 14:06:07","end_time":"2025-03-20 04:32:02","score":9.2,"status":"In Progress"}
+{"assessment_id":439,"user_id":447,"skill_id":4,"start_time":"2025-01-24 10:23:40","end_time":"2025-08-08 14:42:11","score":8.74,"status":"Completed"}
+{"assessment_id":440,"user_id":109,"skill_id":4,"start_time":"2025-01-22 19:32:57","end_time":"2025-11-23 09:09:54","score":5.66,"status":"In Progress"}
+{"assessment_id":441,"user_id":721,"skill_id":4,"start_time":"2025-01-10 04:10:57","end_time":"2025-04-24 20:12:14","score":3.3,"status":"Completed"}
+{"assessment_id":442,"user_id":86,"skill_id":5,"start_time":"2025-01-20 21:59:28","end_time":"2025-10-23 07:14:27","score":5.36,"status":"In Progress"}
+{"assessment_id":443,"user_id":226,"skill_id":1,"start_time":"2025-01-22 00:38:04","end_time":"2025-12-08 22:42:41","score":4.7,"status":"Completed"}
+{"assessment_id":444,"user_id":935,"skill_id":1,"start_time":"2025-01-05 20:43:56","end_time":"2025-04-09 08:36:07","score":6.19,"status":"Completed"}
+{"assessment_id":445,"user_id":623,"skill_id":1,"start_time":"2025-01-23 18:18:42","end_time":"2025-03-24 01:01:56","score":9.05,"status":"Completed"}
+{"assessment_id":446,"user_id":933,"skill_id":2,"start_time":"2025-01-19 01:02:58","end_time":"2025-01-26 22:46:02","score":2.26,"status":"In Progress"}
+{"assessment_id":447,"user_id":218,"skill_id":3,"start_time":"2025-01-18 15:15:11","end_time":"2025-07-26 07:26:19","score":7.11,"status":"Completed"}
+{"assessment_id":448,"user_id":407,"skill_id":1,"start_time":"2025-01-26 20:37:47","end_time":"2025-01-17 13:09:31","score":1.17,"status":"In Progress"}
+{"assessment_id":449,"user_id":218,"skill_id":5,"start_time":"2025-01-05 02:08:08","end_time":"2025-05-05 11:50:45","score":0.35,"status":"In Progress"}
+{"assessment_id":450,"user_id":252,"skill_id":2,"start_time":"2025-01-28 03:31:42","end_time":"2025-09-03 05:09:55","score":0.27,"status":"In Progress"}
+{"assessment_id":451,"user_id":544,"skill_id":2,"start_time":"2025-01-01 03:42:18","end_time":"2025-10-27 22:38:40","score":1.6,"status":"Completed"}
+{"assessment_id":452,"user_id":259,"skill_id":3,"start_time":"2025-01-14 10:00:24","end_time":"2025-06-10 11:02:31","score":1.5,"status":"Completed"}
+{"assessment_id":453,"user_id":419,"skill_id":5,"start_time":"2025-01-22 20:28:38","end_time":"2025-07-26 14:24:17","score":3.64,"status":"Completed"}
+{"assessment_id":454,"user_id":700,"skill_id":1,"start_time":"2025-01-29 02:54:49","end_time":"2025-02-06 09:17:09","score":2.87,"status":"Completed"}
+{"assessment_id":455,"user_id":933,"skill_id":5,"start_time":"2025-01-08 02:59:19","end_time":"2025-02-04 07:47:22","score":1.83,"status":"In Progress"}
+{"assessment_id":456,"user_id":518,"skill_id":3,"start_time":"2025-01-29 12:37:46","end_time":"2025-03-02 16:52:52","score":0.33,"status":"Completed"}
+{"assessment_id":457,"user_id":277,"skill_id":2,"start_time":"2025-01-21 23:36:35","end_time":"2025-12-24 03:14:11","score":2.91,"status":"In Progress"}
+{"assessment_id":458,"user_id":559,"skill_id":5,"start_time":"2025-01-07 11:01:04","end_time":"2025-05-10 22:09:41","score":0.5,"status":"In Progress"}
+{"assessment_id":459,"user_id":401,"skill_id":1,"start_time":"2025-01-05 05:44:46","end_time":"2025-08-08 15:05:05","score":4.66,"status":"Completed"}
+{"assessment_id":460,"user_id":780,"skill_id":4,"start_time":"2025-01-03 10:21:06","end_time":"2025-04-24 07:08:49","score":4.23,"status":"In Progress"}
+{"assessment_id":461,"user_id":415,"skill_id":1,"start_time":"2025-01-16 03:41:56","end_time":"2025-12-14 11:15:57","score":0.06,"status":"In Progress"}
+{"assessment_id":462,"user_id":920,"skill_id":4,"start_time":"2025-01-04 18:58:43","end_time":"2025-04-19 22:28:40","score":2.51,"status":"In Progress"}
+{"assessment_id":463,"user_id":626,"skill_id":2,"start_time":"2025-01-08 07:29:51","end_time":"2025-03-25 05:51:43","score":0.57,"status":"Completed"}
+{"assessment_id":464,"user_id":152,"skill_id":1,"start_time":"2025-01-06 23:56:53","end_time":"2025-06-25 08:03:37","score":2.02,"status":"Completed"}
+{"assessment_id":465,"user_id":993,"skill_id":5,"start_time":"2025-01-15 10:27:02","end_time":"2025-03-22 07:21:25","score":9.67,"status":"Completed"}
+{"assessment_id":466,"user_id":399,"skill_id":2,"start_time":"2025-01-18 04:41:52","end_time":"2025-12-08 12:48:25","score":3.61,"status":"In Progress"}
+{"assessment_id":467,"user_id":923,"skill_id":3,"start_time":"2025-01-27 06:06:55","end_time":"2025-06-27 14:40:30","score":0.0,"status":"In Progress"}
+{"assessment_id":468,"user_id":397,"skill_id":3,"start_time":"2025-01-09 01:45:28","end_time":"2025-03-10 20:44:14","score":4.73,"status":"Completed"}
+{"assessment_id":469,"user_id":327,"skill_id":1,"start_time":"2025-01-14 10:48:13","end_time":"2025-04-16 06:35:14","score":7.04,"status":"Completed"}
+{"assessment_id":470,"user_id":812,"skill_id":5,"start_time":"2025-01-01 08:54:42","end_time":"2025-06-27 20:39:31","score":5.7,"status":"Completed"}
+{"assessment_id":471,"user_id":145,"skill_id":2,"start_time":"2025-01-02 11:19:03","end_time":"2025-12-07 15:45:20","score":8.18,"status":"Completed"}
+{"assessment_id":472,"user_id":77,"skill_id":1,"start_time":"2025-01-09 15:58:11","end_time":"2025-06-14 13:05:07","score":1.51,"status":"Completed"}
+{"assessment_id":473,"user_id":175,"skill_id":4,"start_time":"2025-01-21 09:18:18","end_time":"2025-11-13 06:57:13","score":7.17,"status":"Completed"}
+{"assessment_id":474,"user_id":636,"skill_id":1,"start_time":"2025-01-18 20:40:28","end_time":"2025-01-01 04:21:45","score":6.17,"status":"In Progress"}
+{"assessment_id":475,"user_id":561,"skill_id":2,"start_time":"2025-01-27 12:24:54","end_time":"2025-09-03 19:25:55","score":9.56,"status":"Completed"}
+{"assessment_id":476,"user_id":233,"skill_id":3,"start_time":"2025-01-11 18:14:11","end_time":"2025-04-10 09:06:34","score":1.08,"status":"Completed"}
+{"assessment_id":477,"user_id":147,"skill_id":4,"start_time":"2025-01-24 03:25:46","end_time":"2025-05-19 23:08:57","score":3.29,"status":"Completed"}
+{"assessment_id":478,"user_id":231,"skill_id":1,"start_time":"2025-01-14 12:43:34","end_time":"2025-09-11 16:49:42","score":8.34,"status":"In Progress"}
+{"assessment_id":479,"user_id":323,"skill_id":5,"start_time":"2025-01-22 06:03:49","end_time":"2025-08-23 16:51:55","score":0.23,"status":"In Progress"}
+{"assessment_id":480,"user_id":212,"skill_id":1,"start_time":"2025-01-30 23:12:30","end_time":"2025-05-02 09:40:38","score":8.13,"status":"Completed"}
+{"assessment_id":481,"user_id":257,"skill_id":5,"start_time":"2025-01-13 13:20:46","end_time":"2025-12-28 16:49:39","score":1.99,"status":"In Progress"}
+{"assessment_id":482,"user_id":172,"skill_id":2,"start_time":"2025-01-03 20:08:14","end_time":"2025-08-24 20:03:42","score":0.4,"status":"In Progress"}
+{"assessment_id":483,"user_id":243,"skill_id":1,"start_time":"2025-01-12 22:50:01","end_time":"2025-09-08 09:32:48","score":1.67,"status":"Completed"}
+{"assessment_id":484,"user_id":794,"skill_id":2,"start_time":"2025-01-28 11:00:27","end_time":"2025-07-16 01:12:13","score":9.77,"status":"Completed"}
+{"assessment_id":485,"user_id":865,"skill_id":4,"start_time":"2025-01-03 15:55:32","end_time":"2025-02-13 11:32:24","score":3.48,"status":"Completed"}
+{"assessment_id":486,"user_id":597,"skill_id":2,"start_time":"2025-01-29 14:36:56","end_time":"2025-05-23 02:10:18","score":3.41,"status":"In Progress"}
+{"assessment_id":487,"user_id":20,"skill_id":1,"start_time":"2025-01-11 05:51:22","end_time":"2025-03-17 17:08:36","score":4.93,"status":"Completed"}
+{"assessment_id":488,"user_id":31,"skill_id":4,"start_time":"2025-01-24 05:59:23","end_time":"2025-04-15 14:07:17","score":3.8,"status":"Completed"}
+{"assessment_id":489,"user_id":818,"skill_id":4,"start_time":"2025-01-26 05:40:25","end_time":"2025-12-20 23:15:46","score":0.17,"status":"In Progress"}
+{"assessment_id":490,"user_id":892,"skill_id":4,"start_time":"2025-01-20 19:35:09","end_time":"2025-04-30 05:05:24","score":9.13,"status":"In Progress"}
+{"assessment_id":491,"user_id":376,"skill_id":2,"start_time":"2025-01-04 11:31:41","end_time":"2025-03-19 08:46:13","score":3.93,"status":"Completed"}
+{"assessment_id":492,"user_id":371,"skill_id":2,"start_time":"2025-01-16 23:03:03","end_time":"2025-03-17 15:36:27","score":3.32,"status":"Completed"}
+{"assessment_id":493,"user_id":302,"skill_id":1,"start_time":"2025-01-13 07:23:30","end_time":"2025-01-30 10:39:05","score":3.83,"status":"Completed"}
+{"assessment_id":494,"user_id":180,"skill_id":3,"start_time":"2025-01-01 16:10:40","end_time":"2025-10-05 15:51:48","score":6.25,"status":"Completed"}
+{"assessment_id":495,"user_id":285,"skill_id":4,"start_time":"2025-01-23 15:31:30","end_time":"2025-01-19 08:13:29","score":8.53,"status":"Completed"}
+{"assessment_id":496,"user_id":278,"skill_id":5,"start_time":"2025-01-09 04:40:47","end_time":"2025-11-12 14:19:24","score":6.41,"status":"In Progress"}
+{"assessment_id":497,"user_id":634,"skill_id":3,"start_time":"2025-01-01 18:26:58","end_time":"2025-08-11 15:11:17","score":9.61,"status":"In Progress"}
+{"assessment_id":498,"user_id":723,"skill_id":3,"start_time":"2025-01-18 09:09:34","end_time":"2025-01-29 16:33:05","score":3.91,"status":"Completed"}
+{"assessment_id":499,"user_id":547,"skill_id":5,"start_time":"2025-01-06 00:23:52","end_time":"2025-03-15 08:00:22","score":5.97,"status":"Completed"}
+{"assessment_id":500,"user_id":623,"skill_id":5,"start_time":"2025-01-22 04:41:46","end_time":"2025-06-15 13:11:45","score":7.89,"status":"In Progress"}
+{"assessment_id":501,"user_id":667,"skill_id":5,"start_time":"2025-01-11 00:26:22","end_time":"2025-07-13 10:20:46","score":1.71,"status":"Completed"}
+{"assessment_id":502,"user_id":693,"skill_id":5,"start_time":"2025-01-29 11:06:09","end_time":"2025-11-10 03:01:42","score":5.18,"status":"Completed"}
+{"assessment_id":503,"user_id":433,"skill_id":4,"start_time":"2025-01-20 02:30:03","end_time":"2025-07-19 18:04:23","score":3.4,"status":"In Progress"}
+{"assessment_id":504,"user_id":446,"skill_id":5,"start_time":"2025-01-30 11:53:48","end_time":"2025-07-06 11:06:46","score":6.76,"status":"In Progress"}
+{"assessment_id":505,"user_id":2,"skill_id":3,"start_time":"2025-01-03 08:46:47","end_time":"2025-12-02 01:30:57","score":7.2,"status":"In Progress"}
+{"assessment_id":506,"user_id":269,"skill_id":5,"start_time":"2025-01-09 05:34:55","end_time":"2025-02-12 18:04:30","score":9.78,"status":"Completed"}
+{"assessment_id":507,"user_id":916,"skill_id":3,"start_time":"2025-01-08 13:42:30","end_time":"2025-12-26 19:06:02","score":5.43,"status":"In Progress"}
+{"assessment_id":508,"user_id":380,"skill_id":3,"start_time":"2025-01-22 19:42:28","end_time":"2025-05-14 03:12:53","score":0.72,"status":"Completed"}
+{"assessment_id":509,"user_id":5,"skill_id":2,"start_time":"2025-01-24 11:40:02","end_time":"2025-02-07 16:40:47","score":2.0,"status":"Completed"}
+{"assessment_id":510,"user_id":148,"skill_id":4,"start_time":"2025-01-09 19:21:40","end_time":"2025-11-21 21:01:56","score":4.44,"status":"In Progress"}
+{"assessment_id":511,"user_id":406,"skill_id":3,"start_time":"2025-01-06 19:19:42","end_time":"2025-09-11 12:54:14","score":1.19,"status":"In Progress"}
+{"assessment_id":512,"user_id":703,"skill_id":4,"start_time":"2025-01-09 21:18:19","end_time":"2025-08-08 10:16:51","score":5.6,"status":"Completed"}
+{"assessment_id":513,"user_id":427,"skill_id":1,"start_time":"2025-01-25 20:51:08","end_time":"2025-03-21 02:50:54","score":5.34,"status":"Completed"}
+{"assessment_id":514,"user_id":172,"skill_id":4,"start_time":"2025-01-24 19:07:10","end_time":"2025-03-18 00:27:47","score":1.15,"status":"Completed"}
+{"assessment_id":515,"user_id":926,"skill_id":4,"start_time":"2025-01-30 13:08:39","end_time":"2025-05-06 02:38:42","score":6.08,"status":"In Progress"}
+{"assessment_id":516,"user_id":363,"skill_id":3,"start_time":"2025-01-20 09:11:59","end_time":"2025-03-23 16:01:50","score":8.46,"status":"Completed"}
+{"assessment_id":517,"user_id":848,"skill_id":3,"start_time":"2025-01-21 06:43:10","end_time":"2025-12-22 07:13:13","score":4.68,"status":"Completed"}
+{"assessment_id":518,"user_id":243,"skill_id":1,"start_time":"2025-01-25 09:46:12","end_time":"2025-07-30 22:49:58","score":3.13,"status":"Completed"}
+{"assessment_id":519,"user_id":14,"skill_id":5,"start_time":"2025-01-10 03:11:04","end_time":"2025-09-24 15:51:21","score":8.5,"status":"In Progress"}
+{"assessment_id":520,"user_id":403,"skill_id":4,"start_time":"2025-01-21 16:08:48","end_time":"2025-11-26 01:04:31","score":8.7,"status":"In Progress"}
+{"assessment_id":521,"user_id":662,"skill_id":4,"start_time":"2025-01-14 14:51:13","end_time":"2025-02-02 02:37:45","score":9.18,"status":"In Progress"}
+{"assessment_id":522,"user_id":520,"skill_id":5,"start_time":"2025-01-05 17:23:05","end_time":"2025-02-16 07:33:43","score":4.28,"status":"Completed"}
+{"assessment_id":523,"user_id":799,"skill_id":3,"start_time":"2025-01-01 07:53:23","end_time":"2025-09-11 11:18:05","score":0.56,"status":"Completed"}
+{"assessment_id":524,"user_id":27,"skill_id":4,"start_time":"2025-01-27 08:03:32","end_time":"2025-10-05 22:29:50","score":8.47,"status":"Completed"}
+{"assessment_id":525,"user_id":827,"skill_id":1,"start_time":"2025-01-18 09:32:25","end_time":"2025-03-02 15:49:49","score":5.07,"status":"In Progress"}
+{"assessment_id":526,"user_id":63,"skill_id":2,"start_time":"2025-01-16 22:31:32","end_time":"2025-09-19 09:29:50","score":2.37,"status":"In Progress"}
+{"assessment_id":527,"user_id":86,"skill_id":5,"start_time":"2025-01-28 11:48:58","end_time":"2025-12-12 15:59:18","score":2.06,"status":"Completed"}
+{"assessment_id":528,"user_id":800,"skill_id":3,"start_time":"2025-01-22 15:56:45","end_time":"2025-02-27 21:56:24","score":9.28,"status":"Completed"}
+{"assessment_id":529,"user_id":577,"skill_id":4,"start_time":"2025-01-16 05:18:52","end_time":"2025-04-08 18:35:40","score":8.81,"status":"Completed"}
+{"assessment_id":530,"user_id":934,"skill_id":2,"start_time":"2025-01-15 03:24:15","end_time":"2025-09-03 03:13:21","score":3.23,"status":"Completed"}
+{"assessment_id":531,"user_id":624,"skill_id":3,"start_time":"2025-01-15 20:45:44","end_time":"2025-09-04 07:01:12","score":8.26,"status":"Completed"}
+{"assessment_id":532,"user_id":451,"skill_id":5,"start_time":"2025-01-04 17:11:11","end_time":"2025-04-04 20:16:55","score":0.48,"status":"Completed"}
+{"assessment_id":533,"user_id":565,"skill_id":3,"start_time":"2025-01-11 09:42:24","end_time":"2025-02-17 07:55:32","score":4.66,"status":"Completed"}
+{"assessment_id":534,"user_id":810,"skill_id":3,"start_time":"2025-01-06 23:39:06","end_time":"2025-07-18 21:48:59","score":8.65,"status":"Completed"}
+{"assessment_id":535,"user_id":682,"skill_id":2,"start_time":"2025-01-09 10:03:51","end_time":"2025-02-28 12:22:56","score":5.59,"status":"In Progress"}
+{"assessment_id":536,"user_id":936,"skill_id":4,"start_time":"2025-01-03 07:01:24","end_time":"2025-07-08 08:10:14","score":7.45,"status":"In Progress"}
+{"assessment_id":537,"user_id":52,"skill_id":5,"start_time":"2025-01-08 21:04:35","end_time":"2025-08-16 09:56:48","score":3.11,"status":"In Progress"}
+{"assessment_id":538,"user_id":869,"skill_id":2,"start_time":"2025-01-29 04:34:21","end_time":"2025-06-27 10:58:05","score":0.64,"status":"Completed"}
+{"assessment_id":539,"user_id":573,"skill_id":4,"start_time":"2025-01-11 22:01:26","end_time":"2025-02-02 11:26:11","score":7.05,"status":"Completed"}
+{"assessment_id":540,"user_id":545,"skill_id":3,"start_time":"2025-01-06 07:57:29","end_time":"2025-05-22 17:42:30","score":4.26,"status":"In Progress"}
+{"assessment_id":541,"user_id":663,"skill_id":1,"start_time":"2025-01-26 13:45:17","end_time":"2025-03-15 06:32:12","score":9.26,"status":"In Progress"}
+{"assessment_id":542,"user_id":84,"skill_id":1,"start_time":"2025-01-10 08:42:24","end_time":"2025-07-24 18:00:28","score":0.8,"status":"In Progress"}
+{"assessment_id":543,"user_id":267,"skill_id":4,"start_time":"2025-01-08 21:28:28","end_time":"2025-02-06 09:58:03","score":3.36,"status":"Completed"}
+{"assessment_id":544,"user_id":340,"skill_id":1,"start_time":"2025-01-21 17:45:14","end_time":"2025-12-14 00:03:21","score":3.35,"status":"Completed"}
+{"assessment_id":545,"user_id":913,"skill_id":2,"start_time":"2025-01-11 09:25:51","end_time":"2025-06-28 03:47:00","score":9.83,"status":"In Progress"}
+{"assessment_id":546,"user_id":167,"skill_id":1,"start_time":"2025-01-19 11:36:55","end_time":"2025-05-22 08:54:28","score":6.19,"status":"In Progress"}
+{"assessment_id":547,"user_id":471,"skill_id":3,"start_time":"2025-01-07 20:07:37","end_time":"2025-01-01 07:45:28","score":3.24,"status":"Completed"}
+{"assessment_id":548,"user_id":101,"skill_id":1,"start_time":"2025-01-12 02:06:40","end_time":"2025-12-27 23:02:01","score":2.75,"status":"Completed"}
+{"assessment_id":549,"user_id":579,"skill_id":1,"start_time":"2025-01-07 10:18:40","end_time":"2025-10-10 09:55:48","score":3.11,"status":"In Progress"}
+{"assessment_id":550,"user_id":149,"skill_id":3,"start_time":"2025-01-25 07:04:32","end_time":"2025-04-01 11:21:38","score":9.38,"status":"Completed"}
+{"assessment_id":551,"user_id":88,"skill_id":5,"start_time":"2025-01-06 02:57:04","end_time":"2025-06-27 16:13:20","score":0.73,"status":"Completed"}
+{"assessment_id":552,"user_id":306,"skill_id":2,"start_time":"2025-01-22 05:52:29","end_time":"2025-06-20 22:43:28","score":7.25,"status":"In Progress"}
+{"assessment_id":553,"user_id":322,"skill_id":3,"start_time":"2025-01-09 14:15:54","end_time":"2025-01-20 19:49:37","score":6.47,"status":"Completed"}
+{"assessment_id":554,"user_id":294,"skill_id":2,"start_time":"2025-01-29 19:46:35","end_time":"2025-09-11 19:22:48","score":5.88,"status":"In Progress"}
+{"assessment_id":555,"user_id":61,"skill_id":3,"start_time":"2025-01-25 07:39:21","end_time":"2025-08-11 17:15:17","score":5.12,"status":"Completed"}
+{"assessment_id":556,"user_id":887,"skill_id":2,"start_time":"2025-01-30 23:51:55","end_time":"2025-02-27 02:43:13","score":3.31,"status":"In Progress"}
+{"assessment_id":557,"user_id":751,"skill_id":5,"start_time":"2025-01-07 04:54:43","end_time":"2025-07-31 20:47:14","score":0.63,"status":"In Progress"}
+{"assessment_id":558,"user_id":244,"skill_id":3,"start_time":"2025-01-14 08:10:53","end_time":"2025-12-15 15:45:10","score":1.52,"status":"In Progress"}
+{"assessment_id":559,"user_id":843,"skill_id":2,"start_time":"2025-01-24 22:06:00","end_time":"2025-03-21 03:29:15","score":1.39,"status":"In Progress"}
+{"assessment_id":560,"user_id":749,"skill_id":3,"start_time":"2025-01-18 13:25:05","end_time":"2025-12-13 10:50:16","score":3.67,"status":"In Progress"}
+{"assessment_id":561,"user_id":441,"skill_id":1,"start_time":"2025-01-26 09:30:13","end_time":"2025-12-03 09:53:54","score":9.47,"status":"Completed"}
+{"assessment_id":562,"user_id":13,"skill_id":1,"start_time":"2025-01-15 07:35:03","end_time":"2025-06-17 08:19:20","score":2.35,"status":"In Progress"}
+{"assessment_id":563,"user_id":365,"skill_id":5,"start_time":"2025-01-18 21:35:11","end_time":"2025-09-09 23:49:34","score":2.63,"status":"Completed"}
+{"assessment_id":564,"user_id":671,"skill_id":5,"start_time":"2025-01-25 11:51:54","end_time":"2025-10-23 01:07:00","score":1.1,"status":"In Progress"}
+{"assessment_id":565,"user_id":506,"skill_id":4,"start_time":"2025-01-07 18:42:08","end_time":"2025-01-09 04:24:54","score":7.81,"status":"In Progress"}
+{"assessment_id":566,"user_id":537,"skill_id":1,"start_time":"2025-01-18 06:31:58","end_time":"2025-05-19 02:55:26","score":7.0,"status":"Completed"}
+{"assessment_id":567,"user_id":27,"skill_id":3,"start_time":"2025-01-05 15:00:43","end_time":"2025-07-30 19:02:48","score":5.07,"status":"Completed"}
+{"assessment_id":568,"user_id":792,"skill_id":4,"start_time":"2025-01-01 04:17:50","end_time":"2025-09-03 06:04:28","score":6.88,"status":"Completed"}
+{"assessment_id":569,"user_id":691,"skill_id":1,"start_time":"2025-01-24 19:22:07","end_time":"2025-01-29 09:58:45","score":7.17,"status":"In Progress"}
+{"assessment_id":570,"user_id":480,"skill_id":2,"start_time":"2025-01-15 08:24:31","end_time":"2025-04-04 01:45:57","score":6.05,"status":"In Progress"}
+{"assessment_id":571,"user_id":195,"skill_id":2,"start_time":"2025-01-09 02:55:01","end_time":"2025-09-03 21:07:54","score":9.48,"status":"Completed"}
+{"assessment_id":572,"user_id":585,"skill_id":1,"start_time":"2025-01-27 03:09:41","end_time":"2025-12-29 00:48:03","score":9.55,"status":"In Progress"}
+{"assessment_id":573,"user_id":544,"skill_id":3,"start_time":"2025-01-02 06:44:37","end_time":"2025-09-05 17:36:37","score":1.73,"status":"Completed"}
+{"assessment_id":574,"user_id":127,"skill_id":5,"start_time":"2025-01-06 04:15:22","end_time":"2025-04-01 18:10:29","score":2.06,"status":"In Progress"}
+{"assessment_id":575,"user_id":719,"skill_id":1,"start_time":"2025-01-05 15:11:42","end_time":"2025-06-12 00:17:54","score":1.64,"status":"In Progress"}
+{"assessment_id":576,"user_id":230,"skill_id":4,"start_time":"2025-01-13 05:53:13","end_time":"2025-08-26 21:28:30","score":1.13,"status":"Completed"}
+{"assessment_id":577,"user_id":416,"skill_id":2,"start_time":"2025-01-03 20:56:27","end_time":"2025-12-14 12:25:06","score":0.94,"status":"In Progress"}
+{"assessment_id":578,"user_id":433,"skill_id":4,"start_time":"2025-01-12 14:11:01","end_time":"2025-09-15 19:16:48","score":7.12,"status":"Completed"}
+{"assessment_id":579,"user_id":523,"skill_id":3,"start_time":"2025-01-22 08:07:20","end_time":"2025-11-19 12:31:53","score":2.8,"status":"Completed"}
+{"assessment_id":580,"user_id":684,"skill_id":4,"start_time":"2025-01-17 03:56:06","end_time":"2025-05-15 23:38:07","score":8.36,"status":"In Progress"}
+{"assessment_id":581,"user_id":394,"skill_id":1,"start_time":"2025-01-02 03:19:23","end_time":"2025-09-15 14:52:04","score":8.26,"status":"In Progress"}
+{"assessment_id":582,"user_id":183,"skill_id":1,"start_time":"2025-01-11 20:05:40","end_time":"2025-10-13 15:59:30","score":8.46,"status":"Completed"}
+{"assessment_id":583,"user_id":290,"skill_id":1,"start_time":"2025-01-18 15:15:01","end_time":"2025-08-24 23:34:20","score":5.37,"status":"In Progress"}
+{"assessment_id":584,"user_id":884,"skill_id":4,"start_time":"2025-01-27 15:51:27","end_time":"2025-04-17 08:41:17","score":0.65,"status":"In Progress"}
+{"assessment_id":585,"user_id":878,"skill_id":4,"start_time":"2025-01-20 17:32:12","end_time":"2025-12-06 07:50:08","score":0.12,"status":"In Progress"}
+{"assessment_id":586,"user_id":570,"skill_id":4,"start_time":"2025-01-07 22:53:52","end_time":"2025-06-11 03:30:18","score":1.24,"status":"Completed"}
+{"assessment_id":587,"user_id":239,"skill_id":3,"start_time":"2025-01-08 13:55:48","end_time":"2025-05-26 00:12:09","score":8.05,"status":"In Progress"}
+{"assessment_id":588,"user_id":18,"skill_id":1,"start_time":"2025-01-24 08:20:37","end_time":"2025-04-27 14:22:28","score":4.61,"status":"In Progress"}
+{"assessment_id":589,"user_id":817,"skill_id":1,"start_time":"2025-01-10 19:05:24","end_time":"2025-06-14 18:46:19","score":9.74,"status":"In Progress"}
+{"assessment_id":590,"user_id":415,"skill_id":2,"start_time":"2025-01-14 11:56:38","end_time":"2025-01-15 09:12:08","score":5.35,"status":"Completed"}
+{"assessment_id":591,"user_id":45,"skill_id":1,"start_time":"2025-01-15 03:21:17","end_time":"2025-07-12 20:12:09","score":7.81,"status":"In Progress"}
+{"assessment_id":592,"user_id":298,"skill_id":1,"start_time":"2025-01-28 05:00:29","end_time":"2025-07-22 02:49:29","score":6.58,"status":"In Progress"}
+{"assessment_id":593,"user_id":473,"skill_id":4,"start_time":"2025-01-24 22:26:34","end_time":"2025-07-16 01:27:03","score":8.31,"status":"In Progress"}
+{"assessment_id":594,"user_id":896,"skill_id":3,"start_time":"2025-01-29 01:06:35","end_time":"2025-08-11 15:31:22","score":7.65,"status":"In Progress"}
+{"assessment_id":595,"user_id":146,"skill_id":3,"start_time":"2025-01-08 03:09:47","end_time":"2025-08-22 04:30:50","score":3.34,"status":"In Progress"}
+{"assessment_id":596,"user_id":314,"skill_id":5,"start_time":"2025-01-03 03:27:23","end_time":"2025-01-21 21:03:40","score":1.55,"status":"Completed"}
+{"assessment_id":597,"user_id":266,"skill_id":1,"start_time":"2025-01-21 07:59:33","end_time":"2025-05-20 21:20:39","score":6.47,"status":"Completed"}
+{"assessment_id":598,"user_id":64,"skill_id":2,"start_time":"2025-01-26 10:40:02","end_time":"2025-11-24 20:57:43","score":9.54,"status":"Completed"}
+{"assessment_id":599,"user_id":348,"skill_id":5,"start_time":"2025-01-08 12:21:05","end_time":"2025-12-11 05:56:01","score":5.6,"status":"In Progress"}
+{"assessment_id":600,"user_id":435,"skill_id":1,"start_time":"2025-01-30 02:36:28","end_time":"2025-09-17 17:06:35","score":3.94,"status":"Completed"}
+{"assessment_id":601,"user_id":782,"skill_id":4,"start_time":"2025-01-05 13:21:44","end_time":"2025-04-13 06:15:54","score":7.65,"status":"In Progress"}
+{"assessment_id":602,"user_id":316,"skill_id":5,"start_time":"2025-01-12 00:12:15","end_time":"2025-07-29 19:08:22","score":2.09,"status":"Completed"}
+{"assessment_id":603,"user_id":292,"skill_id":5,"start_time":"2025-01-06 04:35:07","end_time":"2025-06-06 06:46:52","score":3.37,"status":"In Progress"}
+{"assessment_id":604,"user_id":117,"skill_id":5,"start_time":"2025-01-09 18:45:17","end_time":"2025-07-20 17:18:02","score":7.67,"status":"Completed"}
+{"assessment_id":605,"user_id":904,"skill_id":5,"start_time":"2025-01-26 05:16:29","end_time":"2025-12-12 00:45:43","score":5.72,"status":"In Progress"}
+{"assessment_id":606,"user_id":814,"skill_id":4,"start_time":"2025-01-04 13:31:48","end_time":"2025-10-22 09:38:16","score":6.35,"status":"Completed"}
+{"assessment_id":607,"user_id":328,"skill_id":2,"start_time":"2025-01-13 04:47:01","end_time":"2025-05-25 03:07:59","score":2.97,"status":"In Progress"}
+{"assessment_id":608,"user_id":709,"skill_id":1,"start_time":"2025-01-24 10:45:33","end_time":"2025-05-11 18:10:10","score":1.2,"status":"Completed"}
+{"assessment_id":609,"user_id":447,"skill_id":1,"start_time":"2025-01-25 19:30:19","end_time":"2025-03-16 08:22:02","score":5.12,"status":"Completed"}
+{"assessment_id":610,"user_id":171,"skill_id":5,"start_time":"2025-01-19 04:37:48","end_time":"2025-03-24 15:03:52","score":8.87,"status":"Completed"}
+{"assessment_id":611,"user_id":158,"skill_id":4,"start_time":"2025-01-14 12:57:46","end_time":"2025-01-26 19:19:01","score":7.65,"status":"Completed"}
+{"assessment_id":612,"user_id":647,"skill_id":2,"start_time":"2025-01-15 01:08:53","end_time":"2025-11-22 01:58:12","score":9.55,"status":"Completed"}
+{"assessment_id":613,"user_id":48,"skill_id":1,"start_time":"2025-01-01 11:37:21","end_time":"2025-10-05 08:17:01","score":2.52,"status":"In Progress"}
+{"assessment_id":614,"user_id":169,"skill_id":3,"start_time":"2025-01-27 09:08:16","end_time":"2025-08-13 01:31:01","score":8.71,"status":"In Progress"}
+{"assessment_id":615,"user_id":893,"skill_id":4,"start_time":"2025-01-02 01:46:09","end_time":"2025-10-24 01:15:16","score":9.96,"status":"In Progress"}
+{"assessment_id":616,"user_id":26,"skill_id":5,"start_time":"2025-01-24 23:14:33","end_time":"2025-03-24 09:43:03","score":7.29,"status":"In Progress"}
+{"assessment_id":617,"user_id":73,"skill_id":5,"start_time":"2025-01-01 13:57:24","end_time":"2025-06-19 09:50:12","score":0.7,"status":"Completed"}
+{"assessment_id":618,"user_id":806,"skill_id":1,"start_time":"2025-01-07 13:46:50","end_time":"2025-01-04 07:35:37","score":1.21,"status":"In Progress"}
+{"assessment_id":619,"user_id":419,"skill_id":3,"start_time":"2025-01-29 13:42:46","end_time":"2025-07-18 22:38:59","score":3.33,"status":"In Progress"}
+{"assessment_id":620,"user_id":930,"skill_id":1,"start_time":"2025-01-18 03:29:53","end_time":"2025-04-20 12:50:00","score":0.06,"status":"In Progress"}
+{"assessment_id":621,"user_id":927,"skill_id":4,"start_time":"2025-01-03 01:51:27","end_time":"2025-06-06 13:46:48","score":3.53,"status":"In Progress"}
+{"assessment_id":622,"user_id":814,"skill_id":1,"start_time":"2025-01-23 13:58:24","end_time":"2025-01-14 15:52:09","score":5.04,"status":"In Progress"}
+{"assessment_id":623,"user_id":289,"skill_id":1,"start_time":"2025-01-01 17:01:17","end_time":"2025-09-23 05:23:28","score":9.5,"status":"In Progress"}
+{"assessment_id":624,"user_id":200,"skill_id":1,"start_time":"2025-01-14 01:54:08","end_time":"2025-09-05 12:03:31","score":6.12,"status":"In Progress"}
+{"assessment_id":625,"user_id":126,"skill_id":4,"start_time":"2025-01-20 03:39:27","end_time":"2025-02-18 14:41:57","score":4.96,"status":"Completed"}
+{"assessment_id":626,"user_id":86,"skill_id":4,"start_time":"2025-01-15 07:54:48","end_time":"2025-01-21 00:47:54","score":3.98,"status":"Completed"}
+{"assessment_id":627,"user_id":730,"skill_id":4,"start_time":"2025-01-03 14:43:39","end_time":"2025-12-27 11:56:29","score":6.12,"status":"Completed"}
+{"assessment_id":628,"user_id":135,"skill_id":2,"start_time":"2025-01-24 16:58:35","end_time":"2025-06-17 01:29:52","score":9.99,"status":"In Progress"}
+{"assessment_id":629,"user_id":442,"skill_id":1,"start_time":"2025-01-03 20:38:51","end_time":"2025-05-02 00:11:28","score":6.79,"status":"In Progress"}
+{"assessment_id":630,"user_id":12,"skill_id":1,"start_time":"2025-01-26 03:45:51","end_time":"2025-10-23 01:31:22","score":4.99,"status":"Completed"}
+{"assessment_id":631,"user_id":124,"skill_id":1,"start_time":"2025-01-20 06:43:30","end_time":"2025-09-13 18:17:05","score":4.62,"status":"Completed"}
+{"assessment_id":632,"user_id":561,"skill_id":2,"start_time":"2025-01-05 22:19:35","end_time":"2025-04-27 21:17:23","score":3.85,"status":"In Progress"}
+{"assessment_id":633,"user_id":69,"skill_id":3,"start_time":"2025-01-10 06:55:24","end_time":"2025-04-02 06:59:33","score":3.08,"status":"Completed"}
+{"assessment_id":634,"user_id":790,"skill_id":5,"start_time":"2025-01-13 14:09:29","end_time":"2025-03-29 18:25:27","score":6.77,"status":"In Progress"}
+{"assessment_id":635,"user_id":357,"skill_id":4,"start_time":"2025-01-29 01:15:48","end_time":"2025-01-07 11:47:52","score":5.93,"status":"Completed"}
+{"assessment_id":636,"user_id":278,"skill_id":4,"start_time":"2025-01-04 20:10:08","end_time":"2025-03-31 22:56:31","score":8.8,"status":"Completed"}
+{"assessment_id":637,"user_id":387,"skill_id":1,"start_time":"2025-01-01 09:15:23","end_time":"2025-06-26 14:15:50","score":0.52,"status":"In Progress"}
+{"assessment_id":638,"user_id":776,"skill_id":4,"start_time":"2025-01-16 10:27:31","end_time":"2025-05-10 10:01:50","score":0.21,"status":"In Progress"}
+{"assessment_id":639,"user_id":839,"skill_id":4,"start_time":"2025-01-28 18:36:14","end_time":"2025-05-07 11:34:17","score":3.45,"status":"In Progress"}
+{"assessment_id":640,"user_id":253,"skill_id":1,"start_time":"2025-01-07 04:57:09","end_time":"2025-05-24 10:24:26","score":1.75,"status":"Completed"}
+{"assessment_id":641,"user_id":999,"skill_id":3,"start_time":"2025-01-05 01:37:09","end_time":"2025-09-05 03:56:35","score":8.77,"status":"In Progress"}
+{"assessment_id":642,"user_id":127,"skill_id":2,"start_time":"2025-01-09 13:06:05","end_time":"2025-08-15 02:07:48","score":7.83,"status":"In Progress"}
+{"assessment_id":643,"user_id":53,"skill_id":2,"start_time":"2025-01-25 03:17:10","end_time":"2025-10-08 17:44:13","score":2.85,"status":"In Progress"}
+{"assessment_id":644,"user_id":666,"skill_id":5,"start_time":"2025-01-27 07:01:23","end_time":"2025-08-16 00:04:46","score":8.4,"status":"Completed"}
+{"assessment_id":645,"user_id":398,"skill_id":3,"start_time":"2025-01-26 23:57:38","end_time":"2025-12-03 14:22:53","score":2.61,"status":"Completed"}
+{"assessment_id":646,"user_id":370,"skill_id":1,"start_time":"2025-01-12 15:37:42","end_time":"2025-11-30 08:57:54","score":1.18,"status":"Completed"}
+{"assessment_id":647,"user_id":983,"skill_id":1,"start_time":"2025-01-23 05:27:25","end_time":"2025-11-15 23:37:38","score":0.6,"status":"In Progress"}
+{"assessment_id":648,"user_id":532,"skill_id":3,"start_time":"2025-01-06 13:36:00","end_time":"2025-05-15 02:41:11","score":9.16,"status":"In Progress"}
+{"assessment_id":649,"user_id":424,"skill_id":4,"start_time":"2025-01-26 22:41:38","end_time":"2025-05-14 13:25:03","score":4.26,"status":"Completed"}
+{"assessment_id":650,"user_id":285,"skill_id":1,"start_time":"2025-01-13 17:35:26","end_time":"2025-07-07 15:50:57","score":4.99,"status":"In Progress"}
+{"assessment_id":651,"user_id":487,"skill_id":5,"start_time":"2025-01-17 09:02:38","end_time":"2025-01-23 06:59:58","score":4.22,"status":"Completed"}
+{"assessment_id":652,"user_id":477,"skill_id":5,"start_time":"2025-01-07 02:00:23","end_time":"2025-09-18 17:46:25","score":4.38,"status":"Completed"}
+{"assessment_id":653,"user_id":76,"skill_id":4,"start_time":"2025-01-30 12:45:43","end_time":"2025-07-22 13:51:23","score":1.9,"status":"In Progress"}
+{"assessment_id":654,"user_id":258,"skill_id":2,"start_time":"2025-01-19 09:37:48","end_time":"2025-11-02 04:24:07","score":1.63,"status":"In Progress"}
+{"assessment_id":655,"user_id":510,"skill_id":2,"start_time":"2025-01-21 09:21:38","end_time":"2025-08-24 21:34:41","score":9.22,"status":"In Progress"}
+{"assessment_id":656,"user_id":126,"skill_id":2,"start_time":"2025-01-29 10:31:20","end_time":"2025-03-28 04:48:43","score":0.69,"status":"Completed"}
+{"assessment_id":657,"user_id":320,"skill_id":2,"start_time":"2025-01-26 14:02:10","end_time":"2025-04-11 18:00:26","score":8.26,"status":"Completed"}
+{"assessment_id":658,"user_id":940,"skill_id":5,"start_time":"2025-01-26 15:07:01","end_time":"2025-12-22 22:26:06","score":8.84,"status":"Completed"}
+{"assessment_id":659,"user_id":764,"skill_id":5,"start_time":"2025-01-17 16:00:59","end_time":"2025-01-28 06:09:49","score":2.93,"status":"In Progress"}
+{"assessment_id":660,"user_id":310,"skill_id":4,"start_time":"2025-01-24 04:01:23","end_time":"2025-04-18 07:50:22","score":8.8,"status":"In Progress"}
+{"assessment_id":661,"user_id":968,"skill_id":4,"start_time":"2025-01-02 00:58:53","end_time":"2025-05-10 01:22:00","score":3.95,"status":"In Progress"}
+{"assessment_id":662,"user_id":423,"skill_id":3,"start_time":"2025-01-09 02:19:32","end_time":"2025-06-04 11:53:17","score":8.69,"status":"Completed"}
+{"assessment_id":663,"user_id":342,"skill_id":2,"start_time":"2025-01-13 07:47:08","end_time":"2025-05-10 17:03:17","score":7.51,"status":"In Progress"}
+{"assessment_id":664,"user_id":136,"skill_id":3,"start_time":"2025-01-30 01:17:05","end_time":"2025-07-22 04:33:16","score":8.38,"status":"Completed"}
+{"assessment_id":665,"user_id":596,"skill_id":2,"start_time":"2025-01-27 03:10:53","end_time":"2025-05-02 13:25:13","score":6.51,"status":"In Progress"}
+{"assessment_id":666,"user_id":29,"skill_id":3,"start_time":"2025-01-27 11:02:22","end_time":"2025-04-23 18:53:15","score":5.15,"status":"In Progress"}
+{"assessment_id":667,"user_id":238,"skill_id":1,"start_time":"2025-01-04 16:18:57","end_time":"2025-12-21 14:37:21","score":6.57,"status":"Completed"}
+{"assessment_id":668,"user_id":688,"skill_id":1,"start_time":"2025-01-04 19:28:15","end_time":"2025-08-10 16:48:38","score":7.29,"status":"Completed"}
+{"assessment_id":669,"user_id":492,"skill_id":5,"start_time":"2025-01-20 02:44:08","end_time":"2025-09-28 11:22:29","score":4.63,"status":"Completed"}
+{"assessment_id":670,"user_id":443,"skill_id":2,"start_time":"2025-01-24 11:10:45","end_time":"2025-08-05 15:42:28","score":3.67,"status":"Completed"}
+{"assessment_id":671,"user_id":494,"skill_id":5,"start_time":"2025-01-23 01:30:03","end_time":"2025-06-08 02:20:41","score":4.06,"status":"Completed"}
+{"assessment_id":672,"user_id":699,"skill_id":2,"start_time":"2025-01-11 13:35:56","end_time":"2025-01-17 07:23:06","score":4.62,"status":"Completed"}
+{"assessment_id":673,"user_id":469,"skill_id":3,"start_time":"2025-01-11 02:35:43","end_time":"2025-06-04 21:06:48","score":6.86,"status":"In Progress"}
+{"assessment_id":674,"user_id":388,"skill_id":1,"start_time":"2025-01-06 21:22:07","end_time":"2025-07-11 07:36:03","score":4.06,"status":"Completed"}
+{"assessment_id":675,"user_id":408,"skill_id":1,"start_time":"2025-01-17 10:16:12","end_time":"2025-09-18 12:16:49","score":9.42,"status":"In Progress"}
+{"assessment_id":676,"user_id":169,"skill_id":5,"start_time":"2025-01-26 05:02:07","end_time":"2025-05-25 10:38:48","score":7.98,"status":"Completed"}
+{"assessment_id":677,"user_id":193,"skill_id":3,"start_time":"2025-01-02 09:06:31","end_time":"2025-02-19 12:15:44","score":1.89,"status":"Completed"}
+{"assessment_id":678,"user_id":616,"skill_id":1,"start_time":"2025-01-24 12:11:12","end_time":"2025-10-11 04:01:38","score":9.79,"status":"Completed"}
+{"assessment_id":679,"user_id":957,"skill_id":4,"start_time":"2025-01-24 03:15:57","end_time":"2025-12-17 03:27:41","score":0.24,"status":"In Progress"}
+{"assessment_id":680,"user_id":84,"skill_id":5,"start_time":"2025-01-06 19:26:25","end_time":"2025-08-06 01:49:08","score":9.13,"status":"In Progress"}
+{"assessment_id":681,"user_id":473,"skill_id":1,"start_time":"2025-01-24 08:30:28","end_time":"2025-11-04 22:46:07","score":4.98,"status":"In Progress"}
+{"assessment_id":682,"user_id":20,"skill_id":5,"start_time":"2025-01-02 04:15:46","end_time":"2025-09-12 04:46:26","score":3.47,"status":"In Progress"}
+{"assessment_id":683,"user_id":15,"skill_id":1,"start_time":"2025-01-22 18:53:13","end_time":"2025-09-18 16:33:11","score":4.07,"status":"In Progress"}
+{"assessment_id":684,"user_id":205,"skill_id":1,"start_time":"2025-01-07 06:35:24","end_time":"2025-07-23 20:48:56","score":5.69,"status":"In Progress"}
+{"assessment_id":685,"user_id":110,"skill_id":3,"start_time":"2025-01-20 19:46:22","end_time":"2025-06-10 06:46:40","score":7.44,"status":"Completed"}
+{"assessment_id":686,"user_id":165,"skill_id":3,"start_time":"2025-01-28 08:56:10","end_time":"2025-03-27 22:39:22","score":5.36,"status":"In Progress"}
+{"assessment_id":687,"user_id":622,"skill_id":5,"start_time":"2025-01-26 01:13:33","end_time":"2025-11-12 16:11:38","score":5.11,"status":"Completed"}
+{"assessment_id":688,"user_id":732,"skill_id":2,"start_time":"2025-01-23 14:30:30","end_time":"2025-01-15 08:58:40","score":2.16,"status":"Completed"}
+{"assessment_id":689,"user_id":779,"skill_id":4,"start_time":"2025-01-10 22:28:02","end_time":"2025-07-14 19:38:10","score":7.48,"status":"In Progress"}
+{"assessment_id":690,"user_id":126,"skill_id":2,"start_time":"2025-01-23 13:16:10","end_time":"2025-09-02 15:56:35","score":7.77,"status":"In Progress"}
+{"assessment_id":691,"user_id":775,"skill_id":5,"start_time":"2025-01-30 10:56:28","end_time":"2025-02-16 14:54:00","score":1.93,"status":"In Progress"}
+{"assessment_id":692,"user_id":340,"skill_id":2,"start_time":"2025-01-22 20:42:58","end_time":"2025-02-26 22:50:36","score":3.24,"status":"Completed"}
+{"assessment_id":693,"user_id":53,"skill_id":2,"start_time":"2025-01-25 12:35:01","end_time":"2025-01-08 23:17:07","score":8.83,"status":"In Progress"}
+{"assessment_id":694,"user_id":486,"skill_id":4,"start_time":"2025-01-30 12:03:48","end_time":"2025-12-07 08:31:44","score":1.27,"status":"In Progress"}
+{"assessment_id":695,"user_id":159,"skill_id":4,"start_time":"2025-01-01 21:30:38","end_time":"2025-08-04 18:22:33","score":4.24,"status":"Completed"}
+{"assessment_id":696,"user_id":56,"skill_id":4,"start_time":"2025-01-01 16:26:53","end_time":"2025-01-27 03:10:00","score":0.78,"status":"In Progress"}
+{"assessment_id":697,"user_id":681,"skill_id":1,"start_time":"2025-01-29 18:53:38","end_time":"2025-04-01 16:57:31","score":5.72,"status":"In Progress"}
+{"assessment_id":698,"user_id":650,"skill_id":5,"start_time":"2025-01-10 17:03:48","end_time":"2025-03-23 23:50:01","score":7.59,"status":"In Progress"}
+{"assessment_id":699,"user_id":134,"skill_id":3,"start_time":"2025-01-15 23:02:27","end_time":"2025-10-24 03:43:01","score":6.11,"status":"In Progress"}
+{"assessment_id":700,"user_id":225,"skill_id":5,"start_time":"2025-01-11 17:39:29","end_time":"2025-02-21 00:57:47","score":3.03,"status":"Completed"}
+{"assessment_id":701,"user_id":958,"skill_id":4,"start_time":"2025-01-06 14:09:34","end_time":"2025-02-11 03:53:25","score":2.02,"status":"In Progress"}
+{"assessment_id":702,"user_id":65,"skill_id":3,"start_time":"2025-01-04 09:24:05","end_time":"2025-04-23 03:18:09","score":2.66,"status":"In Progress"}
+{"assessment_id":703,"user_id":162,"skill_id":2,"start_time":"2025-01-08 12:42:23","end_time":"2025-06-08 08:18:04","score":8.94,"status":"In Progress"}
+{"assessment_id":704,"user_id":620,"skill_id":1,"start_time":"2025-01-20 14:04:42","end_time":"2025-06-28 23:30:59","score":4.95,"status":"In Progress"}
+{"assessment_id":705,"user_id":658,"skill_id":2,"start_time":"2025-01-20 10:42:23","end_time":"2025-12-14 21:22:52","score":1.36,"status":"Completed"}
+{"assessment_id":706,"user_id":289,"skill_id":1,"start_time":"2025-01-21 00:36:25","end_time":"2025-11-10 14:03:38","score":7.28,"status":"In Progress"}
+{"assessment_id":707,"user_id":368,"skill_id":1,"start_time":"2025-01-28 13:33:14","end_time":"2025-10-20 03:43:09","score":1.95,"status":"In Progress"}
+{"assessment_id":708,"user_id":651,"skill_id":4,"start_time":"2025-01-18 09:34:41","end_time":"2025-07-18 13:37:13","score":8.71,"status":"In Progress"}
+{"assessment_id":709,"user_id":325,"skill_id":4,"start_time":"2025-01-02 05:38:42","end_time":"2025-02-20 00:57:05","score":4.25,"status":"In Progress"}
+{"assessment_id":710,"user_id":269,"skill_id":5,"start_time":"2025-01-05 23:13:35","end_time":"2025-04-07 05:41:51","score":4.12,"status":"Completed"}
+{"assessment_id":711,"user_id":427,"skill_id":2,"start_time":"2025-01-14 08:51:27","end_time":"2025-11-20 22:19:25","score":1.68,"status":"In Progress"}
+{"assessment_id":712,"user_id":799,"skill_id":3,"start_time":"2025-01-23 23:49:10","end_time":"2025-03-01 07:02:47","score":8.76,"status":"Completed"}
+{"assessment_id":713,"user_id":180,"skill_id":2,"start_time":"2025-01-02 20:40:02","end_time":"2025-08-02 14:21:53","score":0.06,"status":"Completed"}
+{"assessment_id":714,"user_id":46,"skill_id":2,"start_time":"2025-01-15 19:25:34","end_time":"2025-10-13 04:59:27","score":5.6,"status":"In Progress"}
+{"assessment_id":715,"user_id":944,"skill_id":2,"start_time":"2025-01-26 15:29:30","end_time":"2025-08-27 13:18:05","score":7.22,"status":"Completed"}
+{"assessment_id":716,"user_id":810,"skill_id":2,"start_time":"2025-01-04 21:04:43","end_time":"2025-11-11 05:01:07","score":3.17,"status":"Completed"}
+{"assessment_id":717,"user_id":621,"skill_id":1,"start_time":"2025-01-11 03:45:23","end_time":"2025-07-14 16:09:42","score":4.92,"status":"In Progress"}
+{"assessment_id":718,"user_id":492,"skill_id":5,"start_time":"2025-01-06 12:35:40","end_time":"2025-09-09 14:26:54","score":3.92,"status":"Completed"}
+{"assessment_id":719,"user_id":725,"skill_id":1,"start_time":"2025-01-07 09:53:11","end_time":"2025-01-16 15:55:16","score":4.05,"status":"In Progress"}
+{"assessment_id":720,"user_id":959,"skill_id":4,"start_time":"2025-01-08 07:48:57","end_time":"2025-04-10 15:56:20","score":6.78,"status":"In Progress"}
+{"assessment_id":721,"user_id":549,"skill_id":4,"start_time":"2025-01-16 00:37:01","end_time":"2025-10-15 08:31:08","score":8.69,"status":"In Progress"}
+{"assessment_id":722,"user_id":378,"skill_id":1,"start_time":"2025-01-23 14:07:54","end_time":"2025-08-31 02:00:22","score":9.33,"status":"Completed"}
+{"assessment_id":723,"user_id":489,"skill_id":1,"start_time":"2025-01-10 02:11:41","end_time":"2025-11-05 01:41:57","score":6.2,"status":"Completed"}
+{"assessment_id":724,"user_id":80,"skill_id":2,"start_time":"2025-01-23 09:50:30","end_time":"2025-11-15 06:01:37","score":2.17,"status":"Completed"}
+{"assessment_id":725,"user_id":961,"skill_id":3,"start_time":"2025-01-14 16:49:50","end_time":"2025-03-31 18:40:14","score":3.12,"status":"In Progress"}
+{"assessment_id":726,"user_id":502,"skill_id":5,"start_time":"2025-01-04 15:09:57","end_time":"2025-11-06 17:24:21","score":5.03,"status":"In Progress"}
+{"assessment_id":727,"user_id":247,"skill_id":1,"start_time":"2025-01-12 21:58:18","end_time":"2025-06-26 17:44:11","score":9.35,"status":"In Progress"}
+{"assessment_id":728,"user_id":658,"skill_id":1,"start_time":"2025-01-07 03:27:17","end_time":"2025-02-08 21:48:37","score":2.25,"status":"Completed"}
+{"assessment_id":729,"user_id":31,"skill_id":2,"start_time":"2025-01-14 00:55:19","end_time":"2025-01-21 19:57:45","score":5.71,"status":"In Progress"}
+{"assessment_id":730,"user_id":890,"skill_id":2,"start_time":"2025-01-07 01:31:21","end_time":"2025-08-07 09:16:31","score":1.5,"status":"In Progress"}
+{"assessment_id":731,"user_id":862,"skill_id":4,"start_time":"2025-01-19 09:32:37","end_time":"2025-05-11 11:48:56","score":9.77,"status":"In Progress"}
+{"assessment_id":732,"user_id":547,"skill_id":1,"start_time":"2025-01-11 02:09:19","end_time":"2025-08-09 14:21:03","score":0.59,"status":"In Progress"}
+{"assessment_id":733,"user_id":885,"skill_id":2,"start_time":"2025-01-29 15:15:38","end_time":"2025-02-06 08:30:21","score":1.12,"status":"Completed"}
+{"assessment_id":734,"user_id":90,"skill_id":2,"start_time":"2025-01-07 23:52:38","end_time":"2025-07-18 03:43:59","score":8.45,"status":"Completed"}
+{"assessment_id":735,"user_id":357,"skill_id":5,"start_time":"2025-01-21 19:39:32","end_time":"2025-07-29 16:03:52","score":4.73,"status":"Completed"}
+{"assessment_id":736,"user_id":867,"skill_id":4,"start_time":"2025-01-27 02:20:41","end_time":"2025-07-11 20:51:28","score":7.14,"status":"Completed"}
+{"assessment_id":737,"user_id":762,"skill_id":2,"start_time":"2025-01-02 06:54:39","end_time":"2025-05-20 17:31:06","score":9.32,"status":"In Progress"}
+{"assessment_id":738,"user_id":383,"skill_id":3,"start_time":"2025-01-05 04:26:44","end_time":"2025-04-11 21:14:22","score":9.08,"status":"Completed"}
+{"assessment_id":739,"user_id":1000,"skill_id":1,"start_time":"2025-01-15 14:42:45","end_time":"2025-09-12 06:23:15","score":1.09,"status":"Completed"}
+{"assessment_id":740,"user_id":941,"skill_id":4,"start_time":"2025-01-13 21:00:13","end_time":"2025-11-10 05:49:44","score":0.82,"status":"In Progress"}
+{"assessment_id":741,"user_id":817,"skill_id":2,"start_time":"2025-01-13 09:33:21","end_time":"2025-05-04 08:44:24","score":7.25,"status":"In Progress"}
+{"assessment_id":742,"user_id":721,"skill_id":4,"start_time":"2025-01-13 14:47:32","end_time":"2025-02-19 07:02:46","score":0.9,"status":"In Progress"}
+{"assessment_id":743,"user_id":719,"skill_id":4,"start_time":"2025-01-01 18:52:17","end_time":"2025-09-22 01:39:07","score":1.5,"status":"In Progress"}
+{"assessment_id":744,"user_id":483,"skill_id":4,"start_time":"2025-01-16 03:52:05","end_time":"2025-10-10 08:47:26","score":6.86,"status":"Completed"}
+{"assessment_id":745,"user_id":111,"skill_id":2,"start_time":"2025-01-20 01:59:59","end_time":"2025-10-07 05:53:55","score":0.2,"status":"Completed"}
+{"assessment_id":746,"user_id":982,"skill_id":2,"start_time":"2025-01-07 07:38:08","end_time":"2025-03-04 21:06:15","score":5.7,"status":"Completed"}
+{"assessment_id":747,"user_id":230,"skill_id":5,"start_time":"2025-01-03 09:35:04","end_time":"2025-08-12 20:35:06","score":1.77,"status":"Completed"}
+{"assessment_id":748,"user_id":124,"skill_id":1,"start_time":"2025-01-22 04:30:23","end_time":"2025-02-22 07:11:09","score":1.55,"status":"Completed"}
+{"assessment_id":749,"user_id":283,"skill_id":4,"start_time":"2025-01-14 18:42:26","end_time":"2025-06-19 21:55:39","score":4.41,"status":"In Progress"}
+{"assessment_id":750,"user_id":946,"skill_id":3,"start_time":"2025-01-21 18:48:23","end_time":"2025-12-05 18:19:32","score":9.5,"status":"In Progress"}
+{"assessment_id":751,"user_id":975,"skill_id":3,"start_time":"2025-01-05 16:46:32","end_time":"2025-12-15 08:47:48","score":9.48,"status":"Completed"}
+{"assessment_id":752,"user_id":22,"skill_id":3,"start_time":"2025-01-30 11:04:05","end_time":"2025-08-29 13:21:55","score":1.38,"status":"Completed"}
+{"assessment_id":753,"user_id":943,"skill_id":2,"start_time":"2025-01-06 03:01:42","end_time":"2025-02-19 16:16:58","score":1.43,"status":"Completed"}
+{"assessment_id":754,"user_id":678,"skill_id":3,"start_time":"2025-01-01 06:04:03","end_time":"2025-04-01 08:18:44","score":5.34,"status":"In Progress"}
+{"assessment_id":755,"user_id":992,"skill_id":3,"start_time":"2025-01-20 11:26:17","end_time":"2025-06-26 03:51:07","score":3.32,"status":"In Progress"}
+{"assessment_id":756,"user_id":839,"skill_id":5,"start_time":"2025-01-20 19:33:17","end_time":"2025-09-18 03:51:18","score":4.87,"status":"Completed"}
+{"assessment_id":757,"user_id":593,"skill_id":3,"start_time":"2025-01-28 13:17:51","end_time":"2025-06-11 11:56:22","score":7.06,"status":"In Progress"}
+{"assessment_id":758,"user_id":698,"skill_id":1,"start_time":"2025-01-09 05:25:57","end_time":"2025-06-30 10:43:10","score":2.41,"status":"Completed"}
+{"assessment_id":759,"user_id":273,"skill_id":4,"start_time":"2025-01-24 04:17:44","end_time":"2025-05-26 07:57:39","score":4.27,"status":"In Progress"}
+{"assessment_id":760,"user_id":616,"skill_id":4,"start_time":"2025-01-25 06:36:00","end_time":"2025-06-02 16:08:12","score":6.26,"status":"In Progress"}
+{"assessment_id":761,"user_id":481,"skill_id":1,"start_time":"2025-01-24 13:35:42","end_time":"2025-07-12 18:17:42","score":1.76,"status":"Completed"}
+{"assessment_id":762,"user_id":781,"skill_id":5,"start_time":"2025-01-03 03:21:42","end_time":"2025-03-06 09:34:48","score":7.81,"status":"In Progress"}
+{"assessment_id":763,"user_id":812,"skill_id":2,"start_time":"2025-01-04 16:25:35","end_time":"2025-05-05 10:13:44","score":7.95,"status":"Completed"}
+{"assessment_id":764,"user_id":100,"skill_id":4,"start_time":"2025-01-14 05:38:36","end_time":"2025-05-15 01:29:06","score":4.52,"status":"In Progress"}
+{"assessment_id":765,"user_id":177,"skill_id":4,"start_time":"2025-01-08 05:42:50","end_time":"2025-06-21 21:31:09","score":8.01,"status":"Completed"}
+{"assessment_id":766,"user_id":999,"skill_id":5,"start_time":"2025-01-24 02:54:29","end_time":"2025-06-11 14:01:36","score":6.54,"status":"Completed"}
+{"assessment_id":767,"user_id":416,"skill_id":2,"start_time":"2025-01-18 14:53:22","end_time":"2025-10-18 07:00:04","score":3.17,"status":"In Progress"}
+{"assessment_id":768,"user_id":147,"skill_id":1,"start_time":"2025-01-10 16:18:45","end_time":"2025-03-18 13:25:35","score":1.54,"status":"Completed"}
+{"assessment_id":769,"user_id":623,"skill_id":4,"start_time":"2025-01-29 17:04:37","end_time":"2025-12-08 08:42:28","score":5.94,"status":"Completed"}
+{"assessment_id":770,"user_id":433,"skill_id":1,"start_time":"2025-01-11 18:32:24","end_time":"2025-06-07 07:55:30","score":0.79,"status":"In Progress"}
+{"assessment_id":771,"user_id":525,"skill_id":2,"start_time":"2025-01-29 02:42:20","end_time":"2025-07-01 14:20:00","score":1.76,"status":"In Progress"}
+{"assessment_id":772,"user_id":962,"skill_id":4,"start_time":"2025-01-15 15:53:51","end_time":"2025-05-13 12:36:20","score":1.28,"status":"In Progress"}
+{"assessment_id":773,"user_id":683,"skill_id":2,"start_time":"2025-01-09 20:01:21","end_time":"2025-09-19 19:25:17","score":7.07,"status":"In Progress"}
+{"assessment_id":774,"user_id":171,"skill_id":3,"start_time":"2025-01-11 20:25:27","end_time":"2025-06-04 08:30:45","score":3.17,"status":"Completed"}
+{"assessment_id":775,"user_id":224,"skill_id":2,"start_time":"2025-01-23 13:40:06","end_time":"2025-09-17 16:17:18","score":9.77,"status":"Completed"}
+{"assessment_id":776,"user_id":145,"skill_id":2,"start_time":"2025-01-23 16:30:47","end_time":"2025-05-02 19:58:48","score":2.08,"status":"In Progress"}
+{"assessment_id":777,"user_id":42,"skill_id":2,"start_time":"2025-01-12 21:07:16","end_time":"2025-06-14 18:12:37","score":9.23,"status":"In Progress"}
+{"assessment_id":778,"user_id":129,"skill_id":2,"start_time":"2025-01-18 20:58:40","end_time":"2025-01-16 02:19:58","score":1.93,"status":"In Progress"}
+{"assessment_id":779,"user_id":86,"skill_id":1,"start_time":"2025-01-01 20:40:11","end_time":"2025-03-03 23:50:44","score":5.74,"status":"Completed"}
+{"assessment_id":780,"user_id":742,"skill_id":4,"start_time":"2025-01-17 00:50:33","end_time":"2025-10-04 23:42:37","score":9.45,"status":"Completed"}
+{"assessment_id":781,"user_id":521,"skill_id":2,"start_time":"2025-01-16 17:45:25","end_time":"2025-03-08 17:57:01","score":0.7,"status":"Completed"}
+{"assessment_id":782,"user_id":533,"skill_id":4,"start_time":"2025-01-21 17:51:02","end_time":"2025-04-12 03:06:14","score":0.53,"status":"In Progress"}
+{"assessment_id":783,"user_id":254,"skill_id":4,"start_time":"2025-01-11 00:17:43","end_time":"2025-03-02 02:23:10","score":4.55,"status":"In Progress"}
+{"assessment_id":784,"user_id":804,"skill_id":2,"start_time":"2025-01-15 02:03:33","end_time":"2025-07-10 12:40:41","score":2.79,"status":"Completed"}
+{"assessment_id":785,"user_id":637,"skill_id":5,"start_time":"2025-01-03 02:14:49","end_time":"2025-09-29 02:20:10","score":1.14,"status":"In Progress"}
+{"assessment_id":786,"user_id":246,"skill_id":1,"start_time":"2025-01-01 16:33:51","end_time":"2025-09-15 12:40:16","score":4.01,"status":"In Progress"}
+{"assessment_id":787,"user_id":966,"skill_id":2,"start_time":"2025-01-13 17:48:28","end_time":"2025-12-02 03:08:14","score":9.17,"status":"In Progress"}
+{"assessment_id":788,"user_id":614,"skill_id":3,"start_time":"2025-01-16 22:37:16","end_time":"2025-09-10 02:02:11","score":7.46,"status":"In Progress"}
+{"assessment_id":789,"user_id":523,"skill_id":3,"start_time":"2025-01-19 20:39:34","end_time":"2025-01-13 14:04:18","score":5.37,"status":"In Progress"}
+{"assessment_id":790,"user_id":473,"skill_id":3,"start_time":"2025-01-15 06:20:35","end_time":"2025-09-21 00:45:55","score":2.6,"status":"In Progress"}
+{"assessment_id":791,"user_id":974,"skill_id":2,"start_time":"2025-01-22 07:56:47","end_time":"2025-10-22 04:08:50","score":5.83,"status":"Completed"}
+{"assessment_id":792,"user_id":679,"skill_id":2,"start_time":"2025-01-17 01:12:04","end_time":"2025-07-14 07:23:10","score":3.15,"status":"Completed"}
+{"assessment_id":793,"user_id":878,"skill_id":1,"start_time":"2025-01-01 19:56:05","end_time":"2025-04-16 16:58:06","score":4.28,"status":"Completed"}
+{"assessment_id":794,"user_id":779,"skill_id":4,"start_time":"2025-01-10 19:10:37","end_time":"2025-07-24 12:42:10","score":4.9,"status":"Completed"}
+{"assessment_id":795,"user_id":581,"skill_id":4,"start_time":"2025-01-18 21:29:01","end_time":"2025-12-23 10:59:24","score":3.07,"status":"In Progress"}
+{"assessment_id":796,"user_id":757,"skill_id":3,"start_time":"2025-01-06 20:29:46","end_time":"2025-01-05 20:11:44","score":8.01,"status":"Completed"}
+{"assessment_id":797,"user_id":860,"skill_id":2,"start_time":"2025-01-07 14:36:41","end_time":"2025-06-01 18:23:11","score":2.42,"status":"Completed"}
+{"assessment_id":798,"user_id":91,"skill_id":3,"start_time":"2025-01-17 09:41:45","end_time":"2025-05-19 17:00:13","score":8.27,"status":"Completed"}
+{"assessment_id":799,"user_id":424,"skill_id":3,"start_time":"2025-01-27 10:28:55","end_time":"2025-09-05 01:05:38","score":8.56,"status":"In Progress"}
+{"assessment_id":800,"user_id":520,"skill_id":1,"start_time":"2025-01-19 12:50:22","end_time":"2025-09-19 21:35:22","score":1.57,"status":"In Progress"}
+{"assessment_id":801,"user_id":426,"skill_id":4,"start_time":"2025-01-06 04:00:00","end_time":"2025-01-31 12:32:48","score":0.91,"status":"In Progress"}
+{"assessment_id":802,"user_id":286,"skill_id":2,"start_time":"2025-01-29 18:22:51","end_time":"2025-08-29 06:42:43","score":7.21,"status":"In Progress"}
+{"assessment_id":803,"user_id":569,"skill_id":1,"start_time":"2025-01-13 14:12:38","end_time":"2025-02-18 16:11:29","score":1.08,"status":"Completed"}
+{"assessment_id":804,"user_id":153,"skill_id":4,"start_time":"2025-01-25 10:11:25","end_time":"2025-09-06 11:43:20","score":9.38,"status":"Completed"}
+{"assessment_id":805,"user_id":402,"skill_id":2,"start_time":"2025-01-26 21:38:38","end_time":"2025-01-11 04:07:16","score":5.65,"status":"Completed"}
+{"assessment_id":806,"user_id":937,"skill_id":4,"start_time":"2025-01-06 12:55:15","end_time":"2025-02-18 06:24:53","score":3.18,"status":"Completed"}
+{"assessment_id":807,"user_id":64,"skill_id":5,"start_time":"2025-01-18 02:44:36","end_time":"2025-12-01 01:15:23","score":7.63,"status":"In Progress"}
+{"assessment_id":808,"user_id":559,"skill_id":5,"start_time":"2025-01-15 00:26:06","end_time":"2025-10-22 01:01:39","score":5.57,"status":"Completed"}
+{"assessment_id":809,"user_id":773,"skill_id":1,"start_time":"2025-01-22 08:49:33","end_time":"2025-09-30 03:52:13","score":4.2,"status":"Completed"}
+{"assessment_id":810,"user_id":909,"skill_id":2,"start_time":"2025-01-06 09:54:13","end_time":"2025-06-22 20:44:27","score":3.3,"status":"Completed"}
+{"assessment_id":811,"user_id":246,"skill_id":3,"start_time":"2025-01-24 00:02:10","end_time":"2025-10-21 06:16:38","score":4.44,"status":"Completed"}
+{"assessment_id":812,"user_id":650,"skill_id":2,"start_time":"2025-01-07 13:55:44","end_time":"2025-12-10 09:16:51","score":4.97,"status":"In Progress"}
+{"assessment_id":813,"user_id":742,"skill_id":3,"start_time":"2025-01-30 11:48:16","end_time":"2025-09-08 18:45:07","score":0.68,"status":"In Progress"}
+{"assessment_id":814,"user_id":436,"skill_id":1,"start_time":"2025-01-12 23:05:39","end_time":"2025-06-11 05:46:52","score":0.54,"status":"Completed"}
+{"assessment_id":815,"user_id":523,"skill_id":5,"start_time":"2025-01-22 18:14:38","end_time":"2025-02-16 11:33:46","score":3.42,"status":"In Progress"}
+{"assessment_id":816,"user_id":231,"skill_id":1,"start_time":"2025-01-25 12:13:44","end_time":"2025-05-24 17:26:15","score":6.85,"status":"In Progress"}
+{"assessment_id":817,"user_id":44,"skill_id":3,"start_time":"2025-01-12 08:06:14","end_time":"2025-03-05 11:59:21","score":9.06,"status":"Completed"}
+{"assessment_id":818,"user_id":257,"skill_id":3,"start_time":"2025-01-29 04:34:12","end_time":"2025-07-15 15:35:13","score":3.91,"status":"In Progress"}
+{"assessment_id":819,"user_id":189,"skill_id":5,"start_time":"2025-01-21 23:59:29","end_time":"2025-02-22 11:44:04","score":4.59,"status":"In Progress"}
+{"assessment_id":820,"user_id":63,"skill_id":4,"start_time":"2025-01-15 06:33:49","end_time":"2025-07-20 09:37:54","score":3.7,"status":"In Progress"}
+{"assessment_id":821,"user_id":537,"skill_id":1,"start_time":"2025-01-08 13:47:37","end_time":"2025-11-16 20:06:27","score":0.25,"status":"In Progress"}
+{"assessment_id":822,"user_id":649,"skill_id":5,"start_time":"2025-01-13 11:29:07","end_time":"2025-10-30 18:53:52","score":4.1,"status":"Completed"}
+{"assessment_id":823,"user_id":724,"skill_id":5,"start_time":"2025-01-12 20:14:59","end_time":"2025-03-05 16:28:03","score":0.19,"status":"Completed"}
+{"assessment_id":824,"user_id":175,"skill_id":4,"start_time":"2025-01-26 06:47:45","end_time":"2025-11-13 00:54:50","score":8.48,"status":"In Progress"}
+{"assessment_id":825,"user_id":90,"skill_id":1,"start_time":"2025-01-17 23:14:39","end_time":"2025-01-12 03:08:34","score":0.54,"status":"Completed"}
+{"assessment_id":826,"user_id":594,"skill_id":1,"start_time":"2025-01-15 08:34:05","end_time":"2025-08-30 06:09:19","score":7.13,"status":"Completed"}
+{"assessment_id":827,"user_id":441,"skill_id":3,"start_time":"2025-01-01 22:59:55","end_time":"2025-05-31 08:08:29","score":3.33,"status":"Completed"}
+{"assessment_id":828,"user_id":265,"skill_id":5,"start_time":"2025-01-23 11:30:00","end_time":"2025-05-02 15:58:22","score":1.09,"status":"In Progress"}
+{"assessment_id":829,"user_id":610,"skill_id":1,"start_time":"2025-01-02 02:24:41","end_time":"2025-11-02 04:24:05","score":6.56,"status":"Completed"}
+{"assessment_id":830,"user_id":167,"skill_id":1,"start_time":"2025-01-12 14:51:34","end_time":"2025-11-14 00:15:47","score":4.53,"status":"In Progress"}
+{"assessment_id":831,"user_id":105,"skill_id":1,"start_time":"2025-01-27 01:31:19","end_time":"2025-06-16 19:43:10","score":3.45,"status":"In Progress"}
+{"assessment_id":832,"user_id":48,"skill_id":1,"start_time":"2025-01-30 18:00:56","end_time":"2025-01-07 18:05:37","score":3.36,"status":"In Progress"}
+{"assessment_id":833,"user_id":577,"skill_id":3,"start_time":"2025-01-24 14:25:50","end_time":"2025-04-25 00:23:01","score":6.45,"status":"Completed"}
+{"assessment_id":834,"user_id":621,"skill_id":2,"start_time":"2025-01-20 03:09:26","end_time":"2025-04-27 10:14:51","score":1.0,"status":"In Progress"}
+{"assessment_id":835,"user_id":300,"skill_id":2,"start_time":"2025-01-05 20:23:48","end_time":"2025-04-18 08:43:01","score":7.86,"status":"Completed"}
+{"assessment_id":836,"user_id":523,"skill_id":5,"start_time":"2025-01-02 10:00:05","end_time":"2025-02-15 17:43:12","score":0.92,"status":"In Progress"}
+{"assessment_id":837,"user_id":804,"skill_id":1,"start_time":"2025-01-13 05:35:33","end_time":"2025-11-01 15:01:05","score":3.53,"status":"Completed"}
+{"assessment_id":838,"user_id":350,"skill_id":5,"start_time":"2025-01-26 06:16:23","end_time":"2025-01-18 02:21:34","score":9.87,"status":"In Progress"}
+{"assessment_id":839,"user_id":19,"skill_id":4,"start_time":"2025-01-20 16:28:41","end_time":"2025-08-28 11:37:26","score":3.63,"status":"Completed"}
+{"assessment_id":840,"user_id":429,"skill_id":4,"start_time":"2025-01-15 11:46:07","end_time":"2025-01-09 22:20:56","score":2.85,"status":"Completed"}
+{"assessment_id":841,"user_id":24,"skill_id":4,"start_time":"2025-01-15 10:51:44","end_time":"2025-01-22 16:23:14","score":1.49,"status":"In Progress"}
+{"assessment_id":842,"user_id":129,"skill_id":1,"start_time":"2025-01-03 10:14:05","end_time":"2025-01-30 07:52:38","score":5.69,"status":"Completed"}
+{"assessment_id":843,"user_id":131,"skill_id":4,"start_time":"2025-01-02 09:14:42","end_time":"2025-05-27 00:59:34","score":5.7,"status":"In Progress"}
+{"assessment_id":844,"user_id":28,"skill_id":2,"start_time":"2025-01-07 03:12:08","end_time":"2025-12-09 20:37:24","score":2.0,"status":"In Progress"}
+{"assessment_id":845,"user_id":539,"skill_id":3,"start_time":"2025-01-04 09:01:33","end_time":"2025-01-17 18:52:35","score":7.51,"status":"In Progress"}
+{"assessment_id":846,"user_id":773,"skill_id":5,"start_time":"2025-01-11 08:15:19","end_time":"2025-09-24 08:31:12","score":2.14,"status":"In Progress"}
+{"assessment_id":847,"user_id":186,"skill_id":5,"start_time":"2025-01-25 10:14:54","end_time":"2025-01-07 08:13:45","score":0.86,"status":"In Progress"}
+{"assessment_id":848,"user_id":733,"skill_id":1,"start_time":"2025-01-27 08:19:31","end_time":"2025-08-13 15:59:26","score":5.87,"status":"Completed"}
+{"assessment_id":849,"user_id":925,"skill_id":3,"start_time":"2025-01-04 06:39:28","end_time":"2025-10-02 16:13:40","score":0.66,"status":"In Progress"}
+{"assessment_id":850,"user_id":943,"skill_id":4,"start_time":"2025-01-25 15:18:53","end_time":"2025-04-01 13:28:50","score":8.3,"status":"In Progress"}
+{"assessment_id":851,"user_id":320,"skill_id":2,"start_time":"2025-01-08 07:48:12","end_time":"2025-08-31 06:45:34","score":2.69,"status":"In Progress"}
+{"assessment_id":852,"user_id":966,"skill_id":5,"start_time":"2025-01-06 01:43:58","end_time":"2025-05-22 19:09:02","score":8.7,"status":"In Progress"}
+{"assessment_id":853,"user_id":882,"skill_id":3,"start_time":"2025-01-18 06:47:07","end_time":"2025-11-09 11:15:58","score":8.84,"status":"Completed"}
+{"assessment_id":854,"user_id":970,"skill_id":5,"start_time":"2025-01-22 14:46:01","end_time":"2025-06-22 07:51:49","score":6.07,"status":"Completed"}
+{"assessment_id":855,"user_id":893,"skill_id":1,"start_time":"2025-01-16 23:15:36","end_time":"2025-09-20 17:31:40","score":2.77,"status":"Completed"}
+{"assessment_id":856,"user_id":22,"skill_id":4,"start_time":"2025-01-19 02:52:45","end_time":"2025-09-22 12:58:49","score":3.04,"status":"In Progress"}
+{"assessment_id":857,"user_id":326,"skill_id":5,"start_time":"2025-01-07 22:51:39","end_time":"2025-09-26 04:33:33","score":5.43,"status":"Completed"}
+{"assessment_id":858,"user_id":593,"skill_id":3,"start_time":"2025-01-16 08:31:22","end_time":"2025-09-24 13:39:23","score":8.51,"status":"Completed"}
+{"assessment_id":859,"user_id":835,"skill_id":3,"start_time":"2025-01-10 19:33:12","end_time":"2025-01-15 10:04:46","score":5.21,"status":"In Progress"}
+{"assessment_id":860,"user_id":102,"skill_id":1,"start_time":"2025-01-09 17:37:13","end_time":"2025-05-29 17:53:36","score":0.32,"status":"Completed"}
+{"assessment_id":861,"user_id":106,"skill_id":3,"start_time":"2025-01-03 05:40:24","end_time":"2025-04-15 02:48:58","score":9.58,"status":"In Progress"}
+{"assessment_id":862,"user_id":647,"skill_id":3,"start_time":"2025-01-02 17:54:24","end_time":"2025-08-22 04:49:58","score":4.72,"status":"In Progress"}
+{"assessment_id":863,"user_id":964,"skill_id":3,"start_time":"2025-01-14 07:09:34","end_time":"2025-10-13 11:37:49","score":5.09,"status":"In Progress"}
+{"assessment_id":864,"user_id":512,"skill_id":3,"start_time":"2025-01-17 07:35:36","end_time":"2025-10-14 10:17:58","score":5.7,"status":"Completed"}
+{"assessment_id":865,"user_id":852,"skill_id":4,"start_time":"2025-01-20 00:08:45","end_time":"2025-09-16 18:00:54","score":1.66,"status":"In Progress"}
+{"assessment_id":866,"user_id":897,"skill_id":4,"start_time":"2025-01-07 06:44:33","end_time":"2025-06-02 14:54:09","score":8.77,"status":"In Progress"}
+{"assessment_id":867,"user_id":843,"skill_id":1,"start_time":"2025-01-22 22:16:45","end_time":"2025-09-28 17:58:33","score":3.2,"status":"In Progress"}
+{"assessment_id":868,"user_id":579,"skill_id":5,"start_time":"2025-01-03 16:43:55","end_time":"2025-09-28 01:30:31","score":9.73,"status":"In Progress"}
+{"assessment_id":869,"user_id":604,"skill_id":4,"start_time":"2025-01-17 17:48:40","end_time":"2025-12-02 01:37:47","score":0.74,"status":"Completed"}
+{"assessment_id":870,"user_id":19,"skill_id":1,"start_time":"2025-01-10 13:43:56","end_time":"2025-11-16 06:18:55","score":2.35,"status":"In Progress"}
+{"assessment_id":871,"user_id":190,"skill_id":1,"start_time":"2025-01-08 13:54:02","end_time":"2025-02-08 02:25:22","score":7.83,"status":"Completed"}
+{"assessment_id":872,"user_id":36,"skill_id":1,"start_time":"2025-01-27 12:13:51","end_time":"2025-06-24 14:14:13","score":2.79,"status":"Completed"}
+{"assessment_id":873,"user_id":827,"skill_id":3,"start_time":"2025-01-07 19:41:48","end_time":"2025-01-21 09:13:17","score":3.23,"status":"Completed"}
+{"assessment_id":874,"user_id":614,"skill_id":2,"start_time":"2025-01-01 04:48:33","end_time":"2025-06-05 05:57:04","score":1.58,"status":"In Progress"}
+{"assessment_id":875,"user_id":819,"skill_id":3,"start_time":"2025-01-26 20:30:07","end_time":"2025-09-01 18:45:44","score":1.09,"status":"In Progress"}
+{"assessment_id":876,"user_id":710,"skill_id":5,"start_time":"2025-01-08 03:21:12","end_time":"2025-07-25 15:56:48","score":9.15,"status":"In Progress"}
+{"assessment_id":877,"user_id":604,"skill_id":2,"start_time":"2025-01-16 03:41:12","end_time":"2025-06-27 16:16:13","score":8.82,"status":"In Progress"}
+{"assessment_id":878,"user_id":407,"skill_id":3,"start_time":"2025-01-26 02:37:45","end_time":"2025-10-07 08:47:11","score":6.93,"status":"In Progress"}
+{"assessment_id":879,"user_id":223,"skill_id":5,"start_time":"2025-01-05 11:54:16","end_time":"2025-12-29 10:59:47","score":7.26,"status":"In Progress"}
+{"assessment_id":880,"user_id":449,"skill_id":2,"start_time":"2025-01-18 20:51:27","end_time":"2025-02-26 21:11:45","score":9.45,"status":"In Progress"}
+{"assessment_id":881,"user_id":756,"skill_id":1,"start_time":"2025-01-29 16:20:03","end_time":"2025-05-23 15:15:03","score":3.72,"status":"Completed"}
+{"assessment_id":882,"user_id":121,"skill_id":5,"start_time":"2025-01-05 16:29:53","end_time":"2025-03-07 22:20:43","score":0.8,"status":"In Progress"}
+{"assessment_id":883,"user_id":521,"skill_id":2,"start_time":"2025-01-07 04:47:36","end_time":"2025-05-08 10:16:25","score":5.71,"status":"In Progress"}
+{"assessment_id":884,"user_id":444,"skill_id":1,"start_time":"2025-01-14 12:37:23","end_time":"2025-03-14 03:01:00","score":9.64,"status":"In Progress"}
+{"assessment_id":885,"user_id":485,"skill_id":5,"start_time":"2025-01-07 17:01:36","end_time":"2025-04-17 08:54:19","score":5.53,"status":"In Progress"}
+{"assessment_id":886,"user_id":68,"skill_id":1,"start_time":"2025-01-12 02:51:01","end_time":"2025-09-04 11:58:47","score":2.06,"status":"In Progress"}
+{"assessment_id":887,"user_id":314,"skill_id":1,"start_time":"2025-01-15 18:23:17","end_time":"2025-01-12 19:51:58","score":4.8,"status":"In Progress"}
+{"assessment_id":888,"user_id":169,"skill_id":4,"start_time":"2025-01-03 17:05:33","end_time":"2025-04-16 11:37:16","score":3.96,"status":"Completed"}
+{"assessment_id":889,"user_id":320,"skill_id":4,"start_time":"2025-01-06 03:45:42","end_time":"2025-03-27 19:30:04","score":0.65,"status":"In Progress"}
+{"assessment_id":890,"user_id":399,"skill_id":5,"start_time":"2025-01-13 14:37:30","end_time":"2025-08-03 03:57:35","score":2.04,"status":"In Progress"}
+{"assessment_id":891,"user_id":155,"skill_id":2,"start_time":"2025-01-12 04:07:11","end_time":"2025-01-12 21:48:57","score":3.61,"status":"In Progress"}
+{"assessment_id":892,"user_id":678,"skill_id":5,"start_time":"2025-01-23 22:43:25","end_time":"2025-05-17 03:18:49","score":6.7,"status":"In Progress"}
+{"assessment_id":893,"user_id":139,"skill_id":3,"start_time":"2025-01-16 20:39:22","end_time":"2025-03-08 19:22:49","score":9.39,"status":"Completed"}
+{"assessment_id":894,"user_id":946,"skill_id":2,"start_time":"2025-01-28 22:28:21","end_time":"2025-05-24 02:55:16","score":1.74,"status":"Completed"}
+{"assessment_id":895,"user_id":519,"skill_id":5,"start_time":"2025-01-11 05:22:48","end_time":"2025-07-24 04:18:03","score":0.07,"status":"Completed"}
+{"assessment_id":896,"user_id":656,"skill_id":5,"start_time":"2025-01-17 19:31:41","end_time":"2025-07-04 20:41:24","score":6.72,"status":"Completed"}
+{"assessment_id":897,"user_id":883,"skill_id":4,"start_time":"2025-01-29 10:07:38","end_time":"2025-07-07 17:48:52","score":9.73,"status":"In Progress"}
+{"assessment_id":898,"user_id":267,"skill_id":5,"start_time":"2025-01-10 14:11:35","end_time":"2025-11-19 16:47:14","score":8.92,"status":"Completed"}
+{"assessment_id":899,"user_id":548,"skill_id":3,"start_time":"2025-01-01 07:09:01","end_time":"2025-09-22 07:41:30","score":0.1,"status":"Completed"}
+{"assessment_id":900,"user_id":266,"skill_id":4,"start_time":"2025-01-21 16:05:14","end_time":"2025-05-05 09:56:31","score":3.2,"status":"Completed"}
+{"assessment_id":901,"user_id":441,"skill_id":5,"start_time":"2025-01-26 00:38:29","end_time":"2025-09-11 16:28:27","score":2.7,"status":"Completed"}
+{"assessment_id":902,"user_id":680,"skill_id":3,"start_time":"2025-01-11 05:47:09","end_time":"2025-06-12 17:31:04","score":5.32,"status":"In Progress"}
+{"assessment_id":903,"user_id":357,"skill_id":2,"start_time":"2025-01-07 19:19:47","end_time":"2025-04-24 12:36:52","score":9.99,"status":"In Progress"}
+{"assessment_id":904,"user_id":223,"skill_id":3,"start_time":"2025-01-19 01:13:43","end_time":"2025-07-14 09:58:17","score":7.63,"status":"In Progress"}
+{"assessment_id":905,"user_id":20,"skill_id":5,"start_time":"2025-01-16 08:48:00","end_time":"2025-06-02 07:39:12","score":7.77,"status":"In Progress"}
+{"assessment_id":906,"user_id":642,"skill_id":5,"start_time":"2025-01-26 16:29:15","end_time":"2025-06-22 03:51:16","score":7.4,"status":"In Progress"}
+{"assessment_id":907,"user_id":688,"skill_id":5,"start_time":"2025-01-18 00:37:46","end_time":"2025-04-17 16:14:12","score":2.99,"status":"Completed"}
+{"assessment_id":908,"user_id":295,"skill_id":5,"start_time":"2025-01-05 15:09:13","end_time":"2025-05-21 20:36:01","score":5.97,"status":"In Progress"}
+{"assessment_id":909,"user_id":305,"skill_id":3,"start_time":"2025-01-03 07:44:47","end_time":"2025-04-10 16:54:31","score":2.65,"status":"In Progress"}
+{"assessment_id":910,"user_id":824,"skill_id":1,"start_time":"2025-01-10 14:01:36","end_time":"2025-06-29 11:15:21","score":1.95,"status":"Completed"}
+{"assessment_id":911,"user_id":972,"skill_id":4,"start_time":"2025-01-14 03:16:51","end_time":"2025-01-21 02:24:31","score":6.19,"status":"Completed"}
+{"assessment_id":912,"user_id":710,"skill_id":1,"start_time":"2025-01-22 06:24:56","end_time":"2025-01-17 03:54:41","score":7.58,"status":"Completed"}
+{"assessment_id":913,"user_id":476,"skill_id":4,"start_time":"2025-01-14 20:38:40","end_time":"2025-09-11 16:08:30","score":0.44,"status":"In Progress"}
+{"assessment_id":914,"user_id":256,"skill_id":3,"start_time":"2025-01-08 06:01:52","end_time":"2025-07-09 01:49:00","score":2.72,"status":"In Progress"}
+{"assessment_id":915,"user_id":321,"skill_id":5,"start_time":"2025-01-21 02:17:13","end_time":"2025-01-08 11:13:36","score":8.38,"status":"Completed"}
+{"assessment_id":916,"user_id":260,"skill_id":4,"start_time":"2025-01-13 00:17:23","end_time":"2025-12-04 10:35:40","score":9.85,"status":"In Progress"}
+{"assessment_id":917,"user_id":510,"skill_id":2,"start_time":"2025-01-27 03:36:05","end_time":"2025-06-28 07:47:13","score":6.09,"status":"Completed"}
+{"assessment_id":918,"user_id":167,"skill_id":5,"start_time":"2025-01-23 13:08:05","end_time":"2025-09-06 12:18:57","score":8.66,"status":"In Progress"}
+{"assessment_id":919,"user_id":362,"skill_id":2,"start_time":"2025-01-27 21:34:30","end_time":"2025-09-10 07:36:10","score":5.65,"status":"Completed"}
+{"assessment_id":920,"user_id":802,"skill_id":5,"start_time":"2025-01-02 22:27:37","end_time":"2025-05-01 13:27:44","score":7.54,"status":"Completed"}
+{"assessment_id":921,"user_id":242,"skill_id":4,"start_time":"2025-01-14 02:23:27","end_time":"2025-12-04 23:10:11","score":7.35,"status":"In Progress"}
+{"assessment_id":922,"user_id":429,"skill_id":2,"start_time":"2025-01-16 09:20:37","end_time":"2025-07-23 03:53:30","score":3.16,"status":"Completed"}
+{"assessment_id":923,"user_id":448,"skill_id":2,"start_time":"2025-01-03 23:31:24","end_time":"2025-08-19 00:02:44","score":9.21,"status":"In Progress"}
+{"assessment_id":924,"user_id":665,"skill_id":3,"start_time":"2025-01-17 16:09:02","end_time":"2025-09-12 23:06:42","score":4.19,"status":"Completed"}
+{"assessment_id":925,"user_id":178,"skill_id":5,"start_time":"2025-01-24 21:37:46","end_time":"2025-10-15 20:06:11","score":6.83,"status":"Completed"}
+{"assessment_id":926,"user_id":452,"skill_id":2,"start_time":"2025-01-24 16:04:27","end_time":"2025-05-16 13:34:58","score":6.54,"status":"In Progress"}
+{"assessment_id":927,"user_id":127,"skill_id":3,"start_time":"2025-01-17 08:05:35","end_time":"2025-12-30 21:30:48","score":7.4,"status":"Completed"}
+{"assessment_id":928,"user_id":241,"skill_id":5,"start_time":"2025-01-16 09:24:30","end_time":"2025-12-19 10:27:18","score":4.86,"status":"Completed"}
+{"assessment_id":929,"user_id":511,"skill_id":5,"start_time":"2025-01-25 12:58:48","end_time":"2025-02-01 21:29:36","score":0.51,"status":"In Progress"}
+{"assessment_id":930,"user_id":890,"skill_id":1,"start_time":"2025-01-18 22:18:28","end_time":"2025-06-29 08:43:58","score":7.15,"status":"In Progress"}
+{"assessment_id":931,"user_id":879,"skill_id":1,"start_time":"2025-01-13 10:34:41","end_time":"2025-03-18 22:16:43","score":7.79,"status":"In Progress"}
+{"assessment_id":932,"user_id":582,"skill_id":1,"start_time":"2025-01-09 15:38:18","end_time":"2025-12-09 02:17:52","score":6.92,"status":"Completed"}
+{"assessment_id":933,"user_id":143,"skill_id":4,"start_time":"2025-01-18 18:46:23","end_time":"2025-02-22 01:05:31","score":5.02,"status":"Completed"}
+{"assessment_id":934,"user_id":962,"skill_id":2,"start_time":"2025-01-21 16:40:34","end_time":"2025-04-30 05:48:04","score":5.3,"status":"Completed"}
+{"assessment_id":935,"user_id":73,"skill_id":5,"start_time":"2025-01-28 21:51:44","end_time":"2025-07-07 17:09:57","score":7.08,"status":"Completed"}
+{"assessment_id":936,"user_id":992,"skill_id":5,"start_time":"2025-01-06 07:52:32","end_time":"2025-06-27 02:02:56","score":9.36,"status":"Completed"}
+{"assessment_id":937,"user_id":533,"skill_id":3,"start_time":"2025-01-04 11:55:44","end_time":"2025-08-31 09:41:35","score":9.87,"status":"Completed"}
+{"assessment_id":938,"user_id":507,"skill_id":1,"start_time":"2025-01-03 03:33:47","end_time":"2025-06-26 22:38:21","score":1.69,"status":"Completed"}
+{"assessment_id":939,"user_id":933,"skill_id":4,"start_time":"2025-01-15 12:24:38","end_time":"2025-05-29 21:13:51","score":6.11,"status":"Completed"}
+{"assessment_id":940,"user_id":375,"skill_id":5,"start_time":"2025-01-15 03:03:36","end_time":"2025-12-14 14:05:41","score":9.55,"status":"Completed"}
+{"assessment_id":941,"user_id":886,"skill_id":1,"start_time":"2025-01-15 02:11:06","end_time":"2025-12-02 04:00:41","score":8.66,"status":"In Progress"}
+{"assessment_id":942,"user_id":612,"skill_id":3,"start_time":"2025-01-01 16:58:53","end_time":"2025-04-17 04:34:59","score":8.34,"status":"Completed"}
+{"assessment_id":943,"user_id":900,"skill_id":2,"start_time":"2025-01-10 13:03:39","end_time":"2025-04-08 21:36:04","score":3.01,"status":"In Progress"}
+{"assessment_id":944,"user_id":739,"skill_id":4,"start_time":"2025-01-11 16:51:52","end_time":"2025-04-06 11:06:00","score":0.74,"status":"In Progress"}
+{"assessment_id":945,"user_id":371,"skill_id":2,"start_time":"2025-01-22 10:41:14","end_time":"2025-10-11 22:21:39","score":6.98,"status":"In Progress"}
+{"assessment_id":946,"user_id":283,"skill_id":5,"start_time":"2025-01-18 22:47:36","end_time":"2025-12-30 13:10:17","score":6.33,"status":"In Progress"}
+{"assessment_id":947,"user_id":741,"skill_id":5,"start_time":"2025-01-09 13:00:34","end_time":"2025-10-23 04:00:54","score":6.84,"status":"In Progress"}
+{"assessment_id":948,"user_id":755,"skill_id":2,"start_time":"2025-01-22 06:41:13","end_time":"2025-08-07 02:55:12","score":4.89,"status":"In Progress"}
+{"assessment_id":949,"user_id":702,"skill_id":2,"start_time":"2025-01-09 23:04:38","end_time":"2025-10-27 23:51:26","score":9.57,"status":"In Progress"}
+{"assessment_id":950,"user_id":729,"skill_id":5,"start_time":"2025-01-08 15:58:28","end_time":"2025-10-26 15:18:54","score":5.77,"status":"In Progress"}
+{"assessment_id":951,"user_id":753,"skill_id":1,"start_time":"2025-01-19 21:18:23","end_time":"2025-06-01 06:26:29","score":1.67,"status":"Completed"}
+{"assessment_id":952,"user_id":354,"skill_id":2,"start_time":"2025-01-10 02:06:08","end_time":"2025-09-05 22:38:10","score":9.9,"status":"In Progress"}
+{"assessment_id":953,"user_id":774,"skill_id":3,"start_time":"2025-01-24 20:41:59","end_time":"2025-11-12 04:13:38","score":7.87,"status":"Completed"}
+{"assessment_id":954,"user_id":940,"skill_id":4,"start_time":"2025-01-29 13:12:37","end_time":"2025-09-28 14:31:58","score":8.96,"status":"In Progress"}
+{"assessment_id":955,"user_id":539,"skill_id":2,"start_time":"2025-01-03 00:07:12","end_time":"2025-01-22 10:01:39","score":2.54,"status":"In Progress"}
+{"assessment_id":956,"user_id":141,"skill_id":1,"start_time":"2025-01-27 17:02:15","end_time":"2025-07-25 23:20:16","score":4.58,"status":"In Progress"}
+{"assessment_id":957,"user_id":110,"skill_id":1,"start_time":"2025-01-05 23:58:07","end_time":"2025-02-04 16:45:04","score":8.78,"status":"In Progress"}
+{"assessment_id":958,"user_id":422,"skill_id":5,"start_time":"2025-01-03 04:26:39","end_time":"2025-06-14 04:36:19","score":7.09,"status":"In Progress"}
+{"assessment_id":959,"user_id":298,"skill_id":5,"start_time":"2025-01-10 10:29:00","end_time":"2025-10-18 02:37:35","score":0.77,"status":"In Progress"}
+{"assessment_id":960,"user_id":266,"skill_id":3,"start_time":"2025-01-17 22:33:23","end_time":"2025-03-08 04:49:38","score":9.94,"status":"Completed"}
+{"assessment_id":961,"user_id":199,"skill_id":4,"start_time":"2025-01-01 02:56:18","end_time":"2025-08-25 11:27:55","score":6.31,"status":"In Progress"}
+{"assessment_id":962,"user_id":204,"skill_id":4,"start_time":"2025-01-21 13:40:22","end_time":"2025-04-02 15:47:00","score":5.55,"status":"In Progress"}
+{"assessment_id":963,"user_id":154,"skill_id":5,"start_time":"2025-01-17 08:00:12","end_time":"2025-08-25 21:40:26","score":8.53,"status":"Completed"}
+{"assessment_id":964,"user_id":785,"skill_id":1,"start_time":"2025-01-06 10:15:25","end_time":"2025-10-10 08:39:51","score":5.74,"status":"In Progress"}
+{"assessment_id":965,"user_id":395,"skill_id":1,"start_time":"2025-01-14 16:02:37","end_time":"2025-05-25 00:34:24","score":3.36,"status":"In Progress"}
+{"assessment_id":966,"user_id":815,"skill_id":1,"start_time":"2025-01-07 12:53:57","end_time":"2025-05-11 12:51:18","score":8.74,"status":"In Progress"}
+{"assessment_id":967,"user_id":440,"skill_id":3,"start_time":"2025-01-10 15:01:51","end_time":"2025-12-07 11:35:33","score":5.99,"status":"Completed"}
+{"assessment_id":968,"user_id":614,"skill_id":2,"start_time":"2025-01-19 09:10:06","end_time":"2025-02-21 14:09:48","score":8.25,"status":"In Progress"}
+{"assessment_id":969,"user_id":652,"skill_id":3,"start_time":"2025-01-20 09:33:24","end_time":"2025-01-31 01:20:17","score":3.31,"status":"Completed"}
+{"assessment_id":970,"user_id":737,"skill_id":1,"start_time":"2025-01-14 09:08:01","end_time":"2025-03-10 14:36:36","score":2.14,"status":"Completed"}
+{"assessment_id":971,"user_id":836,"skill_id":5,"start_time":"2025-01-28 16:32:30","end_time":"2025-07-20 11:46:36","score":0.77,"status":"Completed"}
+{"assessment_id":972,"user_id":898,"skill_id":2,"start_time":"2025-01-13 00:07:01","end_time":"2025-02-19 21:21:33","score":0.6,"status":"In Progress"}
+{"assessment_id":973,"user_id":395,"skill_id":4,"start_time":"2025-01-29 04:06:01","end_time":"2025-12-18 05:33:57","score":7.66,"status":"Completed"}
+{"assessment_id":974,"user_id":904,"skill_id":4,"start_time":"2025-01-21 11:06:04","end_time":"2025-06-02 22:38:09","score":6.42,"status":"Completed"}
+{"assessment_id":975,"user_id":965,"skill_id":5,"start_time":"2025-01-08 13:16:54","end_time":"2025-07-31 02:44:05","score":4.57,"status":"Completed"}
+{"assessment_id":976,"user_id":525,"skill_id":1,"start_time":"2025-01-30 06:18:03","end_time":"2025-05-07 07:38:23","score":6.2,"status":"In Progress"}
+{"assessment_id":977,"user_id":227,"skill_id":3,"start_time":"2025-01-11 16:23:16","end_time":"2025-08-31 16:27:23","score":4.15,"status":"Completed"}
+{"assessment_id":978,"user_id":144,"skill_id":2,"start_time":"2025-01-26 13:10:23","end_time":"2025-03-16 22:44:28","score":2.99,"status":"In Progress"}
+{"assessment_id":979,"user_id":306,"skill_id":1,"start_time":"2025-01-24 14:25:50","end_time":"2025-12-04 12:59:44","score":1.79,"status":"Completed"}
+{"assessment_id":980,"user_id":536,"skill_id":3,"start_time":"2025-01-26 21:19:51","end_time":"2025-03-13 13:32:38","score":3.92,"status":"In Progress"}
+{"assessment_id":981,"user_id":283,"skill_id":2,"start_time":"2025-01-25 11:38:25","end_time":"2025-06-15 20:06:24","score":5.05,"status":"In Progress"}
+{"assessment_id":982,"user_id":502,"skill_id":5,"start_time":"2025-01-22 17:35:11","end_time":"2025-05-11 18:23:05","score":0.2,"status":"In Progress"}
+{"assessment_id":983,"user_id":704,"skill_id":1,"start_time":"2025-01-24 20:49:16","end_time":"2025-03-06 05:56:43","score":9.6,"status":"In Progress"}
+{"assessment_id":984,"user_id":448,"skill_id":4,"start_time":"2025-01-06 13:18:54","end_time":"2025-09-23 05:35:25","score":7.14,"status":"In Progress"}
+{"assessment_id":985,"user_id":274,"skill_id":5,"start_time":"2025-01-09 17:38:42","end_time":"2025-08-24 11:40:15","score":0.36,"status":"In Progress"}
+{"assessment_id":986,"user_id":409,"skill_id":5,"start_time":"2025-01-07 10:35:24","end_time":"2025-01-03 12:49:51","score":1.19,"status":"In Progress"}
+{"assessment_id":987,"user_id":12,"skill_id":1,"start_time":"2025-01-25 01:57:54","end_time":"2025-06-19 19:49:26","score":7.96,"status":"Completed"}
+{"assessment_id":988,"user_id":908,"skill_id":5,"start_time":"2025-01-16 15:08:43","end_time":"2025-06-03 20:40:00","score":0.44,"status":"Completed"}
+{"assessment_id":989,"user_id":899,"skill_id":3,"start_time":"2025-01-14 17:27:46","end_time":"2025-09-11 08:08:30","score":9.61,"status":"In Progress"}
+{"assessment_id":990,"user_id":935,"skill_id":5,"start_time":"2025-01-26 16:54:39","end_time":"2025-07-23 20:42:34","score":5.13,"status":"In Progress"}
+{"assessment_id":991,"user_id":641,"skill_id":1,"start_time":"2025-01-08 05:49:17","end_time":"2025-02-19 04:41:41","score":7.88,"status":"In Progress"}
+{"assessment_id":992,"user_id":460,"skill_id":5,"start_time":"2025-01-26 23:41:24","end_time":"2025-09-21 05:42:39","score":2.68,"status":"Completed"}
+{"assessment_id":993,"user_id":80,"skill_id":1,"start_time":"2025-01-10 20:18:36","end_time":"2025-06-13 06:34:01","score":8.81,"status":"Completed"}
+{"assessment_id":994,"user_id":567,"skill_id":5,"start_time":"2025-01-03 04:56:38","end_time":"2025-12-15 06:05:12","score":9.12,"status":"Completed"}
+{"assessment_id":995,"user_id":42,"skill_id":2,"start_time":"2025-01-24 16:43:46","end_time":"2025-12-22 12:56:59","score":4.64,"status":"In Progress"}
+{"assessment_id":996,"user_id":461,"skill_id":3,"start_time":"2025-01-18 12:39:05","end_time":"2025-07-26 21:26:18","score":9.44,"status":"In Progress"}
+{"assessment_id":997,"user_id":444,"skill_id":5,"start_time":"2025-01-15 09:44:08","end_time":"2025-12-01 03:08:30","score":7.65,"status":"In Progress"}
+{"assessment_id":998,"user_id":692,"skill_id":2,"start_time":"2025-01-29 21:43:18","end_time":"2025-03-10 10:41:53","score":4.21,"status":"Completed"}
+{"assessment_id":999,"user_id":992,"skill_id":3,"start_time":"2025-01-30 01:12:13","end_time":"2025-03-01 06:23:34","score":4.49,"status":"Completed"}
+{"assessment_id":1000,"user_id":724,"skill_id":3,"start_time":"2025-01-02 21:43:27","end_time":"2025-03-03 05:38:42","score":1.9,"status":"In Progress"}]

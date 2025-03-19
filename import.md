@@ -1,0 +1,1 @@
+mongoimport --uri mongodb+srv://root:9989347528@demo.zzg5m.mongodb.net/SME --collection SME --type <FILETYPE> --file <FILENAME>
