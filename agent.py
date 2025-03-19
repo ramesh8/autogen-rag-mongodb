@@ -12,9 +12,9 @@ from autogen.retrieve_utils import TEXT_FORMATS
 load_dotenv()
 
 OPENAI_AI_KEY = os.getenv("OPENAI_API_KEY")
-MONGODB_URI = ""
+MONGODB_URI  = os.getenv("MONGODB_URI")
 
-print(OPENAI_AI_KEY, MONGODB_URI)
+print(MONGODB_URI)
 
 config_list = [{"model": "gpt-4o-mini", "api_key": OPENAI_AI_KEY, "api_type": "openai"}]
 assert len(config_list) > 0

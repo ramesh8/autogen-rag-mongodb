@@ -1,7 +1,14 @@
 import random
 import mysql.connector
-from pymongo import MongoClient
 import math
+from dotenv import load_dotenv
+import os
+
+from pymongo import MongoClient
+
+load_dotenv()
+
+MONGODB_URI = os.getenv("MONGODB_URI")
 
 mydb = mysql.connector.connect(
   host="localhost",
@@ -10,7 +17,7 @@ mydb = mysql.connector.connect(
   database="setu"
 )
 
-mongo = MongoClient("")
+mongo = MongoClient(MONGODB_URI)
 mdb = mongo["SME"]
 mcol = mdb["questions"]
 

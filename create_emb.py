@@ -26,8 +26,8 @@ def get_embedding(text):
         print(f"Error in get_embedding: {e}")
         return None
 
-uri = ""
-client = MongoClient(uri)
+
+client = MongoClient(MONGODB_URI)
 
 # Access your database and collection
 database = client["SME"]

@@ -1,10 +1,15 @@
 from pymongo.mongo_client import MongoClient
 from pymongo.operations import SearchIndexModel
 import time
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
+
+MONGODB_URI = os.getenv("MONGODB_URI")
 # Connect to your Atlas deployment
-uri = ""
-client = MongoClient(uri)
+
+client = MongoClient(MONGODB_URI)
 
 # Access your database and collection
 database = client["SME"]

@@ -1,7 +1,12 @@
 import pymongo
+from dotenv import load_dotenv
+import os
 
+load_dotenv()
+
+MONGODB_URI = os.getenv("MONGODB_URI")
 # connect to your Atlas cluster
-client = pymongo.MongoClient("")
+client = pymongo.MongoClient(MONGODB_URI)
 
 # define pipeline
 pipeline = [
