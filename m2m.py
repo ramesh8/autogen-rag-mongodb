@@ -10,7 +10,7 @@ mydb = mysql.connector.connect(
   database="setu"
 )
 
-mongo = MongoClient("mongodb+srv://root:620750648@demo.zzg5m.mongodb.net/")
+mongo = MongoClient("")
 mdb = mongo["SME"]
 mcol = mdb["questions"]
 

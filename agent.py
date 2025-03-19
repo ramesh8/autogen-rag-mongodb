@@ -12,7 +12,7 @@ from autogen.retrieve_utils import TEXT_FORMATS
 load_dotenv()
 
 OPENAI_AI_KEY = os.getenv("OPENAI_API_KEY")
-MONGODB_URI = "mongodb+srv://root:620750648@demo.zzg5m.mongodb.net/"
+MONGODB_URI = ""
 
 print(OPENAI_AI_KEY, MONGODB_URI)
 

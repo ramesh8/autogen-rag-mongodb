@@ -1,7 +1,7 @@
 import pymongo
 
 # connect to your Atlas cluster
-client = pymongo.MongoClient("mongodb+srv://root:620750648@demo.zzg5m.mongodb.net/")
+client = pymongo.MongoClient("")
 
 # define pipeline
 pipeline = [
