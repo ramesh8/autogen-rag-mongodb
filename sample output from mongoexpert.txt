@@ -1,0 +1,44 @@
+{
+  "query": [
+    {
+      "$lookup": {
+        "from": "Question_TagMap",
+        "localField": "question_id",
+        "foreignField": "question_id",
+        "as": "tag_mapping"
+      }
+    },
+    {
+      "$lookup": {
+        "from": "Tags",
+        "localField": "tag_mapping.tag_id",
+        "foreignField": "tag_id",
+        "as": "tags"
+      }
+    },
+    {
+      "$match": {
+        "tags.tag_name": "Math"
+      }
+    },
+    {
+      "$sample": { "size": 10 }
+    },
+    {
+      "$project": {
+        "_id": 0,
+        "question_id": 1,
+        "question_text": 1,
+        "difficulty_level": 1,
+        "question_type": 1
+      }
+    }
+  ],
+  "title_definition": {
+    "question_id": "Question ID",
+    "question_text": "Question Text",
+    "difficulty_level": "Difficulty Level",
+    "question_type": "Question Type"
+  },
+  "base_collection": "Questions"
+}

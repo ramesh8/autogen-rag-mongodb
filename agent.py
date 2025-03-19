@@ -8,6 +8,7 @@ from autogen import AssistantAgent
 from autogen.agentchat.contrib.retrieve_assistant_agent import RetrieveAssistantAgent
 from autogen.agentchat.contrib.retrieve_user_proxy_agent import RetrieveUserProxyAgent
 from autogen.retrieve_utils import TEXT_FORMATS
+import openai
 
 load_dotenv()
 
@@ -34,6 +35,31 @@ assistant = AssistantAgent(
     },
 )
 
+def get_embedding(text):
+    """Generate an embedding for the given text using OpenAI's API."""
+    EMBEDDING_MODEL = "text-embedding-3-small"
+    # Check for valid input
+    if not text or not isinstance(text, str):
+        if isinstance(text,list):
+            es = []
+            for t in text:
+                embedding = openai.embeddings.create(input=t, model=EMBEDDING_MODEL).data[0].embedding
+                es.append(embedding)
+            return es
+
+    try:
+        # Call OpenAI API to get the embedding
+        embedding = openai.embeddings.create(input=text, model=EMBEDDING_MODEL).data[0].embedding
+        return embedding
+    except Exception as e:
+        print(f"Error in get_embedding: {e}")
+        return None
+
+code_problem = "give me questions with difficulty level above 3"
+
+# qem = get_embedding(code_problem)
+# print(qem)
+
 ragproxyagent = RetrieveUserProxyAgent(
     name="MongoRAGagent",
     human_input_mode="NEVER",
@@ -45,6 +71,7 @@ ragproxyagent = RetrieveUserProxyAgent(
         "model": config_list[0]["model"],
         "vector_db": "mongodb",  # MongoDB Atlas database
         "collection_name": "questions",
+        "embedding_function": get_embedding,
         "db_config": {
             "connection_string": MONGODB_URI,  # MongoDB Atlas connection string
             "database_name": "SME",  # MongoDB Atlas database
@@ -60,7 +87,7 @@ ragproxyagent = RetrieveUserProxyAgent(
 
 assistant.reset()
 
-code_problem = "Types of salts?"
+
 chat_result = ragproxyagent.initiate_chat(assistant, message=ragproxyagent.message_generator, problem=code_problem)
 
 
