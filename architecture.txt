@@ -1,0 +1,14 @@
+1. nl => query => res => nl 
+2. nl => vector => res => nl
+
+queries  => all collections
+vectorstore => specific collection 
+
+manager agent
+query => rag [qv], rag [iv], rag[rv] | db [all]
+
+manager prompt
+routing to other agents
+
+
+

@@ -10,6 +10,11 @@ MONGODB_URI = os.getenv("MONGODB_URI")
 client = MongoClient(MONGODB_URI)
 database = client["SME"]
 
+# collection_projections = {
+#     "questions": {"_id":0, "content":0, "embedding":0},
+#     "users" : {""}
+
+# }
 
 def run_query(query, collection_name):
     try:
@@ -19,14 +24,15 @@ def run_query(query, collection_name):
         #remove embeddings and content
         result = []
         for item in res:
-            if "content" in item:
-                del item["content"]
-            if "embedding" in item:
-                del item["embedding"]
-            result.append(item)
-        return result
+            # if "content" in item:
+            #     del item["content"]
+            # if "embedding" in item:
+            #     del item["embedding"]
+            if "_id" in item:
+                result.append(str(item["_id"]))
+        return { "result": result, "status":"QUERYPASS" }
     except Exception as ex:
-        return str(ex)
+        return { "result": str(ex), "status":"QUERYFAIL" }
 
 from typing import TypedDict
 
