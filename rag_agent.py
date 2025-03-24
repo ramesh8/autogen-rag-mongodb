@@ -1,3 +1,4 @@
+import ast
 import os
 import getpass
 from dotenv import load_dotenv
@@ -27,7 +28,7 @@ assert len(config_list) > 0
 
 assistant = AssistantAgent(
     name="assistant",
-    system_message="You are a helpful assistant. Answer the questions using only provided context. Do not answer from your pre existining knowledge.",
+    system_message="You are a helpful assistant. Answer the questions using only provided context. Do not answer from your pre-existing knowledge.",
     llm_config={
         "timeout": 600,
         "cache_seed": 42,
@@ -90,6 +91,9 @@ def get_ragagent_response(query):
     # code_problem = "give me questions with difficulty level above 3"
     chat_result = ragproxyagent.initiate_chat(assistant, message=ragproxyagent.message_generator, problem=query)
     #todo: instead of sending chat_result, process it and send docs only
-    return chat_result.chat_history[-1]
+    # return chat_result.chat_history[-1]
+    res = chat_result.chat_history[-1]
+    return res
+        
 
 # print(chat_result)

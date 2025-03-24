@@ -23,7 +23,8 @@ def get_document(id, collection_name):
         doc = collection.find_one({"_id":ObjectId(id)},collection_projections[collection_name] if collection_name in collection_projections else {})
         return doc
     except Exception as ex:
-        return { "source":"get_document", "error": str(ex) }
+        # return { "source":"get_document", "error": str(ex) }
+        return id
 
 
 def run_query(query, collection_name):
