@@ -88,6 +88,8 @@ def get_dbagent_response(query):
         res_json = ast.literal_eval(res['content'])
         docs  = res_json['result']
         col_name = res_json["collection"]
+        #sometimes the agent will bring direct answers instead of ids.
+        #handle this case
         for doc in docs:
             document = get_document(doc, col_name)
             if "_id" in document:
