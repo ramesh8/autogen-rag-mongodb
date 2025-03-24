@@ -90,6 +90,8 @@ def get_dbagent_response(query):
         col_name = res_json["collection"]
         for doc in docs:
             document = get_document(doc, col_name)
+            if "_id" in document:
+                del document["_id"]
             alldocs.append(document)
         return alldocs
     else:
