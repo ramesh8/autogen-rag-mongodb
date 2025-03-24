@@ -51,6 +51,9 @@
             <input type="text" class="form-control" placeholder="Question" aria-label="Ask" aria-describedby="button-ask" id="question">
             <button class="btn btn-outline-secondary" type="button" id="button-ask" onclick="sendquestion()">Send</button>
           </div>
+          <div id="vs_result">
+
+          </div>
         </div>
       </div>
 </div>
@@ -64,6 +67,9 @@
           <div class="input-group mb-3">
             <input type="text" class="form-control" placeholder="Question" aria-label="Ask" aria-describedby="button-query" id="query">
             <button class="btn btn-outline-secondary" type="button" id="button-query" onclick="sendquery()">Send</button>
+          </div>
+          <div id="qe_result">
+            
           </div>
         </div>
       </div>
@@ -83,13 +89,21 @@
             var q = document.querySelector("#query").value;
             console.log(q);
             var url = `/dbagent/${q}`;
-            fetch(url).then(res=>res.json()).then(res=>console.log(res));
+            fetch(url).then(res=>res.json()).then(res=>{
+              console.log(res);
+              var ele = document.querySelector("#qe_result");
+              ele.innerHTML = `<pre>${JSON.stringify(res, undefined, 2)}</pre>`;
+            });
         }
         function sendquestion(){
             var q = document.querySelector("#question").value;
             console.log(q);
             var url = `/ragagent/${q}`;
-            fetch(url).then(res=>res.json()).then(res=>console.log(res));
+            fetch(url).then(res=>res.json()).then(res=>{
+              console.log(res);
+              var ele = document.querySelector("#vs_result");
+              ele.innerHTML = `<pre>${JSON.stringify(res, undefined, 2)}</pre>`;
+            });
         }
     </script>
     <style>
