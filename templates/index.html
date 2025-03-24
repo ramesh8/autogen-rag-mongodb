@@ -1,0 +1,144 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <title>SME</title>
+  </head>
+  <body>
+    
+    <ul class="nav nav-tabs mb-3">
+        <li class="nav-item">
+          <a class="nav-link active" aria-current="page" href="#">🤖 Agents</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">🛢 Database</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">🔢 Embeddings</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">🐞 Bugs</a>
+        </li>
+      </ul>
+
+    <div class="container">
+        <div style="margin-bottom: 64px;">
+        <div class="heading mb-3" >
+            Multi Agent <span class="tooltipped" data-bs-toggle="tooltip" data-bs-placement="top" title="Retrieval-Augmented Generation">RAG</span> Solution for <span class="tooltipped"  data-bs-toggle="tooltip" data-bs-placement="top" title="Subject Matter Expert">SME </span>
+        </div>
+        <div class="para mb-3">
+            <blockquote><h3>AI systems that combine <b>retrieval-based</b> and <b>generation-based</b> approaches to provide more accurate and contextually relevant responses ...</h3></blockquote>
+        </div>
+    </div>
+<div class="row mt-3">
+    <div class="col-sm-6 d-flex justify-content-center">
+    <div class="card mb-3">
+        <div style="background:url('https://images.unsplash.com/photo-1529078155058-5d716f45d604?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8bnVtYmVyc3xlbnwwfHwwfHx8MA%3D%3D'); height: 64px; display: block;">
+            </div>
+        <div class="card-body">
+          <h5 class="card-title text-primary">Vector Search based Agent</h5>
+          <p class="card-text">It Uses vector databases to store and retrieve information, allowing Large Language Models (LLMs) to generate responses grounded in specific knowledge bases.</p>
+          <div class="chatbox">
+
+          </div>
+          <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Question" aria-label="Ask" aria-describedby="button-ask" id="question">
+            <button class="btn btn-outline-secondary" type="button" id="button-ask" onclick="sendquestion()">Send</button>
+          </div>
+        </div>
+      </div>
+</div>
+<div class="col-sm-6 d-flex justify-content-center">
+      <div class="card mb-3">
+        <div style="background:url('https://media.istockphoto.com/id/537331500/photo/programming-code-abstract-technology-background-of-software-deve.webp?a=1&b=1&s=612x612&w=0&k=20&c=tYuiZwlaXjvdPwGxjZbQBdtcgG_i3SambRbsaGuW1jM='); height:64px; display: block;">
+        </div>
+        <div class="card-body">
+          <h5 class="card-title text-primary">Mongo Query Execution Agent</h5>
+          <p class="card-text">Powered by MongoDB Atlas & Autogen, it generates and validates MongoDB queries based on user questions, then executes them for data retrieval. The retrieved data can be presented directly to the user or enhanced using an LLM to generate insightful responses.</p>
+          <div class="input-group mb-3">
+            <input type="text" class="form-control" placeholder="Question" aria-label="Ask" aria-describedby="button-query" id="query">
+            <button class="btn btn-outline-secondary" type="button" id="button-query" onclick="sendquery()">Send</button>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    </div>
+
+    
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
+    <script type="text/javascript">
+        var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'))
+        var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl)
+        })
+
+        function sendquery(){
+            var q = document.querySelector("#query").value;
+            console.log(q);
+            var url = `/dbagent/${q}`;
+            fetch(url).then(res=>res.json()).then(res=>console.log(res));
+        }
+        function sendquestion(){
+            var q = document.querySelector("#question").value;
+            console.log(q);
+            var url = `/ragagent/${q}`;
+            fetch(url).then(res=>res.json()).then(res=>console.log(res));
+        }
+    </script>
+    <style>
+        .tooltipped { 
+            color:chocolate;
+            /* font-weight: bold; */
+            cursor: pointer;
+        }
+        .heading {
+            font-size: large;
+            font-weight: bold;
+        }
+        .para {
+            margin-bottom: 16px;
+        }
+        blockquote {
+            border:none;
+            font-family:Georgia, "Times New Roman", Times, serif;
+            /* margin-bottom:-30px; */
+            position: relative; 
+            max-width: 400px; 
+            /* margin: 0 auto;  */
+            padding-left: 0.4em; 
+        }
+
+        blockquote h3 {
+            font-size:large;
+        }
+
+        blockquote h3:before { 
+            content: "\201C";
+            font-weight: bold;
+            font-size:60px;
+            color:#889c0b;
+            position: absolute; 
+            top: -0.2em;
+            left: -0.5em; 
+            font-family: 'Georgia'; 
+        } 
+        blockquote h3:after { 
+            content: "\201D";
+            font-weight: bold;
+            font-size:60px;
+            color:#889c0b;
+            position: absolute; 
+            bottom: -0.6em;
+            right: 0; 
+            font-family: 'Georgia'; 
+        }
+    </style>
+  </body>
+</html>

@@ -9,3 +9,6 @@ chromadb
 python_dotenv
 ag2[openai]
 ag2[retrievechat]
+fastapi
+jinja2
+uvicorn[standard]

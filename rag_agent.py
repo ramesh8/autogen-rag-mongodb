@@ -15,15 +15,15 @@ load_dotenv()
 OPENAI_AI_KEY = os.getenv("OPENAI_API_KEY")
 MONGODB_URI  = os.getenv("MONGODB_URI")
 
-print(MONGODB_URI)
+# print(MONGODB_URI)
 
 config_list = [{"model": "gpt-4o-mini", "api_key": OPENAI_AI_KEY, "api_type": "openai"}]
 assert len(config_list) > 0
-print("models to use: ", [config_list[i]["model"] for i in range(len(config_list))])
+# print("models to use: ", [config_list[i]["model"] for i in range(len(config_list))])
 
 
-print("Accepted file formats for `docs_path`:")
-print(TEXT_FORMATS)
+# print("Accepted file formats for `docs_path`:")
+# print(TEXT_FORMATS)
 
 assistant = AssistantAgent(
     name="assistant",
@@ -55,7 +55,7 @@ def get_embedding(text):
         print(f"Error in get_embedding: {e}")
         return None
 
-code_problem = "give me questions with difficulty level above 3"
+
 
 # qem = get_embedding(code_problem)
 # print(qem)
@@ -85,10 +85,11 @@ ragproxyagent = RetrieveUserProxyAgent(
     code_execution_config=False,  # set to False if you don't want to execute the code
 )
 
-assistant.reset()
-
-
-chat_result = ragproxyagent.initiate_chat(assistant, message=ragproxyagent.message_generator, problem=code_problem)
-
+def get_ragagent_response(query):
+    assistant.reset()
+    # code_problem = "give me questions with difficulty level above 3"
+    chat_result = ragproxyagent.initiate_chat(assistant, message=ragproxyagent.message_generator, problem=query)
+    #todo: instead of sending chat_result, process it and send docs only
+    return chat_result.chat_history[-1]
 
 # print(chat_result)

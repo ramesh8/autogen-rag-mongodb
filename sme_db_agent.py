@@ -3,7 +3,7 @@ import json
 from prompts.mognoexpert import mongo_expert_prompt
 
 import autogen
-from tools.mongo_executor import execute_mongo_queries
+from tools.mongo_executor import execute_mongo_queries, get_document
 from utils import llmconfig
 from autogen import Agent, register_function
 
@@ -11,9 +11,7 @@ mongo_expert_agent = autogen.AssistantAgent(
         name="Mongo_Expert_Agent",
         system_message=mongo_expert_prompt,
         llm_config=llmconfig,
-        human_input_mode="NEVER",
-        # is_termination_msg=lambda msg: '"status":"querypass"' in msg["content"].lower(), 
-        
+        human_input_mode="NEVER" 
     )
 
 query_check_agent = autogen.AssistantAgent(
@@ -21,8 +19,7 @@ query_check_agent = autogen.AssistantAgent(
         system_message="You are a helpful AI Assistant."
         "You have to check the given query is valid and passes the QA using the provided tool.",
         llm_config=llmconfig,
-        human_input_mode="NEVER",
-        # is_termination_msg=lambda msg: '"status":"querypass"' in msg["content"].lower(), 
+        human_input_mode="NEVER"
     )
 
 user_proxy = autogen.UserProxyAgent(
@@ -33,8 +30,7 @@ user_proxy = autogen.UserProxyAgent(
             "work_dir": "coding",
             "use_docker": False,
         },
-        max_consecutive_auto_reply=10,
-        # is_termination_msg=lambda msg: "terminate" in msg["content"].lower(), 
+        max_consecutive_auto_reply=10
     )
 
 register_function(
@@ -73,16 +69,44 @@ groupchat = autogen.GroupChat(
     agents=[mongo_expert_agent, query_check_agent, user_proxy],
     messages=[],
     max_round=10,
-    speaker_selection_method= custom_speaker_selection,#'round_robin',
-    allow_repeat_speaker=False
+    speaker_selection_method= custom_speaker_selection,
 )
 
 manager = autogen.GroupChatManager(
     groupchat=groupchat, 
     llm_config=llmconfig,
-    is_termination_msg=lambda msg: '"status":"querypass"' in msg["content"].lower(),
+    silent=False
     )
 
-group_chat_result = user_proxy.initiate_chat(
-    manager, message=f"Find 10 questions in Python"
-)
+def get_dbagent_response(query):
+    group_chat_result = user_proxy.initiate_chat(
+        manager, message=query
+    )
+    res = group_chat_result.chat_history[-1]
+    docs = []
+    if 'content' in res:
+        res_json = ast.literal_eval(res['content'])
+        docs  = res_json['result']
+        col_name = res_json["collection"]
+        for doc in docs:
+            document = get_document(doc, col_name)
+            docs.append(document)
+        return docs
+    else:
+        return{"error":f"invalid response from agent: {res}"}
+
+# if __name__ == "__main__":
+#     try:
+#         res = group_chat_result.chat_history[-1]
+#         if 'content' in res:
+#             res_json = ast.literal_eval(res['content'])
+#             docs  = res_json['result']
+#             col_name = res_json["collection"]
+#             for doc in docs:
+#                 document = get_document(doc, col_name)
+#                 print(document)
+#         else:
+#             print("invalid response from agent", res)
+#     except Exception as ex:
+#         print("exception at chat result", str(ex))
+

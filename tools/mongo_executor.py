@@ -3,6 +3,7 @@ import os
 from typing import Any, Dict
 from dotenv import load_dotenv
 from pymongo import MongoClient
+from bson.objectid import ObjectId
 
 load_dotenv()
 
@@ -10,27 +11,30 @@ MONGODB_URI = os.getenv("MONGODB_URI")
 client = MongoClient(MONGODB_URI)
 database = client["SME"]
 
-# collection_projections = {
-#     "questions": {"_id":0, "content":0, "embedding":0},
-#     "users" : {""}
+collection_projections = {
+    "questions": {"_id":0, "content":0, "embedding":0},
+    #todo: remaining collections
+}
 
-# }
+def get_document(id, collection_name):
+    try:
+        collection = database[collection_name]
+        
+        doc = collection.find_one({"_id":ObjectId(id)},collection_projections[collection_name] if collection_name in collection_projections else {})
+        return doc
+    except Exception as ex:
+        return { "source":"get_document", "error": str(ex) }
+
 
 def run_query(query, collection_name):
     try:
         collection = database[collection_name]
         res = collection.aggregate(query)
-        #todo: process res, _id, ...?
-        #remove embeddings and content
         result = []
         for item in res:
-            # if "content" in item:
-            #     del item["content"]
-            # if "embedding" in item:
-            #     del item["embedding"]
             if "_id" in item:
                 result.append(str(item["_id"]))
-        return { "result": result, "status":"QUERYPASS" }
+        return { "result": result, "collection": collection_name, "status":"QUERYPASS" }
     except Exception as ex:
         return { "result": str(ex), "status":"QUERYFAIL" }
 
@@ -53,32 +57,3 @@ def execute_mongo_queries(response:QueryResponse) -> Any:
         return "base collection is missing"
     
     return run_query(response["query"], response["base_collection"])
-
-if __name__ == "__main__":
-    query = {
-            "query": [
-                {
-                    "$lookup": {
-                        "from": "skills",
-                        "localField": "skill_id",
-                        "foreignField": "skill_id",
-                        "as": "skill_info"
-                    }
-                },
-                {
-                    "$match": {
-                        "skill_info.name": "Java"
-                    }
-                },
-                {
-                    "$limit": 10
-                }
-            ],
-            "title": ["question_id", "question_text", "question_type", "difficulty_level"],
-            "base_collection": "questions"
-        }
-    
-
-    res = execute_mongo_queries(query)
-
-    print(res)
