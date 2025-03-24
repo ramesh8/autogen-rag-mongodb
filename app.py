@@ -17,7 +17,7 @@ templates = Jinja2Templates(directory="templates")
 @app.get("/dbagent/{query}", response_class=JSONResponse)
 async def read_item(request: Request, query: str):
     res = get_dbagent_response(query)
-
+    
     return res
 
 @app.get("/ragagent/{query}", response_class=JSONResponse)

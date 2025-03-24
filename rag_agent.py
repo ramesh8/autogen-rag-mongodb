@@ -27,7 +27,7 @@ assert len(config_list) > 0
 
 assistant = AssistantAgent(
     name="assistant",
-    system_message="You are a helpful assistant.",
+    system_message="You are a helpful assistant. Answer the questions using only provided context. Do not answer from your pre existining knowledge.",
     llm_config={
         "timeout": 600,
         "cache_seed": 42,

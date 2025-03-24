@@ -83,15 +83,15 @@ def get_dbagent_response(query):
         manager, message=query
     )
     res = group_chat_result.chat_history[-1]
-    docs = []
+    alldocs = []
     if 'content' in res:
         res_json = ast.literal_eval(res['content'])
         docs  = res_json['result']
         col_name = res_json["collection"]
         for doc in docs:
             document = get_document(doc, col_name)
-            docs.append(document)
-        return docs
+            alldocs.append(document)
+        return alldocs
     else:
         return{"error":f"invalid response from agent: {res}"}
 
